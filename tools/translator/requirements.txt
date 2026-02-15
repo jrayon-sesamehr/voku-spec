@@ -1,0 +1,3 @@
+# Voku Translator
+# No external dependencies required - uses Python stdlib only.
+# Python 3.7+ required.

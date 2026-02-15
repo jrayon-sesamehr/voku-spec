@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voku Translator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1><span>Voku</span> Translator</h1>
+        <p>Bidirectional translation for the language of clear speech</p>
+    </header>
+
+    <main>
+        <div class="translator-container">
+            <div class="direction-bar">
+                <span class="lang-label" id="srcLang">Voku</span>
+                <button class="swap-btn" id="swapBtn" title="Swap direction">&#8646;</button>
+                <span class="lang-label" id="tgtLang">English</span>
+            </div>
+
+            <div class="text-panels">
+                <div class="text-panel">
+                    <label for="inputText">Input</label>
+                    <textarea id="inputText" placeholder="Enter text to translate..."></textarea>
+                </div>
+                <div class="text-panel">
+                    <label>Output</label>
+                    <div class="output-text placeholder" id="outputText">Translation will appear here...</div>
+                </div>
+            </div>
+
+            <div class="action-bar">
+                <span class="char-count" id="charCount">0 characters</span>
+                <button class="translate-btn" id="translateBtn">Translate</button>
+            </div>
+        </div>
+
+        <div class="packs-section" id="packsSection" style="display:none;">
+            <h3>Expansion Packs</h3>
+            <div class="pack-list" id="packList">
+                <!-- Populated by JS if packs are available -->
+            </div>
+        </div>
+
+        <div class="examples-section">
+            <h3>Example sentences</h3>
+            <div class="example-list" id="exampleList">
+                <div class="example-item" data-text="Ka sol take toka." data-dir="voku-en">
+                    <div class="voku-text">Ka sol take toka.</div>
+                    <div class="eng-text">I execute the task.</div>
+                </div>
+                <div class="example-item" data-text="Ve nor kele kela?" data-dir="voku-en">
+                    <div class="voku-text">Ve nor kele kela?</div>
+                    <div class="eng-text">Do you know the information?</div>
+                </div>
+                <div class="example-item" data-text="To nor voke mesa." data-dir="voku-en">
+                    <div class="voku-text">To nor voke mesa.</div>
+                    <div class="eng-text">Communicate the message.</div>
+                </div>
+                <div class="example-item" data-text="Ka sol zo-te-fi-sene pera eno teru." data-dir="voku-en">
+                    <div class="voku-text">Ka sol zo-te-fi-sene pera eno teru.</div>
+                    <div class="eng-text">I observed and completed perceiving an error in the system.</div>
+                </div>
+                <div class="example-item" data-text="Ka sol-urgi neke nor voke-pro sol kela." data-dir="voku-en">
+                    <div class="voku-text">Ka sol-urgi neke nor voke-pro sol kela.</div>
+                    <div class="eng-text">With urgency, I need you to communicate the information to me.</div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,764 @@
+{
+  "name": "scifi",
+  "version": "1.0",
+  "domain": "Science Fiction",
+  "word_count": 57,
+  "words": [
+    {
+      "voku": "hima-kosa",
+      "english": "planet",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma.ˈko.sa/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from hima (sky) + kosa (body) — sky body",
+      "example": {
+        "voku": "Ka sana-nava move eko hima-kosa fari.",
+        "gloss": "DECL starship move toward planet far",
+        "english": "The starship travels to a distant planet."
+      }
+    },
+    {
+      "voku": "sana-kema",
+      "english": "orbit",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈke.ma/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from sana (star) + kema (path) — star path",
+      "example": {
+        "voku": "Ka hima-kosa move eno sana-kema.",
+        "gloss": "DECL planet move in orbit",
+        "english": "The planet moves in its orbit."
+      }
+    },
+    {
+      "voku": "hasa-sana",
+      "english": "comet",
+      "pos": "noun",
+      "ipa": "/ˈha.sa.ˈsa.na/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from hasa (hair/tail) + sana (star) — tailed star",
+      "example": {
+        "voku": "Ka hasa-sana move ulo hima-tor.",
+        "gloss": "DECL comet move through universe",
+        "english": "The comet travels through the universe."
+      }
+    },
+    {
+      "voku": "tufa-sana",
+      "english": "nebula",
+      "pos": "noun",
+      "ipa": "/ˈtu.fa.ˈsa.na/",
+      "cefr": "B2",
+      "field": "space",
+      "etymology": "from tufa (cloud) + sana (star) — star cloud",
+      "example": {
+        "voku": "Ka tufa-sana ure vasi en lumi.",
+        "gloss": "DECL nebula be large and bright",
+        "english": "The nebula is large and bright."
+      }
+    },
+    {
+      "voku": "sela-hima",
+      "english": "asteroid",
+      "pos": "noun",
+      "ipa": "/ˈse.la.ˈhi.ma/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from sela (stone) + hima (sky) — sky stone",
+      "example": {
+        "voku": "Ka sela-hima move eno sana-kema.",
+        "gloss": "DECL asteroid move in orbit",
+        "english": "The asteroid moves in orbit."
+      }
+    },
+    {
+      "voku": "sana-supa",
+      "english": "galaxy",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from sana (star) + supa (group) — star group",
+      "example": {
+        "voku": "Ka sana-supa tuve meli-ari sana.",
+        "gloss": "DECL galaxy have billion star",
+        "english": "The galaxy has billions of stars."
+      }
+    },
+    {
+      "voku": "hima-tor",
+      "english": "universe",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma.ˈtor/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from hima (sky) + tor (all) — all of sky/space",
+      "example": {
+        "voku": "Ka hima-tor ure vasi sino fine.",
+        "gloss": "DECL universe be vast without end",
+        "english": "The universe is vast without end."
+      }
+    },
+    {
+      "voku": "sana-foma",
+      "english": "constellation",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "space",
+      "etymology": "from sana (star) + foma (structure) — star pattern",
+      "example": {
+        "voku": "Ka sana-foma pine fora eno hima.",
+        "gloss": "DECL constellation form image in sky",
+        "english": "The constellation forms a pattern in the sky."
+      }
+    },
+    {
+      "voku": "furi-hima",
+      "english": "void, vacuum",
+      "pos": "noun",
+      "ipa": "/ˈfu.ri.ˈhi.ma/",
+      "cefr": "B2",
+      "field": "space",
+      "etymology": "from furi (empty) + hima (sky) — empty space",
+      "example": {
+        "voku": "Ka furi-hima ure eno tore de-sana.",
+        "gloss": "DECL void be between star",
+        "english": "The void lies between the stars."
+      }
+    },
+    {
+      "voku": "fale-sana",
+      "english": "meteor",
+      "pos": "noun",
+      "ipa": "/ˈfa.le.ˈsa.na/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from fale (fall) + sana (star) — falling star",
+      "example": {
+        "voku": "Ka fale-sana lumi eno hima.",
+        "gloss": "DECL meteor glow in sky",
+        "english": "The meteor glows in the sky."
+      }
+    },
+    {
+      "voku": "luna-heke",
+      "english": "eclipse",
+      "pos": "noun",
+      "ipa": "/ˈlu.na.ˈhe.ke/",
+      "cefr": "B2",
+      "field": "space",
+      "etymology": "from luna (moon) + heke (hide) — moon hiding",
+      "example": {
+        "voku": "Ka luna-heke heke sola.",
+        "gloss": "DECL eclipse hide sun",
+        "english": "The eclipse hides the sun."
+      }
+    },
+    {
+      "voku": "pure-tera",
+      "english": "gravity",
+      "pos": "noun",
+      "ipa": "/ˈpu.re.ˈte.ra/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from pure (pull) + tera (earth) — earth pull",
+      "example": {
+        "voku": "Ka pure-tera sake kosa eno hima-kosa.",
+        "gloss": "DECL gravity hold body on planet",
+        "english": "Gravity holds things on the planet."
+      }
+    },
+    {
+      "voku": "hima-loka",
+      "english": "outer space, station",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma.ˈlo.ka/",
+      "cefr": "B1",
+      "field": "space",
+      "etymology": "from hima (sky) + loka (place) — sky place",
+      "example": {
+        "voku": "Ka sana-nava move eno hima-loka.",
+        "gloss": "DECL starship move in outer-space",
+        "english": "The starship moves through outer space."
+      }
+    },
+    {
+      "voku": "pile-kosa",
+      "english": "force",
+      "pos": "noun",
+      "ipa": "/ˈpi.le.ˈko.sa/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from pile (press) + kosa (body) — pressing force",
+      "example": {
+        "voku": "Ka pile-kosa pure kosa eko tera.",
+        "gloss": "DECL force pull body toward earth",
+        "english": "The force pulls the body toward earth."
+      }
+    },
+    {
+      "voku": "ama-foma",
+      "english": "wave",
+      "pos": "noun",
+      "ipa": "/ˈa.ma.ˈfo.ma/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from ama (water/liquid) + foma (structure) — liquid pattern",
+      "example": {
+        "voku": "Ka ama-foma fore pova ulo furi-hima.",
+        "gloss": "DECL wave carry energy through void",
+        "english": "The wave carries energy through the void."
+      }
+    },
+    {
+      "voku": "puli-kosa",
+      "english": "particle",
+      "pos": "noun",
+      "ipa": "/ˈpu.li.ˈko.sa/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from puli (small) + kosa (body) — small body",
+      "example": {
+        "voku": "Ka puli-kosa move rapi eno furi-hima.",
+        "gloss": "DECL particle move fast in void",
+        "english": "The particle moves fast through the void."
+      }
+    },
+    {
+      "voku": "puli-pova",
+      "english": "atom",
+      "pos": "noun",
+      "ipa": "/ˈpu.li.ˈpo.va/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from puli (small) + pova (energy) — small energy unit",
+      "example": {
+        "voku": "Ka tor kosa meke-pu eso puli-pova.",
+        "gloss": "DECL all thing create-PASS from atom",
+        "english": "Everything is made of atoms."
+      }
+    },
+    {
+      "voku": "hoti-afa",
+      "english": "plasma",
+      "pos": "noun",
+      "ipa": "/ˈho.ti.ˈa.fa/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from hoti (hot) + afa (air) — hot gas",
+      "example": {
+        "voku": "Ka sana meke-pu eso hoti-afa.",
+        "gloss": "DECL star create-PASS from plasma",
+        "english": "Stars are made of plasma."
+      }
+    },
+    {
+      "voku": "pure-pova",
+      "english": "magnetic force",
+      "pos": "noun",
+      "ipa": "/ˈpu.re.ˈpo.va/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from pure (pull) + pova (energy) — pulling energy",
+      "example": {
+        "voku": "Ka pure-pova kore sana-nava eso safi-luma.",
+        "gloss": "DECL magnetic-force guard starship from radiation",
+        "english": "Magnetic force shields the starship from radiation."
+      }
+    },
+    {
+      "voku": "ali-hima",
+      "english": "dimension",
+      "pos": "noun",
+      "ipa": "/ˈa.li.ˈhi.ma/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from ali (other) + hima (sky/space) — other space",
+      "example": {
+        "voku": "Ka rapi-move aze pora eko ali-hima.",
+        "gloss": "DECL warp open door toward dimension",
+        "english": "The warp opens a door to another dimension."
+      }
+    },
+    {
+      "voku": "safi-luma",
+      "english": "radiation",
+      "pos": "noun",
+      "ipa": "/ˈsa.fi.ˈlu.ma/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from safi (spread) + luma (light) — spreading light",
+      "example": {
+        "voku": "Ka safi-luma eso sana ure mali.",
+        "gloss": "DECL radiation from star be harmful",
+        "english": "Radiation from the star is harmful."
+      }
+    },
+    {
+      "voku": "sana-nava",
+      "english": "starship",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈna.va/",
+      "cefr": "B1",
+      "field": "spacecraft",
+      "etymology": "from sana (star) + nava (ship) — star ship",
+      "example": {
+        "voku": "Ka sana-nava move eko sana-supa ali.",
+        "gloss": "DECL starship move toward galaxy other",
+        "english": "The starship travels to another galaxy."
+      }
+    },
+    {
+      "voku": "move-kila",
+      "english": "engine",
+      "pos": "noun",
+      "ipa": "/ˈmo.ve.ˈki.la/",
+      "cefr": "B1",
+      "field": "spacecraft",
+      "etymology": "from move (move) + kila (tool) — movement tool",
+      "example": {
+        "voku": "Ka move-kila pore pova eko sana-nava.",
+        "gloss": "DECL engine give energy toward starship",
+        "english": "The engine provides power to the starship."
+      }
+    },
+    {
+      "voku": "kore-mura",
+      "english": "shield",
+      "pos": "noun",
+      "ipa": "/ˈko.re.ˈmu.ra/",
+      "cefr": "B1",
+      "field": "spacecraft",
+      "etymology": "from kore (guard) + mura (wall) — guarding wall",
+      "example": {
+        "voku": "Ka kore-mura kore sana-nava eso safi-luma.",
+        "gloss": "DECL shield guard starship from radiation",
+        "english": "The shield protects the starship from radiation."
+      }
+    },
+    {
+      "voku": "sene-kila",
+      "english": "sensor",
+      "pos": "noun",
+      "ipa": "/ˈse.ne.ˈki.la/",
+      "cefr": "B1",
+      "field": "spacecraft",
+      "etymology": "from sene (sense) + kila (tool) — sensing tool",
+      "example": {
+        "voku": "Ka sene-kila tore hima-kosa eno furi-hima.",
+        "gloss": "DECL sensor search planet in void",
+        "english": "The sensor searches for planets in space."
+      }
+    },
+    {
+      "voku": "eso-fela",
+      "english": "hull",
+      "pos": "noun",
+      "ipa": "/ˈe.so.ˈfe.la/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from eso (outside) + fela (skin) — outer skin",
+      "example": {
+        "voku": "Ka eso-fela de-sana-nava ure kumi.",
+        "gloss": "DECL hull of-starship be strong",
+        "english": "The starship's hull is strong."
+      }
+    },
+    {
+      "voku": "pine-zena",
+      "english": "cockpit",
+      "pos": "noun",
+      "ipa": "/ˈpi.ne.ˈze.na/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from pine (pilot/steer) + zena (room) — steering room",
+      "example": {
+        "voku": "Ka pine-runa ure eno pine-zena.",
+        "gloss": "DECL pilot be in cockpit",
+        "english": "The pilot is in the cockpit."
+      }
+    },
+    {
+      "voku": "sere-zena",
+      "english": "cargo hold",
+      "pos": "noun",
+      "ipa": "/ˈse.re.ˈze.na/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from sere (store) + zena (room) — storage room",
+      "example": {
+        "voku": "Ka sere-zena sere mani kosa.",
+        "gloss": "DECL cargo-hold store many thing",
+        "english": "The cargo hold stores many things."
+      }
+    },
+    {
+      "voku": "nava-loka",
+      "english": "dock",
+      "pos": "noun",
+      "ipa": "/ˈna.va.ˈlo.ka/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from nava (ship) + loka (place) — ship place",
+      "example": {
+        "voku": "Ka sana-nava ore eno nava-loka.",
+        "gloss": "DECL starship arrive at dock",
+        "english": "The starship arrives at the dock."
+      }
+    },
+    {
+      "voku": "luma-zimi",
+      "english": "laser",
+      "pos": "noun",
+      "ipa": "/ˈlu.ma.ˈzi.mi/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from luma (light) + zimi (sharp) — sharp light",
+      "example": {
+        "voku": "Ka luma-zimi kire sela-hima.",
+        "gloss": "DECL laser cut asteroid",
+        "english": "The laser cuts the asteroid."
+      }
+    },
+    {
+      "voku": "rapi-move",
+      "english": "warp, jump",
+      "pos": "noun",
+      "ipa": "/ˈra.pi.ˈmo.ve/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from rapi (fast) + move (move) — fast movement",
+      "example": {
+        "voku": "Ka sana-nava ule rapi-move poro ore rapi.",
+        "gloss": "DECL starship use warp for arrive fast",
+        "english": "The starship uses warp to arrive quickly."
+      }
+    },
+    {
+      "voku": "pile-kila",
+      "english": "thruster",
+      "pos": "noun",
+      "ipa": "/ˈpi.le.ˈki.la/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from pile (press) + kila (tool) — pushing tool",
+      "example": {
+        "voku": "Ka pile-kila pine sana-nava eno hima-loka.",
+        "gloss": "DECL thruster steer starship in space",
+        "english": "The thruster steers the starship in space."
+      }
+    },
+    {
+      "voku": "sana-tore-kila",
+      "english": "probe",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈto.re.ˈki.la/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from sana (star) + tore (search) + kila (tool) — star search tool",
+      "example": {
+        "voku": "Ka sol sure sana-tore-kila eko hima-kosa.",
+        "gloss": "DECL 1SG send probe toward planet",
+        "english": "I send a probe to the planet."
+      }
+    },
+    {
+      "voku": "sana-zira",
+      "english": "satellite",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈzi.ra/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from sana (star) + zira (circle) — circling star object",
+      "example": {
+        "voku": "Ka sana-zira move aro hima-kosa.",
+        "gloss": "DECL satellite move around planet",
+        "english": "The satellite orbits the planet."
+      }
+    },
+    {
+      "voku": "sone-kila",
+      "english": "beacon, antenna",
+      "pos": "noun",
+      "ipa": "/ˈso.ne.ˈki.la/",
+      "cefr": "B2",
+      "field": "spacecraft",
+      "etymology": "from sone (sound) + kila (tool) — sound/signal tool",
+      "example": {
+        "voku": "Ka sone-kila sure seta eko sana-nava.",
+        "gloss": "DECL beacon send signal toward starship",
+        "english": "The beacon sends a signal to the starship."
+      }
+    },
+    {
+      "voku": "ali-runa",
+      "english": "alien",
+      "pos": "noun",
+      "ipa": "/ˈa.li.ˈru.na/",
+      "cefr": "B1",
+      "field": "alien",
+      "etymology": "from ali (other) + runa (agent) — other agent",
+      "example": {
+        "voku": "Ka ali-runa voke voku ali.",
+        "gloss": "DECL alien speak language other",
+        "english": "The alien speaks another language."
+      }
+    },
+    {
+      "voku": "vere-foma",
+      "english": "species",
+      "pos": "noun",
+      "ipa": "/ˈve.re.ˈfo.ma/",
+      "cefr": "B1",
+      "field": "alien",
+      "etymology": "from vere (life) + foma (structure) — life form",
+      "example": {
+        "voku": "Ka hima-kosa tuve mani vere-foma.",
+        "gloss": "DECL planet have many species",
+        "english": "The planet has many species."
+      }
+    },
+    {
+      "voku": "supa-tama",
+      "english": "colony",
+      "pos": "noun",
+      "ipa": "/ˈsu.pa.ˈta.ma/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from supa (group) + tama (cover/settle) — group settlement",
+      "example": {
+        "voku": "Ka supa-tama tire eno hima-kosa novi.",
+        "gloss": "DECL colony grow on planet new",
+        "english": "The colony grows on the new planet."
+      }
+    },
+    {
+      "voku": "supa-soma",
+      "english": "hive",
+      "pos": "noun",
+      "ipa": "/ˈsu.pa.ˈso.ma/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from supa (group) + soma (body) — group body",
+      "example": {
+        "voku": "Ka ali-runa vere eno supa-soma.",
+        "gloss": "DECL alien live in hive",
+        "english": "The aliens live in a hive."
+      }
+    },
+    {
+      "voku": "mute-runa",
+      "english": "mutant",
+      "pos": "noun",
+      "ipa": "/ˈmu.te.ˈru.na/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from mute (change) + runa (agent) — changed being",
+      "example": {
+        "voku": "Ka mute-runa tuve pova ta mu-nomi ti.",
+        "gloss": "DECL mutant have power REL NEG-normal",
+        "english": "The mutant has unusual powers."
+      }
+    },
+    {
+      "voku": "simi-runa",
+      "english": "clone",
+      "pos": "noun",
+      "ipa": "/ˈsi.mi.ˈru.na/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from simi (similar) + runa (agent) — similar being",
+      "example": {
+        "voku": "Ka simi-runa veke sami eni runa-sena.",
+        "gloss": "DECL clone look same as original",
+        "english": "The clone looks the same as the original."
+      }
+    },
+    {
+      "voku": "kufa-runa",
+      "english": "android",
+      "pos": "noun",
+      "ipa": "/ˈku.fa.ˈru.na/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from kufa (machine) + runa (agent) — machine being",
+      "example": {
+        "voku": "Ka kufa-runa take toka eni runa.",
+        "gloss": "DECL android do task like human",
+        "english": "The android performs tasks like a human."
+      }
+    },
+    {
+      "voku": "zuke-runa",
+      "english": "cyborg",
+      "pos": "noun",
+      "ipa": "/ˈzu.ke.ˈru.na/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from zuke (mix) + runa (agent) — mixed being",
+      "example": {
+        "voku": "Ka zuke-runa ure pati runa en pati kufa.",
+        "gloss": "DECL cyborg be part human and part machine",
+        "english": "The cyborg is part human and part machine."
+      }
+    },
+    {
+      "voku": "mina-runa",
+      "english": "telepath",
+      "pos": "noun",
+      "ipa": "/ˈmi.na.ˈru.na/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from mina (mind) + runa (agent) — mind agent",
+      "example": {
+        "voku": "Ka mina-runa lire mina de-runa ali.",
+        "gloss": "DECL telepath read mind of-person other",
+        "english": "The telepath reads other people's minds."
+      }
+    },
+    {
+      "voku": "vire-soma",
+      "english": "shapeshifter",
+      "pos": "noun",
+      "ipa": "/ˈvi.re.ˈso.ma/",
+      "cefr": "B2",
+      "field": "alien",
+      "etymology": "from vire (shape) + soma (body) — shape-changing body",
+      "example": {
+        "voku": "Ka vire-soma mute vire de-soma.",
+        "gloss": "DECL shapeshifter change shape of-body",
+        "english": "The shapeshifter changes its body's form."
+      }
+    },
+    {
+      "voku": "fari-loka",
+      "english": "outpost",
+      "pos": "noun",
+      "ipa": "/ˈfa.ri.ˈlo.ka/",
+      "cefr": "B1",
+      "field": "society",
+      "etymology": "from fari (far) + loka (place) — far place",
+      "example": {
+        "voku": "Ka fari-loka ure eno fini de-sana-supa.",
+        "gloss": "DECL outpost be at edge of-galaxy",
+        "english": "The outpost is at the edge of the galaxy."
+      }
+    },
+    {
+      "voku": "tor-teru",
+      "english": "federation",
+      "pos": "noun",
+      "ipa": "/ˈtor.ˈte.ru/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from tor (all) + teru (system) — all-system",
+      "example": {
+        "voku": "Ka tor-teru reku mani hima-kosa.",
+        "gloss": "DECL federation govern many planet",
+        "english": "The federation governs many planets."
+      }
+    },
+    {
+      "voku": "mu-reku-runa",
+      "english": "rebel",
+      "pos": "noun",
+      "ipa": "/ˈmu.ˈre.ku.ˈru.na/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from mu (neg) + reku (rule) + runa (agent) — rule-rejecting agent",
+      "example": {
+        "voku": "Ka mu-reku-runa mu-ule reku de-tor-teru.",
+        "gloss": "DECL rebel NEG-follow rule of-federation",
+        "english": "The rebel does not follow the federation's rules."
+      }
+    },
+    {
+      "voku": "heke-sele",
+      "english": "smuggler",
+      "pos": "noun",
+      "ipa": "/ˈhe.ke.ˈse.le/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from heke (hide) + sele (trade) — hidden trader",
+      "example": {
+        "voku": "Ka heke-sele fore kosa heke ulo hima-loka.",
+        "gloss": "DECL smuggler carry thing hidden through space",
+        "english": "The smuggler carries goods secretly through space."
+      }
+    },
+    {
+      "voku": "tina-tore-runa",
+      "english": "bounty hunter",
+      "pos": "noun",
+      "ipa": "/ˈti.na.ˈto.re.ˈru.na/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from tina (reward) + tore (search) + runa (agent) — reward-seeking agent",
+      "example": {
+        "voku": "Ka tina-tore-runa tore mu-reku-runa.",
+        "gloss": "DECL bounty-hunter search rebel",
+        "english": "The bounty hunter searches for the rebel."
+      }
+    },
+    {
+      "voku": "sana-tina",
+      "english": "credits (currency)",
+      "pos": "noun",
+      "ipa": "/ˈsa.na.ˈti.na/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from sana (star) + tina (reward) — star currency",
+      "example": {
+        "voku": "Ka sana-nava kele heno sana-tina.",
+        "gloss": "DECL starship cost hundred credit",
+        "english": "The starship costs a hundred credits."
+      }
+    },
+    {
+      "voku": "luma-fora",
+      "english": "hologram",
+      "pos": "noun",
+      "ipa": "/ˈlu.ma.ˈfo.ra/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from luma (light) + fora (image) — light image",
+      "example": {
+        "voku": "Ka luma-fora veke eni runa veri.",
+        "gloss": "DECL hologram look like person real",
+        "english": "The hologram looks like a real person."
+      }
+    },
+    {
+      "voku": "fasi-loka",
+      "english": "simulation",
+      "pos": "noun",
+      "ipa": "/ˈfa.si.ˈlo.ka/",
+      "cefr": "B2",
+      "field": "society",
+      "etymology": "from fasi (false) + loka (place) — false place",
+      "example": {
+        "voku": "Ka runa vere eno fasi-loka en mu-sene da-pre.",
+        "gloss": "DECL person live in simulation and NEG-know it",
+        "english": "The person lives in a simulation and doesn't know it."
+      }
+    },
+    {
+      "voku": "pova",
+      "english": "energy, power",
+      "pos": "noun",
+      "ipa": "/ˈpo.va/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "new root: po- (potential) + -va (vital force) — vital potential",
+      "example": {
+        "voku": "Ka sana-nava neke pova poro move.",
+        "gloss": "DECL starship need energy for move",
+        "english": "The starship needs energy to move."
+      }
+    }
+  ]
+}

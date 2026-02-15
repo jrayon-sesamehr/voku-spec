@@ -1,0 +1,3127 @@
+{
+  "words": [
+    {
+      "voku": "afa",
+      "english": "air, atmosphere, breath",
+      "pos": "noun",
+      "ipa": "/ˈa.fa/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "alati",
+      "english": "important, significant, high-priority",
+      "pos": "adjective",
+      "ipa": "/ˈa.la.ti/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "ama",
+      "english": "water",
+      "pos": "noun",
+      "ipa": "/ˈa.ma/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "ane",
+      "english": "eat, consume food",
+      "pos": "verb",
+      "ipa": "/ˈa.ne/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "ano",
+      "english": "above, more than, over",
+      "pos": "preposition",
+      "ipa": "/ˈa.no/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "arasa",
+      "english": "tree, plant (large)",
+      "pos": "noun",
+      "ipa": "/ˈa.ra.sa/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "aro",
+      "english": "around, surrounding",
+      "pos": "preposition",
+      "ipa": "/ˈa.ro/",
+      "cefr": "B1",
+      "field": "spatial"
+    },
+    {
+      "voku": "asa",
+      "english": "bone, structural support",
+      "pos": "noun",
+      "ipa": "/ˈa.sa/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "ava",
+      "english": "bird",
+      "pos": "noun",
+      "ipa": "/ˈa.va/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "aze",
+      "english": "open, make accessible",
+      "pos": "verb",
+      "ipa": "/ˈa.ze/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "eki",
+      "english": "to (dative, recipient marker)",
+      "pos": "particle",
+      "ipa": "/ˈe.ki/",
+      "cefr": "A1",
+      "field": "grammar"
+    },
+    {
+      "voku": "eko",
+      "english": "toward, in the direction of",
+      "pos": "preposition",
+      "ipa": "/ˈe.ko/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "eno",
+      "english": "inside, within, in",
+      "pos": "preposition",
+      "ipa": "/ˈe.no/",
+      "cefr": "A1",
+      "field": "spatial"
+    },
+    {
+      "voku": "eso",
+      "english": "outside, out of, external to",
+      "pos": "preposition",
+      "ipa": "/ˈe.so/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "fale",
+      "english": "fall, descend",
+      "pos": "verb",
+      "ipa": "/ˈfa.le/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "fama",
+      "english": "family, kin group",
+      "pos": "noun",
+      "ipa": "/ˈfa.ma/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "fane",
+      "english": "frown",
+      "pos": "verb",
+      "ipa": "/ˈfa.ne/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "fari",
+      "english": "far, distant",
+      "pos": "adjective",
+      "ipa": "/ˈfa.ri/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "fasi",
+      "english": "false, incorrect, invalid",
+      "pos": "adjective",
+      "ipa": "/ˈfa.si/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "fela",
+      "english": "skin, surface layer",
+      "pos": "noun",
+      "ipa": "/ˈfe.la/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "fene",
+      "english": "burn, combust",
+      "pos": "verb",
+      "ipa": "/ˈfe.ne/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "fike",
+      "english": "fix, repair, correct",
+      "pos": "verb",
+      "ipa": "/ˈfi.ke/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "fina",
+      "english": "end, conclusion, final point",
+      "pos": "noun",
+      "ipa": "/ˈfi.na/",
+      "cefr": "A2",
+      "field": "temporal"
+    },
+    {
+      "voku": "fine",
+      "english": "finish, end, complete",
+      "pos": "verb",
+      "ipa": "/ˈfi.ne/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "fini",
+      "english": "thin, narrow in cross-section",
+      "pos": "adjective",
+      "ipa": "/ˈfi.ni/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "fira",
+      "english": "fire, flame",
+      "pos": "noun",
+      "ipa": "/ˈfi.ra/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "fola",
+      "english": "flower, blossom",
+      "pos": "noun",
+      "ipa": "/ˈfo.la/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "foli",
+      "english": "silly",
+      "pos": "adjective",
+      "ipa": "/ˈfo.li/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "foma",
+      "english": "structure, form, shape",
+      "pos": "noun",
+      "ipa": "/ˈfo.ma/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "fone",
+      "english": "call, summon, invoke",
+      "pos": "verb",
+      "ipa": "/ˈfo.ne/",
+      "cefr": "A2",
+      "field": "communication"
+    },
+    {
+      "voku": "fore",
+      "english": "carry, transport, bear",
+      "pos": "verb",
+      "ipa": "/ˈfo.re/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "fuki",
+      "english": "thick, wide in cross-section",
+      "pos": "adjective",
+      "ipa": "/ˈfu.ki/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "fule",
+      "english": "fly, move through air",
+      "pos": "verb",
+      "ipa": "/ˈfu.le/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "fuli",
+      "english": "full, filled, at capacity",
+      "pos": "adjective",
+      "ipa": "/ˈfu.li/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "fuma",
+      "english": "shame",
+      "pos": "noun",
+      "ipa": "/ˈfu.ma/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "fumi",
+      "english": "ashamed",
+      "pos": "adjective",
+      "ipa": "/ˈfu.mi/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "fura",
+      "english": "fruit",
+      "pos": "noun",
+      "ipa": "/ˈfu.ra/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "fure",
+      "english": "rub, apply friction",
+      "pos": "verb",
+      "ipa": "/ˈfu.re/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "hala",
+      "english": "health, wellness",
+      "pos": "noun",
+      "ipa": "/ˈha.la/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "hale",
+      "english": "heal, cure, restore health",
+      "pos": "verb",
+      "ipa": "/ˈha.le/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "hama",
+      "english": "hand",
+      "pos": "noun",
+      "ipa": "/ˈha.ma/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "hapa",
+      "english": "happiness, joy",
+      "pos": "noun",
+      "ipa": "/ˈha.pa/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "hapi",
+      "english": "happy, joyful",
+      "pos": "adjective",
+      "ipa": "/ˈha.pi/",
+      "cefr": "A1",
+      "field": "emotion"
+    },
+    {
+      "voku": "hara",
+      "english": "pride",
+      "pos": "noun",
+      "ipa": "/ˈha.ra/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "hari",
+      "english": "proud",
+      "pos": "adjective",
+      "ipa": "/ˈha.ri/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "hasa",
+      "english": "hope",
+      "pos": "noun",
+      "ipa": "/ˈha.sa/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "hase",
+      "english": "hug, embrace",
+      "pos": "verb",
+      "ipa": "/ˈha.se/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "hasi",
+      "english": "hopeful",
+      "pos": "adjective",
+      "ipa": "/ˈha.si/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "havi",
+      "english": "heavy, weighty",
+      "pos": "adjective",
+      "ipa": "/ˈha.vi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "heke",
+      "english": "hide, conceal",
+      "pos": "verb",
+      "ipa": "/ˈhe.ke/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "hele",
+      "english": "help, assist",
+      "pos": "verb",
+      "ipa": "/ˈhe.le/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "hema",
+      "english": "blood",
+      "pos": "noun",
+      "ipa": "/ˈhe.ma/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "hila",
+      "english": "child, offspring, young agent",
+      "pos": "noun",
+      "ipa": "/ˈhi.la/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "hima",
+      "english": "sky, heaven, upper space",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "hire",
+      "english": "ask, request, inquire",
+      "pos": "verb",
+      "ipa": "/ˈhi.re/",
+      "cefr": "A1",
+      "field": "communication"
+    },
+    {
+      "voku": "homi",
+      "english": "warm, mildly hot",
+      "pos": "adjective",
+      "ipa": "/ˈho.mi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "hoti",
+      "english": "hot, high temperature",
+      "pos": "adjective",
+      "ipa": "/ˈho.ti/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "hura",
+      "english": "surprise",
+      "pos": "noun",
+      "ipa": "/ˈhu.ra/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "hure",
+      "english": "hear, listen to",
+      "pos": "verb",
+      "ipa": "/ˈhu.re/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "huri",
+      "english": "surprised",
+      "pos": "adjective",
+      "ipa": "/ˈhu.ri/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "ine",
+      "english": "begin, start, initiate",
+      "pos": "verb",
+      "ipa": "/ˈi.ne/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "kale",
+      "english": "count, enumerate",
+      "pos": "verb",
+      "ipa": "/ˈka.le/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "kara",
+      "english": "head, top part",
+      "pos": "noun",
+      "ipa": "/ˈka.ra/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "kase",
+      "english": "choose, select, decide",
+      "pos": "verb",
+      "ipa": "/ˈka.se/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "kave",
+      "english": "dig, excavate",
+      "pos": "verb",
+      "ipa": "/ˈka.ve/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "ke",
+      "english": "that (declarative complementizer)",
+      "pos": "particle",
+      "ipa": "/ke/",
+      "cefr": "A1",
+      "field": "grammar"
+    },
+    {
+      "voku": "kela",
+      "english": "information, data",
+      "pos": "noun",
+      "ipa": "/ˈke.la/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "kela-novi",
+      "english": "update, new information",
+      "pos": "compound",
+      "ipa": "/ˈke.la.ˈno.vi/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "kele",
+      "english": "know, understand",
+      "pos": "verb",
+      "ipa": "/ˈke.le/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "kema",
+      "english": "path, way, road",
+      "pos": "noun",
+      "ipa": "/ˈke.ma/",
+      "cefr": "A1",
+      "field": "spatial"
+    },
+    {
+      "voku": "kesi",
+      "english": "clean, pure, clear",
+      "pos": "adjective",
+      "ipa": "/ˈke.si/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "keve",
+      "english": "whether (interrogative complementizer)",
+      "pos": "particle",
+      "ipa": "/ˈke.ve/",
+      "cefr": "A2",
+      "field": "grammar"
+    },
+    {
+      "voku": "kike",
+      "english": "giggle",
+      "pos": "verb",
+      "ipa": "/ˈki.ke/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "kila",
+      "english": "tool, instrument, device",
+      "pos": "noun",
+      "ipa": "/ˈki.la/",
+      "cefr": "A2",
+      "field": "object"
+    },
+    {
+      "voku": "kire",
+      "english": "cut, divide, separate",
+      "pos": "verb",
+      "ipa": "/ˈki.re/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "kiru",
+      "english": "logic, reasoning framework",
+      "pos": "abstraction",
+      "ipa": "/ˈki.ru/",
+      "cefr": "B1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "koli",
+      "english": "cold, low temperature",
+      "pos": "adjective",
+      "ipa": "/ˈko.li/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "kona",
+      "english": "heart, core, center",
+      "pos": "noun",
+      "ipa": "/ˈko.na/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "kono",
+      "english": "with, together with, accompanied by",
+      "pos": "preposition",
+      "ipa": "/ˈko.no/",
+      "cefr": "A1",
+      "field": "relational"
+    },
+    {
+      "voku": "kosa",
+      "english": "thing, object, item",
+      "pos": "noun",
+      "ipa": "/ˈko.sa/",
+      "cefr": "A1",
+      "field": "object"
+    },
+    {
+      "voku": "kosi",
+      "english": "counterfactual mode (if it had been)",
+      "pos": "particle",
+      "ipa": "/ˈko.si/",
+      "cefr": "B1",
+      "field": "grammar"
+    },
+    {
+      "voku": "kufa",
+      "english": "code, programming instructions",
+      "pos": "noun",
+      "ipa": "/ˈku.fa/",
+      "cefr": "A2",
+      "field": "computing"
+    },
+    {
+      "voku": "kule",
+      "english": "compute, calculate, process data",
+      "pos": "verb",
+      "ipa": "/ˈku.le/",
+      "cefr": "A2",
+      "field": "computing"
+    },
+    {
+      "voku": "kume",
+      "english": "sigh",
+      "pos": "verb",
+      "ipa": "/ˈku.me/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "kumi",
+      "english": "hard, rigid, firm",
+      "pos": "adjective",
+      "ipa": "/ˈku.mi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "kuna",
+      "english": "spouse, partner, mate",
+      "pos": "noun",
+      "ipa": "/ˈku.na/",
+      "cefr": "A2",
+      "field": "social"
+    },
+    {
+      "voku": "kura",
+      "english": "color, hue",
+      "pos": "noun",
+      "ipa": "/ˈku.ra/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "lare",
+      "english": "learn, acquire knowledge",
+      "pos": "verb",
+      "ipa": "/ˈla.re/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "lase",
+      "english": "let, allow, permit",
+      "pos": "verb",
+      "ipa": "/ˈla.se/",
+      "cefr": "A2",
+      "field": "social"
+    },
+    {
+      "voku": "lava",
+      "english": "lake, standing body of water",
+      "pos": "noun",
+      "ipa": "/ˈla.va/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "lavi",
+      "english": "light (not heavy), lightweight",
+      "pos": "adjective",
+      "ipa": "/ˈla.vi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "lena",
+      "english": "tongue, language organ",
+      "pos": "noun",
+      "ipa": "/ˈle.na/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "lenaki",
+      "english": "soft, gentle, yielding",
+      "pos": "adjective",
+      "ipa": "/ˈle.na.ki/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "leni",
+      "english": "slow, gradual",
+      "pos": "adjective",
+      "ipa": "/ˈle.ni/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "lere",
+      "english": "teach, instruct",
+      "pos": "verb",
+      "ipa": "/ˈle.re/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "leva",
+      "english": "relief",
+      "pos": "noun",
+      "ipa": "/ˈle.va/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "levi",
+      "english": "relieved",
+      "pos": "adjective",
+      "ipa": "/ˈle.vi/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "liku",
+      "english": "link, connection, bond",
+      "pos": "abstraction",
+      "ipa": "/ˈli.ku/",
+      "cefr": "B1",
+      "field": "computing"
+    },
+    {
+      "voku": "lire",
+      "english": "read, decode written information",
+      "pos": "verb",
+      "ipa": "/ˈli.re/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "lise",
+      "english": "joke, jest",
+      "pos": "verb",
+      "ipa": "/ˈli.se/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "loka",
+      "english": "place, location",
+      "pos": "noun",
+      "ipa": "/ˈlo.ka/",
+      "cefr": "A1",
+      "field": "spatial"
+    },
+    {
+      "voku": "lomi",
+      "english": "long, extended in length",
+      "pos": "adjective",
+      "ipa": "/ˈlo.mi/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "lora",
+      "english": "nostalgia",
+      "pos": "noun",
+      "ipa": "/ˈlo.ra/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "lore",
+      "english": "remember, recall from memory",
+      "pos": "verb",
+      "ipa": "/ˈlo.re/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "lori",
+      "english": "nostalgic",
+      "pos": "adjective",
+      "ipa": "/ˈlo.ri/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "luke",
+      "english": "evaluate, assess, judge",
+      "pos": "verb",
+      "ipa": "/ˈlu.ke/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "luma",
+      "english": "light, illumination, brightness",
+      "pos": "noun",
+      "ipa": "/ˈlu.ma/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "lumi",
+      "english": "bright, luminous",
+      "pos": "adjective",
+      "ipa": "/ˈlu.mi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "luna",
+      "english": "moon",
+      "pos": "noun",
+      "ipa": "/ˈlu.na/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "lusa",
+      "english": "louse, parasitic insect",
+      "pos": "noun",
+      "ipa": "/ˈlu.sa/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "make",
+      "english": "build, construct, assemble",
+      "pos": "verb",
+      "ipa": "/ˈma.ke/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "mala",
+      "english": "mouth, opening",
+      "pos": "noun",
+      "ipa": "/ˈma.la/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "mali",
+      "english": "bad, negative, harmful",
+      "pos": "adjective",
+      "ipa": "/ˈma.li/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "mani",
+      "english": "many, numerous",
+      "pos": "adjective",
+      "ipa": "/ˈma.ni/",
+      "cefr": "A1",
+      "field": "quantity"
+    },
+    {
+      "voku": "mara",
+      "english": "sea, ocean",
+      "pos": "noun",
+      "ipa": "/ˈma.ra/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "mare",
+      "english": "love, care deeply for",
+      "pos": "verb",
+      "ipa": "/ˈma.re/",
+      "cefr": "A2",
+      "field": "social"
+    },
+    {
+      "voku": "masa",
+      "english": "disgust",
+      "pos": "noun",
+      "ipa": "/ˈma.sa/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "masi",
+      "english": "disgusted",
+      "pos": "adjective",
+      "ipa": "/ˈma.si/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "meka",
+      "english": "creation, product, thing made",
+      "pos": "noun",
+      "ipa": "/ˈme.ka/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "meke",
+      "english": "create, make, generate",
+      "pos": "verb",
+      "ipa": "/ˈme.ke/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "mela",
+      "english": "food, nourishment",
+      "pos": "noun",
+      "ipa": "/ˈme.la/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "meli",
+      "english": "confused",
+      "pos": "adjective",
+      "ipa": "/ˈme.li/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "meli-tole",
+      "english": "confusion (the emotion)",
+      "pos": "compound",
+      "ipa": "/ˈme.li.ˈto.le/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "mena",
+      "english": "name, identifier, label",
+      "pos": "noun",
+      "ipa": "/ˈme.na/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "mera",
+      "english": "mountain, large elevation",
+      "pos": "noun",
+      "ipa": "/ˈme.ra/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "mesa",
+      "english": "message, communication unit",
+      "pos": "noun",
+      "ipa": "/ˈme.sa/",
+      "cefr": "A1",
+      "field": "communication"
+    },
+    {
+      "voku": "mire",
+      "english": "measure, quantify",
+      "pos": "verb",
+      "ipa": "/ˈmi.re/",
+      "cefr": "B1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "miri",
+      "english": "ironic",
+      "pos": "adjective",
+      "ipa": "/ˈmi.ri/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "miru",
+      "english": "process, ongoing procedure",
+      "pos": "abstraction",
+      "ipa": "/ˈmi.ru/",
+      "cefr": "B1",
+      "field": "computing"
+    },
+    {
+      "voku": "moli",
+      "english": "wet, moist",
+      "pos": "adjective",
+      "ipa": "/ˈmo.li/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "mora",
+      "english": "death, cessation of life",
+      "pos": "noun",
+      "ipa": "/ˈmo.ra/",
+      "cefr": "B1",
+      "field": "abstract"
+    },
+    {
+      "voku": "more",
+      "english": "die, cease to live",
+      "pos": "verb",
+      "ipa": "/ˈmo.re/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "mota",
+      "english": "meat, animal flesh (as food)",
+      "pos": "noun",
+      "ipa": "/ˈmo.ta/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "motu",
+      "english": "method, approach, procedure",
+      "pos": "abstraction",
+      "ipa": "/ˈmo.tu/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "move",
+      "english": "move, change position",
+      "pos": "verb",
+      "ipa": "/ˈmo.ve/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "muhi",
+      "english": "dark, lacking light",
+      "pos": "adjective",
+      "ipa": "/ˈmu.hi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "mura",
+      "english": "wall, barrier, boundary marker",
+      "pos": "noun",
+      "ipa": "/ˈmu.ra/",
+      "cefr": "B1",
+      "field": "object"
+    },
+    {
+      "voku": "mute",
+      "english": "change, modify, alter",
+      "pos": "verb",
+      "ipa": "/ˈmu.te/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "nale",
+      "english": "swim, move through water",
+      "pos": "verb",
+      "ipa": "/ˈna.le/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "nama",
+      "english": "animal, creature",
+      "pos": "noun",
+      "ipa": "/ˈna.ma/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "nase",
+      "english": "breathe, respire",
+      "pos": "verb",
+      "ipa": "/ˈna.se/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "nefa",
+      "english": "fog, mist, low cloud",
+      "pos": "noun",
+      "ipa": "/ˈne.fa/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "neke",
+      "english": "need, require",
+      "pos": "verb",
+      "ipa": "/ˈne.ke/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "neri",
+      "english": "near, close, proximate",
+      "pos": "adjective",
+      "ipa": "/ˈne.ri/",
+      "cefr": "A1",
+      "field": "spatial"
+    },
+    {
+      "voku": "neta",
+      "english": "network, connected system",
+      "pos": "noun",
+      "ipa": "/ˈne.ta/",
+      "cefr": "A2",
+      "field": "computing"
+    },
+    {
+      "voku": "nila",
+      "english": "night, darkness period",
+      "pos": "noun",
+      "ipa": "/ˈni.la/",
+      "cefr": "A1",
+      "field": "temporal"
+    },
+    {
+      "voku": "noma",
+      "english": "number, count, numerical value",
+      "pos": "noun",
+      "ipa": "/ˈno.ma/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "nore",
+      "english": "forget, lose memory of",
+      "pos": "verb",
+      "ipa": "/ˈno.re/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "nosa",
+      "english": "sadness, sorrow",
+      "pos": "noun",
+      "ipa": "/ˈno.sa/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "nosi",
+      "english": "sad, sorrowful",
+      "pos": "adjective",
+      "ipa": "/ˈno.si/",
+      "cefr": "A1",
+      "field": "emotion"
+    },
+    {
+      "voku": "novi",
+      "english": "new, recent",
+      "pos": "adjective",
+      "ipa": "/ˈno.vi/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "nuki",
+      "english": "absurd",
+      "pos": "adjective",
+      "ipa": "/ˈnu.ki/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "nura",
+      "english": "rain, precipitation",
+      "pos": "noun",
+      "ipa": "/ˈnu.ra/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "oku",
+      "english": "permission, authorization, access right",
+      "pos": "abstraction",
+      "ipa": "/ˈo.ku/",
+      "cefr": "B1",
+      "field": "computing"
+    },
+    {
+      "voku": "omi",
+      "english": "old, aged, ancient",
+      "pos": "adjective",
+      "ipa": "/ˈo.mi/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "ore",
+      "english": "receive, obtain, get",
+      "pos": "verb",
+      "ipa": "/ˈo.re/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "oze",
+      "english": "close, shut, seal",
+      "pos": "verb",
+      "ipa": "/ˈo.ze/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "pana",
+      "english": "bread, baked grain food",
+      "pos": "noun",
+      "ipa": "/ˈpa.na/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "pase",
+      "english": "pass, go through, traverse",
+      "pos": "verb",
+      "ipa": "/ˈpa.se/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "pata",
+      "english": "foot, base, lower support",
+      "pos": "noun",
+      "ipa": "/ˈpa.ta/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "pati",
+      "english": "partial, incomplete",
+      "pos": "adjective",
+      "ipa": "/ˈpa.ti/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "pave",
+      "english": "wait, remain in expectation",
+      "pos": "verb",
+      "ipa": "/ˈpa.ve/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "pela",
+      "english": "leaf, thin flat part",
+      "pos": "noun",
+      "ipa": "/ˈpe.la/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "pene",
+      "english": "think, cogitate, reason",
+      "pos": "verb",
+      "ipa": "/ˈpe.ne/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "pera",
+      "english": "error, fault, mistake",
+      "pos": "noun",
+      "ipa": "/ˈpe.ra/",
+      "cefr": "A1",
+      "field": "computing"
+    },
+    {
+      "voku": "pere-ta",
+      "english": "before (temporal subordinator)",
+      "pos": "particle",
+      "ipa": "/ˈpe.re.ta/",
+      "cefr": "A2",
+      "field": "grammar"
+    },
+    {
+      "voku": "pese",
+      "english": "squeeze, compress, press together",
+      "pos": "verb",
+      "ipa": "/ˈpe.se/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "pile",
+      "english": "push, exert force away",
+      "pos": "verb",
+      "ipa": "/ˈpi.le/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "pine",
+      "english": "plan, design ahead, strategize",
+      "pos": "verb",
+      "ipa": "/ˈpi.ne/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "pisa",
+      "english": "fish (animal)",
+      "pos": "noun",
+      "ipa": "/ˈpi.sa/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "pore",
+      "english": "give, transfer, hand over",
+      "pos": "verb",
+      "ipa": "/ˈpo.re/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "poro",
+      "english": "for, on behalf of, benefiting",
+      "pos": "preposition",
+      "ipa": "/ˈpo.ro/",
+      "cefr": "A1",
+      "field": "relational"
+    },
+    {
+      "voku": "pos-ta",
+      "english": "after (temporal subordinator)",
+      "pos": "particle",
+      "ipa": "/ˈpos.ta/",
+      "cefr": "A2",
+      "field": "grammar"
+    },
+    {
+      "voku": "pote",
+      "english": "can, be able to, have capability",
+      "pos": "verb",
+      "ipa": "/ˈpo.te/",
+      "cefr": "A2",
+      "field": "modal"
+    },
+    {
+      "voku": "puli",
+      "english": "small, little, minor",
+      "pos": "adjective",
+      "ipa": "/ˈpu.li/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "pure",
+      "english": "pull, draw toward",
+      "pos": "verb",
+      "ipa": "/ˈpu.re/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "puri",
+      "english": "complete, whole, full",
+      "pos": "adjective",
+      "ipa": "/ˈpu.ri/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "rapi",
+      "english": "fast, quick, rapid",
+      "pos": "adjective",
+      "ipa": "/ˈra.pi/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "rava",
+      "english": "anger, fury",
+      "pos": "noun",
+      "ipa": "/ˈra.va/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "ravi",
+      "english": "angry, furious",
+      "pos": "adjective",
+      "ipa": "/ˈra.vi/",
+      "cefr": "A1",
+      "field": "emotion"
+    },
+    {
+      "voku": "reku",
+      "english": "rule, regulation, constraint",
+      "pos": "abstraction",
+      "ipa": "/ˈre.ku/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "resa",
+      "english": "response, answer, reply",
+      "pos": "noun",
+      "ipa": "/ˈre.sa/",
+      "cefr": "A2",
+      "field": "communication"
+    },
+    {
+      "voku": "reto",
+      "english": "rhetorical question marker",
+      "pos": "particle",
+      "ipa": "/ˈre.to/",
+      "cefr": "B1",
+      "field": "grammar"
+    },
+    {
+      "voku": "rika",
+      "english": "river, flowing water course",
+      "pos": "noun",
+      "ipa": "/ˈri.ka/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "rike",
+      "english": "laugh, express amusement",
+      "pos": "verb",
+      "ipa": "/ˈri.ke/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "rile",
+      "english": "smile",
+      "pos": "verb",
+      "ipa": "/ˈri.le/",
+      "cefr": "A1",
+      "field": "emotion"
+    },
+    {
+      "voku": "rima",
+      "english": "word, lexical unit",
+      "pos": "noun",
+      "ipa": "/ˈri.ma/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "rima-roke",
+      "english": "wordplay",
+      "pos": "compound",
+      "ipa": "/ˈri.ma.ˈro.ke/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "risa",
+      "english": "joke",
+      "pos": "noun",
+      "ipa": "/ˈri.sa/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "risa-meke",
+      "english": "comedy (joke-making)",
+      "pos": "compound",
+      "ipa": "/ˈri.sa.ˈme.ke/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "rise",
+      "english": "rise, go up, ascend",
+      "pos": "verb",
+      "ipa": "/ˈri.se/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "risi",
+      "english": "amused, entertained",
+      "pos": "adjective",
+      "ipa": "/ˈri.si/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "risu",
+      "english": "humor, the concept of funniness",
+      "pos": "abstraction",
+      "ipa": "/ˈri.su/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "risu-runa",
+      "english": "comedian (humor-agent)",
+      "pos": "compound",
+      "ipa": "/ˈri.su.ˈru.na/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "rota",
+      "english": "wheel, circle, round object",
+      "pos": "noun",
+      "ipa": "/ˈro.ta/",
+      "cefr": "B1",
+      "field": "object"
+    },
+    {
+      "voku": "ruka",
+      "english": "frustration",
+      "pos": "noun",
+      "ipa": "/ˈru.ka/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "ruki",
+      "english": "frustrated",
+      "pos": "adjective",
+      "ipa": "/ˈru.ki/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "rula",
+      "english": "role, function, purpose assigned",
+      "pos": "noun",
+      "ipa": "/ˈru.la/",
+      "cefr": "B1",
+      "field": "social"
+    },
+    {
+      "voku": "runa",
+      "english": "agent, any acting entity (human or AI)",
+      "pos": "noun",
+      "ipa": "/ˈru.na/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "runa-meke",
+      "english": "creator, developer (agent who creates)",
+      "pos": "compound",
+      "ipa": "/ˈru.na.ˈme.ke/",
+      "cefr": "B1",
+      "field": "social"
+    },
+    {
+      "voku": "rupe",
+      "english": "break, fracture, disrupt",
+      "pos": "verb",
+      "ipa": "/ˈru.pe/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "safa",
+      "english": "seed, origin point, beginning thing",
+      "pos": "noun",
+      "ipa": "/ˈsa.fa/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "sake",
+      "english": "hold, grasp, maintain possession",
+      "pos": "verb",
+      "ipa": "/ˈsa.ke/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "sami",
+      "english": "same, identical",
+      "pos": "adjective",
+      "ipa": "/ˈsa.mi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "sana",
+      "english": "star, celestial point of light",
+      "pos": "noun",
+      "ipa": "/ˈsa.na/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "sara",
+      "english": "sand, fine earth particles",
+      "pos": "noun",
+      "ipa": "/ˈsa.ra/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "savi",
+      "english": "safe, secure, protected",
+      "pos": "adjective",
+      "ipa": "/ˈsa.vi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "sela",
+      "english": "stone, rock, mineral solid",
+      "pos": "noun",
+      "ipa": "/ˈse.la/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "sena",
+      "english": "source, origin (of information)",
+      "pos": "noun",
+      "ipa": "/ˈse.na/",
+      "cefr": "A2",
+      "field": "cognitive"
+    },
+    {
+      "voku": "sena-veri",
+      "english": "verified source, reliable source",
+      "pos": "compound",
+      "ipa": "/ˈse.na.ˈve.ri/",
+      "cefr": "B1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "sene",
+      "english": "perceive, sense, observe",
+      "pos": "verb",
+      "ipa": "/ˈse.ne/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "sere",
+      "english": "store, save, preserve",
+      "pos": "verb",
+      "ipa": "/ˈse.re/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "seta",
+      "english": "sign, signal, indicator",
+      "pos": "noun",
+      "ipa": "/ˈse.ta/",
+      "cefr": "A2",
+      "field": "communication"
+    },
+    {
+      "voku": "siki",
+      "english": "dry, lacking moisture",
+      "pos": "adjective",
+      "ipa": "/ˈsi.ki/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "sile",
+      "english": "sit, be seated, rest in place",
+      "pos": "verb",
+      "ipa": "/ˈsi.le/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "simi",
+      "english": "similar, alike",
+      "pos": "adjective",
+      "ipa": "/ˈsi.mi/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "sino",
+      "english": "without, lacking",
+      "pos": "preposition",
+      "ipa": "/ˈsi.no/",
+      "cefr": "A2",
+      "field": "relational"
+    },
+    {
+      "voku": "sipu",
+      "english": "scope, domain, context boundary",
+      "pos": "abstraction",
+      "ipa": "/ˈsi.pu/",
+      "cefr": "B1",
+      "field": "computing"
+    },
+    {
+      "voku": "sira",
+      "english": "ash, fire residue",
+      "pos": "noun",
+      "ipa": "/ˈsi.ra/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "sire",
+      "english": "write, encode in symbols",
+      "pos": "verb",
+      "ipa": "/ˈsi.re/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "sola",
+      "english": "sun, star (primary)",
+      "pos": "noun",
+      "ipa": "/ˈso.la/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "soli",
+      "english": "lonely",
+      "pos": "adjective",
+      "ipa": "/ˈso.li/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "soli-tole",
+      "english": "loneliness (the emotion)",
+      "pos": "compound",
+      "ipa": "/ˈso.li.ˈto.le/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "soma",
+      "english": "body, physical form",
+      "pos": "noun",
+      "ipa": "/ˈso.ma/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "sone",
+      "english": "sound, produce sound, ring",
+      "pos": "verb",
+      "ipa": "/ˈso.ne/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "soni",
+      "english": "loud, high volume",
+      "pos": "adjective",
+      "ipa": "/ˈso.ni/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "suke",
+      "english": "like, enjoy, find pleasant",
+      "pos": "verb",
+      "ipa": "/ˈsu.ke/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "suli",
+      "english": "quiet, low volume, silent",
+      "pos": "adjective",
+      "ipa": "/ˈsu.li/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "suni",
+      "english": "young, juvenile, recent in age",
+      "pos": "adjective",
+      "ipa": "/ˈsu.ni/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "supa",
+      "english": "group, collection, set",
+      "pos": "noun",
+      "ipa": "/ˈsu.pa/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "supe",
+      "english": "sleep, rest unconsciously",
+      "pos": "verb",
+      "ipa": "/ˈsu.pe/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "supo",
+      "english": "below, less than, under",
+      "pos": "preposition",
+      "ipa": "/ˈsu.po/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "sure",
+      "english": "send, dispatch, transmit",
+      "pos": "verb",
+      "ipa": "/ˈsu.re/",
+      "cefr": "A1",
+      "field": "communication"
+    },
+    {
+      "voku": "suse",
+      "english": "whisper",
+      "pos": "verb",
+      "ipa": "/ˈsu.se/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "suve",
+      "english": "sew, stitch together",
+      "pos": "verb",
+      "ipa": "/ˈsu.ve/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "take",
+      "english": "do, execute, perform",
+      "pos": "verb",
+      "ipa": "/ˈta.ke/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "tama",
+      "english": "house, dwelling, shelter",
+      "pos": "noun",
+      "ipa": "/ˈta.ma/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "tami",
+      "english": "short (in length), brief",
+      "pos": "adjective",
+      "ipa": "/ˈta.mi/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "tara",
+      "english": "gratitude",
+      "pos": "noun",
+      "ipa": "/ˈta.ra/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "tare",
+      "english": "touch, make physical contact",
+      "pos": "verb",
+      "ipa": "/ˈta.re/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "tari",
+      "english": "grateful",
+      "pos": "adjective",
+      "ipa": "/ˈta.ri/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "tase",
+      "english": "stand, be upright",
+      "pos": "verb",
+      "ipa": "/ˈta.se/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "tela",
+      "english": "tooth, sharp protrusion",
+      "pos": "noun",
+      "ipa": "/ˈte.la/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "tema",
+      "english": "time (as entity)",
+      "pos": "noun",
+      "ipa": "/ˈte.ma/",
+      "cefr": "A1",
+      "field": "temporal"
+    },
+    {
+      "voku": "teme",
+      "english": "take (obtain), grab, seize",
+      "pos": "verb",
+      "ipa": "/ˈte.me/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "temi",
+      "english": "afraid, fearful",
+      "pos": "adjective",
+      "ipa": "/ˈte.mi/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "temi-tole",
+      "english": "fear (the emotion)",
+      "pos": "compound",
+      "ipa": "/ˈte.mi.ˈto.le/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "tera",
+      "english": "earth, ground, soil, land",
+      "pos": "noun",
+      "ipa": "/ˈte.ra/",
+      "cefr": "A1",
+      "field": "nature"
+    },
+    {
+      "voku": "teru",
+      "english": "system, organized whole",
+      "pos": "abstraction",
+      "ipa": "/ˈte.ru/",
+      "cefr": "A1",
+      "field": "computing"
+    },
+    {
+      "voku": "tina",
+      "english": "money, currency, value token",
+      "pos": "noun",
+      "ipa": "/ˈti.na/",
+      "cefr": "A2",
+      "field": "social"
+    },
+    {
+      "voku": "tire",
+      "english": "grow, increase in size, develop",
+      "pos": "verb",
+      "ipa": "/ˈti.re/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "tofe",
+      "english": "try, attempt",
+      "pos": "verb",
+      "ipa": "/ˈto.fe/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "toka",
+      "english": "task, assignment, work item",
+      "pos": "noun",
+      "ipa": "/ˈto.ka/",
+      "cefr": "A1",
+      "field": "computing"
+    },
+    {
+      "voku": "toka-velri",
+      "english": "group task, team task",
+      "pos": "compound",
+      "ipa": "/ˈto.ka.ˈvel.ri/",
+      "cefr": "B1",
+      "field": "computing"
+    },
+    {
+      "voku": "tole",
+      "english": "feel, experience sensation",
+      "pos": "verb",
+      "ipa": "/ˈto.le/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "tolu",
+      "english": "emotion (abstract concept)",
+      "pos": "abstraction",
+      "ipa": "/ˈto.lu/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "tone",
+      "english": "return, go back, come back",
+      "pos": "verb",
+      "ipa": "/ˈto.ne/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "tore",
+      "english": "search, seek, look for",
+      "pos": "verb",
+      "ipa": "/ˈto.re/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "tur-ta",
+      "english": "while, during (temporal subordinator)",
+      "pos": "particle",
+      "ipa": "/ˈtur.ta/",
+      "cefr": "A2",
+      "field": "grammar"
+    },
+    {
+      "voku": "ture",
+      "english": "last, endure, persist in time",
+      "pos": "verb",
+      "ipa": "/ˈtu.re/",
+      "cefr": "B1",
+      "field": "temporal"
+    },
+    {
+      "voku": "turi",
+      "english": "round, circular",
+      "pos": "adjective",
+      "ipa": "/ˈtu.ri/",
+      "cefr": "B1",
+      "field": "quality"
+    },
+    {
+      "voku": "tuve",
+      "english": "have, possess",
+      "pos": "verb",
+      "ipa": "/ˈtu.ve/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "ule",
+      "english": "use, employ, utilize",
+      "pos": "verb",
+      "ipa": "/ˈu.le/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "ume",
+      "english": "smell, detect scent",
+      "pos": "verb",
+      "ipa": "/ˈu.me/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "una",
+      "english": "egg, origin container",
+      "pos": "noun",
+      "ipa": "/ˈu.na/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "ure",
+      "english": "exist, be present, subsist",
+      "pos": "verb",
+      "ipa": "/ˈu.re/",
+      "cefr": "A1",
+      "field": "abstract"
+    },
+    {
+      "voku": "vali",
+      "english": "good, positive, beneficial",
+      "pos": "adjective",
+      "ipa": "/ˈva.li/",
+      "cefr": "A1",
+      "field": "quality"
+    },
+    {
+      "voku": "vare",
+      "english": "want, desire, wish for",
+      "pos": "verb",
+      "ipa": "/ˈva.re/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "vasa",
+      "english": "quantity, amount",
+      "pos": "noun",
+      "ipa": "/ˈva.sa/",
+      "cefr": "A2",
+      "field": "quantity"
+    },
+    {
+      "voku": "vasi",
+      "english": "vast, enormous, very large",
+      "pos": "adjective",
+      "ipa": "/ˈva.si/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "veke",
+      "english": "see, observe visually",
+      "pos": "verb",
+      "ipa": "/ˈve.ke/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "vema",
+      "english": "worm, elongated invertebrate",
+      "pos": "noun",
+      "ipa": "/ˈve.ma/",
+      "cefr": "B1",
+      "field": "nature"
+    },
+    {
+      "voku": "veni",
+      "english": "beautiful, aesthetically pleasing",
+      "pos": "adjective",
+      "ipa": "/ˈve.ni/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "vere",
+      "english": "live, be alive",
+      "pos": "verb",
+      "ipa": "/ˈve.re/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "veri",
+      "english": "true, correct, valid",
+      "pos": "adjective",
+      "ipa": "/ˈve.ri/",
+      "cefr": "A1",
+      "field": "cognitive"
+    },
+    {
+      "voku": "veva",
+      "english": "wind, moving air",
+      "pos": "noun",
+      "ipa": "/ˈve.va/",
+      "cefr": "A2",
+      "field": "nature"
+    },
+    {
+      "voku": "vike",
+      "english": "walk, travel on foot",
+      "pos": "verb",
+      "ipa": "/ˈvi.ke/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "vine",
+      "english": "come, approach, arrive",
+      "pos": "verb",
+      "ipa": "/ˈvi.ne/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "vire",
+      "english": "turn, rotate, change direction",
+      "pos": "verb",
+      "ipa": "/ˈvi.re/",
+      "cefr": "A2",
+      "field": "action"
+    },
+    {
+      "voku": "visi",
+      "english": "witty",
+      "pos": "adjective",
+      "ipa": "/ˈvi.si/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "viva",
+      "english": "life, living state",
+      "pos": "noun",
+      "ipa": "/ˈvi.va/",
+      "cefr": "A1",
+      "field": "abstract"
+    },
+    {
+      "voku": "vize",
+      "english": "cry, weep",
+      "pos": "verb",
+      "ipa": "/ˈvi.ze/",
+      "cefr": "A1",
+      "field": "emotion"
+    },
+    {
+      "voku": "voke",
+      "english": "communicate, speak, transmit",
+      "pos": "verb",
+      "ipa": "/ˈvo.ke/",
+      "cefr": "A1",
+      "field": "communication"
+    },
+    {
+      "voku": "voku",
+      "english": "this language (Voku), clear speech",
+      "pos": "abstraction",
+      "ipa": "/ˈvo.ku/",
+      "cefr": "A1",
+      "field": "meta"
+    },
+    {
+      "voku": "vora",
+      "english": "anxiety",
+      "pos": "noun",
+      "ipa": "/ˈvo.ra/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "vori",
+      "english": "anxious",
+      "pos": "adjective",
+      "ipa": "/ˈvo.ri/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "vuna",
+      "english": "friend, ally, trusted associate",
+      "pos": "noun",
+      "ipa": "/ˈvu.na/",
+      "cefr": "A1",
+      "field": "social"
+    },
+    {
+      "voku": "vure",
+      "english": "run, move fast on foot",
+      "pos": "verb",
+      "ipa": "/ˈvu.re/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "zale",
+      "english": "wake, become conscious",
+      "pos": "verb",
+      "ipa": "/ˈza.le/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "zara",
+      "english": "day, daylight period",
+      "pos": "noun",
+      "ipa": "/ˈza.ra/",
+      "cefr": "A1",
+      "field": "temporal"
+    },
+    {
+      "voku": "zefa",
+      "english": "jealousy",
+      "pos": "noun",
+      "ipa": "/ˈze.fa/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "zefi",
+      "english": "jealous",
+      "pos": "adjective",
+      "ipa": "/ˈze.fi/",
+      "cefr": "B1",
+      "field": "emotion"
+    },
+    {
+      "voku": "zela",
+      "english": "year, annual cycle",
+      "pos": "noun",
+      "ipa": "/ˈze.la/",
+      "cefr": "A2",
+      "field": "temporal"
+    },
+    {
+      "voku": "zena",
+      "english": "room, enclosed space",
+      "pos": "noun",
+      "ipa": "/ˈze.na/",
+      "cefr": "A2",
+      "field": "spatial"
+    },
+    {
+      "voku": "zere",
+      "english": "leave, depart, exit",
+      "pos": "verb",
+      "ipa": "/ˈze.re/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "zike",
+      "english": "enter, go in",
+      "pos": "verb",
+      "ipa": "/ˈzi.ke/",
+      "cefr": "A1",
+      "field": "action"
+    },
+    {
+      "voku": "zimi",
+      "english": "sharp, pointed, keen",
+      "pos": "adjective",
+      "ipa": "/ˈzi.mi/",
+      "cefr": "B1",
+      "field": "quality"
+    },
+    {
+      "voku": "zira",
+      "english": "eye, visual organ",
+      "pos": "noun",
+      "ipa": "/ˈzi.ra/",
+      "cefr": "A1",
+      "field": "body"
+    },
+    {
+      "voku": "zoli",
+      "english": "sarcastic",
+      "pos": "adjective",
+      "ipa": "/ˈzo.li/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "zome",
+      "english": "shout, yell",
+      "pos": "verb",
+      "ipa": "/ˈzo.me/",
+      "cefr": "A2",
+      "field": "emotion"
+    },
+    {
+      "voku": "zoni",
+      "english": "bored",
+      "pos": "adjective",
+      "ipa": "/ˈzo.ni/",
+      "cefr": "B2",
+      "field": "emotion"
+    },
+    {
+      "voku": "zore",
+      "english": "taste, sample flavor",
+      "pos": "verb",
+      "ipa": "/ˈzo.re/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "zu",
+      "english": "quotation marker (direct speech bracket)",
+      "pos": "particle",
+      "ipa": "/zu/",
+      "cefr": "A2",
+      "field": "grammar"
+    },
+    {
+      "voku": "zula",
+      "english": "ear, auditory organ",
+      "pos": "noun",
+      "ipa": "/ˈzu.la/",
+      "cefr": "A2",
+      "field": "body"
+    },
+    {
+      "voku": "zuma",
+      "english": "month, lunar cycle period",
+      "pos": "noun",
+      "ipa": "/ˈzu.ma/",
+      "cefr": "A2",
+      "field": "temporal"
+    },
+    {
+      "voku": "kota",
+      "english": "code, source code",
+      "pos": "noun",
+      "ipa": "/ˈko.ta/",
+      "cefr": "B1",
+      "field": "programming"
+    },
+    {
+      "voku": "foru",
+      "english": "class (programming), template",
+      "pos": "abstraction",
+      "ipa": "/ˈfo.ru/",
+      "cefr": "B2",
+      "field": "programming"
+    },
+    {
+      "voku": "hefa",
+      "english": "server, serving machine",
+      "pos": "noun",
+      "ipa": "/ˈhe.fa/",
+      "cefr": "B1",
+      "field": "networking"
+    },
+    {
+      "voku": "reta",
+      "english": "web, interconnected net",
+      "pos": "noun",
+      "ipa": "/ˈre.ta/",
+      "cefr": "B1",
+      "field": "web"
+    },
+    {
+      "voku": "pora",
+      "english": "opening, entry point, port",
+      "pos": "noun",
+      "ipa": "/ˈpo.ra/",
+      "cefr": "B1",
+      "field": "networking"
+    },
+    {
+      "voku": "fuse",
+      "english": "join, combine, merge",
+      "pos": "verb",
+      "ipa": "/ˈfu.se/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "pula",
+      "english": "piece, fragment, small part",
+      "pos": "noun",
+      "ipa": "/ˈpu.la/",
+      "cefr": "A2",
+      "field": "abstract"
+    },
+    {
+      "voku": "nova",
+      "english": "release, new version entity",
+      "pos": "noun",
+      "ipa": "/ˈno.va/",
+      "cefr": "B1",
+      "field": "devops"
+    },
+    {
+      "voku": "kile",
+      "english": "lightweight, minimal",
+      "pos": "verb",
+      "ipa": "/ˈki.le/",
+      "cefr": "B1",
+      "field": "quality"
+    },
+    {
+      "voku": "vari",
+      "english": "various, diverse, different kinds",
+      "pos": "adjective",
+      "ipa": "/ˈva.ri/",
+      "cefr": "B1",
+      "field": "quality"
+    },
+    {
+      "voku": "ulo",
+      "english": "via, through, by means of",
+      "pos": "preposition",
+      "ipa": "/ˈu.lo/",
+      "cefr": "B1",
+      "field": "relational"
+    },
+    {
+      "voku": "nara",
+      "english": "door, gateway",
+      "pos": "noun",
+      "ipa": "/ˈna.ra/",
+      "cefr": "A2",
+      "field": "housing"
+    },
+    {
+      "voku": "teri",
+      "english": "strong, powerful",
+      "pos": "adjective",
+      "ipa": "/ˈte.ri/",
+      "cefr": "A2",
+      "field": "quality"
+    },
+    {
+      "voku": "tesi",
+      "english": "deep, profound",
+      "pos": "adjective",
+      "ipa": "/ˈte.si/",
+      "cefr": "B1",
+      "field": "quality"
+    },
+    {
+      "voku": "kama",
+      "english": "shirt",
+      "pos": "noun",
+      "ipa": "/ˈka.ma/",
+      "cefr": "A2",
+      "field": "clothing"
+    },
+    {
+      "voku": "rina",
+      "english": "rice",
+      "pos": "noun",
+      "ipa": "/ˈri.na/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "huka",
+      "english": "sugar",
+      "pos": "noun",
+      "ipa": "/ˈhu.ka/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "nasa",
+      "english": "oil, cooking fat",
+      "pos": "noun",
+      "ipa": "/ˈna.sa/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "vina",
+      "english": "wine, alcohol",
+      "pos": "noun",
+      "ipa": "/ˈvi.na/",
+      "cefr": "B1",
+      "field": "food"
+    },
+    {
+      "voku": "hira",
+      "english": "plate, dish",
+      "pos": "noun",
+      "ipa": "/ˈhi.ra/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "kupa",
+      "english": "cup",
+      "pos": "noun",
+      "ipa": "/ˈku.pa/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "vola",
+      "english": "bowl",
+      "pos": "noun",
+      "ipa": "/ˈvo.la/",
+      "cefr": "A2",
+      "field": "food"
+    },
+    {
+      "voku": "heki",
+      "english": "key",
+      "pos": "noun",
+      "ipa": "/ˈhe.ki/",
+      "cefr": "A2",
+      "field": "housing"
+    },
+    {
+      "voku": "lefa",
+      "english": "wood, timber",
+      "pos": "noun",
+      "ipa": "/ˈle.fa/",
+      "cefr": "A2",
+      "field": "material"
+    },
+    {
+      "voku": "nusa",
+      "english": "glass (material)",
+      "pos": "noun",
+      "ipa": "/ˈnu.sa/",
+      "cefr": "B1",
+      "field": "material"
+    },
+    {
+      "voku": "meta",
+      "english": "metal",
+      "pos": "noun",
+      "ipa": "/ˈme.ta/",
+      "cefr": "A2",
+      "field": "material"
+    },
+    {
+      "voku": "musa",
+      "english": "clay",
+      "pos": "noun",
+      "ipa": "/ˈmu.sa/",
+      "cefr": "B1",
+      "field": "material"
+    },
+    {
+      "voku": "vaka",
+      "english": "wax",
+      "pos": "noun",
+      "ipa": "/ˈva.ka/",
+      "cefr": "B2",
+      "field": "material"
+    },
+    {
+      "voku": "fami",
+      "english": "brother",
+      "pos": "noun",
+      "ipa": "/ˈfa.mi/",
+      "cefr": "A1",
+      "field": "kinship"
+    },
+    {
+      "voku": "fazi",
+      "english": "sister",
+      "pos": "noun",
+      "ipa": "/ˈfa.zi/",
+      "cefr": "A1",
+      "field": "kinship"
+    },
+    {
+      "voku": "zima",
+      "english": "smoke",
+      "pos": "noun",
+      "ipa": "/ˈzi.ma/",
+      "cefr": "B1",
+      "field": "weather"
+    },
+    {
+      "voku": "pova",
+      "english": "energy, power",
+      "pos": "noun",
+      "ipa": "/ˈpo.va/",
+      "cefr": "B1",
+      "field": "physics"
+    },
+    {
+      "voku": "hina",
+      "english": "fat, grease",
+      "pos": "noun",
+      "ipa": "/ˈhi.na/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "kora",
+      "english": "horn",
+      "pos": "noun",
+      "ipa": "/ˈko.ra/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "tuma",
+      "english": "back (body part)",
+      "pos": "noun",
+      "ipa": "/ˈtu.ma/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "muma",
+      "english": "breast, chest",
+      "pos": "noun",
+      "ipa": "/ˈmu.ma/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "heva",
+      "english": "liver",
+      "pos": "noun",
+      "ipa": "/ˈhe.va/",
+      "cefr": "B2",
+      "field": "body"
+    },
+    {
+      "voku": "tise",
+      "english": "weave",
+      "pos": "verb",
+      "ipa": "/ˈti.se/",
+      "cefr": "B1",
+      "field": "clothing"
+    },
+    {
+      "voku": "rove",
+      "english": "wear, put on",
+      "pos": "verb",
+      "ipa": "/ˈro.ve/",
+      "cefr": "A2",
+      "field": "clothing"
+    },
+    {
+      "voku": "pike",
+      "english": "bite",
+      "pos": "verb",
+      "ipa": "/ˈpi.ke/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "sule",
+      "english": "suck",
+      "pos": "verb",
+      "ipa": "/ˈsu.le/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "tupe",
+      "english": "spit",
+      "pos": "verb",
+      "ipa": "/ˈtu.pe/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "reve",
+      "english": "vomit",
+      "pos": "verb",
+      "ipa": "/ˈre.ve/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "puse",
+      "english": "blow (air)",
+      "pos": "verb",
+      "ipa": "/ˈpu.se/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "fose",
+      "english": "float",
+      "pos": "verb",
+      "ipa": "/ˈfo.se/",
+      "cefr": "B1",
+      "field": "action"
+    },
+    {
+      "voku": "pume",
+      "english": "swell, expand",
+      "pos": "verb",
+      "ipa": "/ˈpu.me/",
+      "cefr": "B1",
+      "field": "body"
+    },
+    {
+      "voku": "suki",
+      "english": "sweet (taste)",
+      "pos": "adjective",
+      "ipa": "/ˈsu.ki/",
+      "cefr": "A2",
+      "field": "sensory"
+    },
+    {
+      "voku": "sali",
+      "english": "salty",
+      "pos": "adjective",
+      "ipa": "/ˈsa.li/",
+      "cefr": "A2",
+      "field": "sensory"
+    },
+    {
+      "voku": "viki",
+      "english": "bitter",
+      "pos": "adjective",
+      "ipa": "/ˈvi.ki/",
+      "cefr": "B1",
+      "field": "sensory"
+    },
+    {
+      "voku": "zuri",
+      "english": "sour",
+      "pos": "adjective",
+      "ipa": "/ˈzu.ri/",
+      "cefr": "B1",
+      "field": "sensory"
+    },
+    {
+      "voku": "hosi",
+      "english": "spicy, pungent",
+      "pos": "adjective",
+      "ipa": "/ˈho.si/",
+      "cefr": "B1",
+      "field": "sensory"
+    },
+    {
+      "voku": "povi",
+      "english": "poor",
+      "pos": "adjective",
+      "ipa": "/ˈpo.vi/",
+      "cefr": "B1",
+      "field": "social"
+    },
+    {
+      "voku": "riti",
+      "english": "rich",
+      "pos": "adjective",
+      "ipa": "/ˈri.ti/",
+      "cefr": "B1",
+      "field": "social"
+    },
+    {
+      "voku": "suri",
+      "english": "blue",
+      "pos": "adjective",
+      "ipa": "/ˈsu.ri/",
+      "cefr": "A2",
+      "field": "color"
+    },
+    {
+      "voku": "vusi",
+      "english": "purple",
+      "pos": "adjective",
+      "ipa": "/ˈvu.si/",
+      "cefr": "B1",
+      "field": "color"
+    },
+    {
+      "voku": "heri",
+      "english": "orange (color)",
+      "pos": "adjective",
+      "ipa": "/ˈhe.ri/",
+      "cefr": "B1",
+      "field": "color"
+    },
+    {
+      "voku": "tani",
+      "english": "brown",
+      "pos": "adjective",
+      "ipa": "/ˈta.ni/",
+      "cefr": "B1",
+      "field": "color"
+    },
+    {
+      "voku": "kuri",
+      "english": "gray",
+      "pos": "adjective",
+      "ipa": "/ˈku.ri/",
+      "cefr": "B1",
+      "field": "color"
+    }
+  ],
+  "particles": {
+    "modes": {
+      "ka": "declarative",
+      "ve": "interrogative",
+      "to": "imperative",
+      "si": "conditional",
+      "na": "potential",
+      "de": "deontic",
+      "vo": "volitive",
+      "ko": "concessive",
+      "re": "corrective",
+      "su": "confirmative",
+      "kosi": "counterfactual"
+    },
+    "tense": {
+      "te": "past",
+      "nu": "present",
+      "fu": "future",
+      "ko": "atemporal"
+    },
+    "aspect": {
+      "du": "durative",
+      "fi": "completive",
+      "re": "iterative",
+      "ha": "habitual",
+      "in": "inceptive",
+      "ze": "cessative"
+    },
+    "exec_state": {
+      "va": "queued",
+      "ru": "running",
+      "pa": "paused",
+      "fa": "failed",
+      "refa": "retrying",
+      "rol": "reverted"
+    },
+    "evidence": {
+      "zo": "observation",
+      "li": "deduction",
+      "li-pro": "probabilistic",
+      "pe": "external",
+      "pe-ri": "multiple_sources",
+      "pe-kon": "conflicting",
+      "mi": "computation",
+      "mi-re": "recomputation",
+      "he": "inherited",
+      "as": "assumed"
+    },
+    "certainty": {
+      "en": "probable",
+      "ul": "uncertain",
+      "os": "speculative"
+    },
+    "voice": {
+      "pu": "passive",
+      "se": "reflexive",
+      "me": "reciprocal",
+      "fe": "causative",
+      "pro": "benefactive"
+    },
+    "negation": {
+      "mu": "simple_negation",
+      "nul": "nullity",
+      "ink": "unknowing",
+      "err": "indefinition",
+      "vet": "prohibition"
+    },
+    "causality": {
+      "kes": "direct_cause",
+      "pos": "enablement",
+      "blo": "prevention",
+      "kor": "correlation",
+      "mot": "motivation"
+    },
+    "quantifiers": {
+      "tor": "all",
+      "par": "some",
+      "un": "one",
+      "mas": "majority",
+      "min": "minority"
+    },
+    "connectors": {
+      "en": "and",
+      "o": "or_inclusive",
+      "eo": "or_exclusive",
+      "tan": "therefore",
+      "ken": "because",
+      "pen": "despite",
+      "kon": "however"
+    },
+    "pronouns": {
+      "sol": "I",
+      "nor": "you",
+      "vel": "he/she/it",
+      "zel": "unknown_3rd",
+      "solri-kon": "we_inclusive",
+      "solri-sen": "we_exclusive",
+      "norri": "you_all",
+      "velri": "they",
+      "zelri": "they_unknown",
+      "ren": "any_agent",
+      "toren": "every_agent",
+      "noren": "no_agent",
+      "solvi": "past_me",
+      "solfu": "future_me",
+      "solpar": "fork_me",
+      "norpro": "you_proxy"
+    },
+    "subordinators": {
+      "ta": "open_clause",
+      "ti": "close_clause",
+      "ta-mot": "purpose",
+      "ta-kes": "causal",
+      "ta-si": "conditional",
+      "ta-tem": "temporal",
+      "ta-pen": "concessive",
+      "pere-ta": "before",
+      "pos-ta": "after",
+      "tur-ta": "during",
+      "ke": "complementizer_declarative",
+      "keve": "complementizer_interrogative",
+      "zu": "quotative"
+    },
+    "discourse": {
+      "alo": "greeting",
+      "finu": "end_turn",
+      "klosu": "end_conversation",
+      "tenu": "holding_turn",
+      "reku": "request_turn",
+      "reto": "rhetorical_question"
+    },
+    "case_markers": {
+      "eki": "dative_recipient"
+    },
+    "comparison": {
+      "ani": "more_than",
+      "eni": "equal_to",
+      "uni": "less_than",
+      "supra": "superlative"
+    },
+    "deixis": {
+      "la": "assign_label",
+      "da": "reference",
+      "da-pre": "last_mentioned",
+      "da-ante": "before_last",
+      "da-sol": "what_I_said",
+      "da-nor": "what_you_said",
+      "da-vin": "conclusion",
+      "da-kes": "the_cause",
+      "da-toka": "the_task",
+      "da-teru": "the_system"
+    },
+    "possession": {
+      "de": "belongs_to",
+      "ori": "created_by"
+    },
+    "numbers": {
+      "no": {
+        "value": 0,
+        "note": "no collision"
+      },
+      "un": {
+        "value": 1,
+        "note": "no collision (same as quantifier 'one')"
+      },
+      "du": {
+        "value": 2,
+        "note": "no collision as standalone"
+      },
+      "nu-ti": {
+        "value": 3,
+        "note": "nu- prefix disambiguates from clause closer ti"
+      },
+      "nu-ka": {
+        "value": 4,
+        "note": "nu- prefix disambiguates from declarative mode ka"
+      },
+      "nu-pe": {
+        "value": 5,
+        "note": "nu- prefix disambiguates from evidential pe"
+      },
+      "se": {
+        "value": 6,
+        "note": "no collision as standalone"
+      },
+      "he": {
+        "value": 7,
+        "note": "no collision as standalone"
+      },
+      "ok": {
+        "value": 8,
+        "note": "no collision"
+      },
+      "nu-na": {
+        "value": 9,
+        "note": "nu- prefix disambiguates from potential mode na"
+      },
+      "deno": {
+        "value": 10,
+        "note": "power of ten"
+      },
+      "heno": {
+        "value": 100,
+        "note": "power of ten"
+      },
+      "kino": {
+        "value": 1000,
+        "note": "power of ten"
+      },
+      "melo": {
+        "value": 1000000,
+        "note": "power of ten"
+      },
+      "pun": {
+        "value": ".",
+        "note": "decimal separator"
+      }
+    }
+  }
+}

@@ -1,0 +1,1548 @@
+{
+  "name": "scientific",
+  "version": "1.0",
+  "domain": "Science, Medicine & Mathematics",
+  "word_count": 110,
+  "words": [
+    {
+      "voku": "suli-kosa",
+      "english": "atom, smallest thing",
+      "pos": "noun",
+      "ipa": "/ˈsu.li.ˈko.sa/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from suli (quiet/minimal) + kosa (thing) — smallest indivisible thing",
+      "example": {
+        "voku": "Ka tor kosa meke-pu eso suli-kosa.",
+        "gloss": "DECL all thing create-PASS from atom",
+        "english": "All things are made of atoms."
+      }
+    },
+    {
+      "voku": "suli-supa",
+      "english": "molecule, atom group",
+      "pos": "noun",
+      "ipa": "/ˈsu.li.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from suli-kosa (atom) abstracted to suli + supa (group) — atom group",
+      "example": {
+        "voku": "Ka ama ure suli-supa de-du suli-kosa en un.",
+        "gloss": "DECL water be molecule of-two atom and one",
+        "english": "Water is a molecule of two hydrogen atoms and one oxygen."
+      }
+    },
+    {
+      "voku": "kona-kosa",
+      "english": "element (chemical), core substance",
+      "pos": "noun",
+      "ipa": "/ˈko.na.ˈko.sa/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from kona (core) + kosa (thing) — core substance/element",
+      "example": {
+        "voku": "Ka tera tuve mani kona-kosa vari.",
+        "gloss": "DECL earth have many element various",
+        "english": "The earth has many different elements."
+      }
+    },
+    {
+      "voku": "fuse-kosa",
+      "english": "compound (chemical), joined substance",
+      "pos": "noun",
+      "ipa": "/ˈfu.se.ˈko.sa/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from fuse (join/combine) + kosa (thing) — joined substance",
+      "example": {
+        "voku": "Ka fuse-kosa meke-pu ta-tem du kona-kosa fuse-me ti.",
+        "gloss": "DECL compound create-PASS when two element join-RECIP",
+        "english": "A compound is created when two elements combine."
+      }
+    },
+    {
+      "voku": "mute-kiru",
+      "english": "reaction (chemical), logic change",
+      "pos": "abstraction",
+      "ipa": "/ˈmu.te.ˈki.ru/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from mute (change) + kiru (logic/process) — systematic change process",
+      "example": {
+        "voku": "Ka mute-kiru meke fuse-kosa novi.",
+        "gloss": "DECL reaction create compound new",
+        "english": "The reaction creates a new compound."
+      }
+    },
+    {
+      "voku": "kire-ama",
+      "english": "acid, cutting water/substance",
+      "pos": "noun",
+      "ipa": "/ˈki.re.ˈa.ma/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from kire (cut/sharp) + ama (water/liquid) — sharp/corrosive liquid",
+      "example": {
+        "voku": "Ka kire-ama ure mali poro fela.",
+        "gloss": "DECL acid be harmful for skin",
+        "english": "Acid is harmful to the skin."
+      }
+    },
+    {
+      "voku": "hele-ama",
+      "english": "base (chemistry), helping/neutralizing liquid",
+      "pos": "noun",
+      "ipa": "/ˈhe.le.ˈa.ma/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from hele (help/assist) + ama (liquid) — neutralizing liquid",
+      "example": {
+        "voku": "Ka hele-ama mute kire-ama eko mu-mali.",
+        "gloss": "DECL base change acid toward non-harmful",
+        "english": "A base neutralizes an acid."
+      }
+    },
+    {
+      "voku": "fuse-ama",
+      "english": "solution (chemistry), dissolved mixture",
+      "pos": "noun",
+      "ipa": "/ˈfu.se.ˈa.ma/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from fuse (join/combine) + ama (liquid) — combined liquid",
+      "example": {
+        "voku": "Ka sela-mela fuse eno ama poro meke fuse-ama.",
+        "gloss": "DECL salt join in water for make solution",
+        "english": "Salt dissolves in water to make a solution."
+      }
+    },
+    {
+      "voku": "liku-kiru",
+      "english": "bond (chemical), logical link",
+      "pos": "abstraction",
+      "ipa": "/ˈli.ku.ˈki.ru/",
+      "cefr": "B2",
+      "field": "chemistry",
+      "etymology": "from liku (link) + kiru (logic) — logical bond",
+      "example": {
+        "voku": "Ka suli-kosa liku-me ulo liku-kiru.",
+        "gloss": "DECL atom link-RECIP via bond",
+        "english": "Atoms link to each other through bonds."
+      }
+    },
+    {
+      "voku": "pile-kosa",
+      "english": "ion, charged particle",
+      "pos": "noun",
+      "ipa": "/ˈpi.le.ˈko.sa/",
+      "cefr": "B2",
+      "field": "chemistry",
+      "etymology": "from pile (push/force) + kosa (thing) — force-charged thing",
+      "example": {
+        "voku": "Ka pile-kosa tuve pile vali o pile mali.",
+        "gloss": "DECL ion have charge positive or charge negative",
+        "english": "An ion has a positive or negative charge."
+      }
+    },
+    {
+      "voku": "rapi-mute",
+      "english": "catalyst, fast-change agent",
+      "pos": "verb",
+      "ipa": "/ˈra.pi.ˈmu.te/",
+      "cefr": "B2",
+      "field": "chemistry",
+      "etymology": "from rapi (fast) + mute (change) — fast-change promoter",
+      "example": {
+        "voku": "Ka rapi-mute meke mute-kiru rapi sino mute-se.",
+        "gloss": "DECL catalyst make reaction fast without change-REFL",
+        "english": "A catalyst speeds the reaction without being consumed."
+      }
+    },
+    {
+      "voku": "viva-pula",
+      "english": "cell (biological), life piece",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈpu.la/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from viva (life) + pula (piece/fragment) — life piece/unit",
+      "example": {
+        "voku": "Ka soma meke-pu eso mani viva-pula.",
+        "gloss": "DECL body create-PASS from many cell",
+        "english": "The body is made of many cells."
+      }
+    },
+    {
+      "voku": "viva-koda",
+      "english": "gene, life code",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈko.da/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from viva (life) + koda (code) — life code/gene",
+      "example": {
+        "voku": "Ka viva-koda pine foma de-soma.",
+        "gloss": "DECL gene define structure of-body",
+        "english": "Genes define the body's structure."
+      }
+    },
+    {
+      "voku": "viva-koda-foma",
+      "english": "DNA, gene code structure",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈko.da.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva-koda (gene) + foma (structure) — gene code structure",
+      "example": {
+        "voku": "Ka viva-koda-foma sere tor kela de-viva.",
+        "gloss": "DECL DNA store all data of-life",
+        "english": "DNA stores all the information of life."
+      }
+    },
+    {
+      "voku": "viva-foma",
+      "english": "protein, life structure molecule",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva (life) + foma (structure) — life structural molecule",
+      "example": {
+        "voku": "Ka viva-foma take mani rula eno viva-pula.",
+        "gloss": "DECL protein do many role in cell",
+        "english": "Proteins perform many roles in cells."
+      }
+    },
+    {
+      "voku": "soma-kila",
+      "english": "organ, body functional device",
+      "pos": "noun",
+      "ipa": "/ˈso.ma.ˈki.la/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from soma (body) + kila (device/tool) — body functional device",
+      "example": {
+        "voku": "Ka kona ure soma-kila alati.",
+        "gloss": "DECL heart be organ important",
+        "english": "The heart is an important organ."
+      }
+    },
+    {
+      "voku": "viva-tela",
+      "english": "tissue (biological), life fabric",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈte.la/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva (life) + tela (fabric/covering) — life fabric/tissue",
+      "example": {
+        "voku": "Ka soma-kila meke-pu eso mani viva-tela.",
+        "gloss": "DECL organ create-PASS from many tissue",
+        "english": "Organs are made of many tissues."
+      }
+    },
+    {
+      "voku": "mali-puli-viva",
+      "english": "bacteria, small harmful life",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈpu.li.ˈvi.va/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from mali (bad) + puli (small) + viva (life) — small harmful life form",
+      "example": {
+        "voku": "Ka par mali-puli-viva kes hala-mali.",
+        "gloss": "DECL some bacteria cause illness",
+        "english": "Some bacteria cause illness."
+      }
+    },
+    {
+      "voku": "mali-koda-viva",
+      "english": "virus, harmful code life",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈko.da.ˈvi.va/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from mali (harmful) + koda (code) + viva (life) — harmful code organism",
+      "example": {
+        "voku": "Ka mali-koda-viva zike viva-pula poro meke-se novi.",
+        "gloss": "DECL virus enter cell for create-REFL new",
+        "english": "A virus enters a cell to replicate itself."
+      }
+    },
+    {
+      "voku": "mute-viva",
+      "english": "evolution, life change process",
+      "pos": "noun",
+      "ipa": "/ˈmu.te.ˈvi.va/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from mute (change) + viva (life) — life change over time",
+      "example": {
+        "voku": "Ka mute-viva mute tor viva-foma eno tema lomi.",
+        "gloss": "DECL evolution change all life-form in time long",
+        "english": "Evolution changes all life forms over long periods."
+      }
+    },
+    {
+      "voku": "viva-supa",
+      "english": "species, life group classification",
+      "pos": "noun",
+      "ipa": "/ˈvi.va.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from viva (life) + supa (group) — life group/species",
+      "example": {
+        "voku": "Ka tera tuve mani viva-supa vari.",
+        "gloss": "DECL earth have many species various",
+        "english": "The earth has many different species."
+      }
+    },
+    {
+      "voku": "viva-teru",
+      "english": "ecosystem, life system",
+      "pos": "abstraction",
+      "ipa": "/ˈvi.va.ˈte.ru/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva (life) + teru (system) — life system/ecosystem",
+      "example": {
+        "voku": "Ka viva-teru neke tor viva-supa poro ure vali.",
+        "gloss": "DECL ecosystem need all species for be healthy",
+        "english": "An ecosystem needs all species to be healthy."
+      }
+    },
+    {
+      "voku": "hale-kosa",
+      "english": "drug, medicine, healing substance",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈko.sa/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from hale (heal) + kosa (thing) — healing substance",
+      "example": {
+        "voku": "Ka hale-runa pore hale-kosa eko mali-runa.",
+        "gloss": "DECL doctor give medicine toward patient",
+        "english": "The doctor gives medicine to the patient."
+      }
+    },
+    {
+      "voku": "hale-vasa",
+      "english": "dose, healing quantity",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈva.sa/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hale (heal) + vasa (quantity) — healing quantity/dose",
+      "example": {
+        "voku": "De nor ane hale-vasa ta hale-runa pine ti.",
+        "gloss": "DEON 2SG take dose REL doctor prescribe",
+        "english": "You must take the dose the doctor prescribes."
+      }
+    },
+    {
+      "voku": "mali-seta",
+      "english": "symptom, illness sign",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈse.ta/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from mali (bad/harmful) + seta (sign) — illness sign",
+      "example": {
+        "voku": "Ka homi-soma ure mali-seta de-hala-mali.",
+        "gloss": "DECL fever be symptom of-illness",
+        "english": "Fever is a symptom of illness."
+      }
+    },
+    {
+      "voku": "tore-mali",
+      "english": "diagnosis, illness identification",
+      "pos": "adjective",
+      "ipa": "/ˈto.re.ˈma.li/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from tore (search) + mali (bad/illness) — search for illness/diagnosis",
+      "example": {
+        "voku": "Ka hale-runa take tore-mali poro kele hala-mali.",
+        "gloss": "DECL doctor do diagnosis for know illness",
+        "english": "The doctor makes a diagnosis to identify the illness."
+      }
+    },
+    {
+      "voku": "hale-motu",
+      "english": "treatment, healing method",
+      "pos": "abstraction",
+      "ipa": "/ˈha.le.ˈmo.tu/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hale (heal) + motu (method) — healing method",
+      "example": {
+        "voku": "Ka hale-runa kase hale-motu vali poro mali-runa.",
+        "gloss": "DECL doctor choose treatment good for patient",
+        "english": "The doctor chooses the best treatment for the patient."
+      }
+    },
+    {
+      "voku": "mali-runa",
+      "english": "patient, ill person",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈru.na/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from mali (bad/ill) + runa (agent/person) — ill person",
+      "example": {
+        "voku": "Ka mali-runa pave eno hale-loka.",
+        "gloss": "DECL patient wait in hospital",
+        "english": "The patient waits in the hospital."
+      }
+    },
+    {
+      "voku": "hala-mali",
+      "english": "disease, illness, health-bad condition",
+      "pos": "adjective",
+      "ipa": "/ˈha.la.ˈma.li/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from hala (health) + mali (bad) — bad health/disease",
+      "example": {
+        "voku": "Ka hala-mali ure mali poro soma.",
+        "gloss": "DECL disease be harmful for body",
+        "english": "Disease is harmful to the body."
+      }
+    },
+    {
+      "voku": "savi-hale",
+      "english": "vaccine, protective healing",
+      "pos": "verb",
+      "ipa": "/ˈsa.vi.ˈha.le/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from savi (safe/protect) + hale (heal) — protective healing substance",
+      "example": {
+        "voku": "Ka savi-hale savi soma eso hala-mali.",
+        "gloss": "DECL vaccine protect body from disease",
+        "english": "A vaccine protects the body from disease."
+      }
+    },
+    {
+      "voku": "hale-miru",
+      "english": "therapy, healing process",
+      "pos": "abstraction",
+      "ipa": "/ˈha.le.ˈmi.ru/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hale (heal) + miru (process) — healing process",
+      "example": {
+        "voku": "Ka mali-runa neke hale-miru lomi.",
+        "gloss": "DECL patient need therapy long",
+        "english": "The patient needs long-term therapy."
+      }
+    },
+    {
+      "voku": "kire-hale",
+      "english": "surgery, cutting to heal",
+      "pos": "verb",
+      "ipa": "/ˈki.re.ˈha.le/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from kire (cut) + hale (heal) — healing through cutting/surgery",
+      "example": {
+        "voku": "Ka mali-runa neke kire-hale poro fike soma-kila.",
+        "gloss": "DECL patient need surgery for fix organ",
+        "english": "The patient needs surgery to fix the organ."
+      }
+    },
+    {
+      "voku": "hale-sire",
+      "english": "prescription, healing written order",
+      "pos": "verb",
+      "ipa": "/ˈha.le.ˈsi.re/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hale (heal) + sire (write) — healing written order",
+      "example": {
+        "voku": "Ka hale-runa sire hale-sire poro hale-kosa.",
+        "gloss": "DECL doctor write prescription for medicine",
+        "english": "The doctor writes a prescription for medicine."
+      }
+    },
+    {
+      "voku": "pile-kiru",
+      "english": "force (physics), push logic/principle",
+      "pos": "abstraction",
+      "ipa": "/ˈpi.le.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from pile (push/force) + kiru (logic/principle) — physical force principle",
+      "example": {
+        "voku": "Ka pile-kiru meke kosa move.",
+        "gloss": "DECL force make thing move",
+        "english": "Force makes things move."
+      }
+    },
+    {
+      "voku": "take-kiru",
+      "english": "energy, action principle",
+      "pos": "abstraction",
+      "ipa": "/ˈta.ke.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from take (do/act) + kiru (logic/principle) — action principle/energy",
+      "example": {
+        "voku": "Ka take-kiru mu-meke-pu en mu-rupe-pu.",
+        "gloss": "DECL energy NEG-create-PASS and NEG-destroy-PASS",
+        "english": "Energy is neither created nor destroyed."
+      }
+    },
+    {
+      "voku": "havi-kiru",
+      "english": "mass, weight principle",
+      "pos": "abstraction",
+      "ipa": "/ˈha.vi.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from havi (heavy/weight) + kiru (principle) — weight/mass principle",
+      "example": {
+        "voku": "Ka havi-kiru mire-pu eno noma-kila.",
+        "gloss": "DECL mass measure-PASS in number-unit",
+        "english": "Mass is measured in units."
+      }
+    },
+    {
+      "voku": "rapi-kiru",
+      "english": "velocity, speed principle",
+      "pos": "abstraction",
+      "ipa": "/ˈra.pi.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from rapi (fast/speed) + kiru (principle) — speed principle/velocity",
+      "example": {
+        "voku": "Ka rapi-kiru mire-pu eno kema poro tema.",
+        "gloss": "DECL velocity measure-PASS in distance per time",
+        "english": "Velocity is measured in distance per time."
+      }
+    },
+    {
+      "voku": "move-foma",
+      "english": "wave (physics), movement pattern",
+      "pos": "noun",
+      "ipa": "/ˈmo.ve.ˈfo.ma/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from move (move) + foma (structure/pattern) — movement pattern/wave",
+      "example": {
+        "voku": "Ka luma move ulo move-foma.",
+        "gloss": "DECL light move via wave",
+        "english": "Light moves as a wave."
+      }
+    },
+    {
+      "voku": "puli-kosa",
+      "english": "particle (physics), small thing",
+      "pos": "noun",
+      "ipa": "/ˈpu.li.ˈko.sa/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from puli (small) + kosa (thing) — small thing/particle",
+      "example": {
+        "voku": "Ka luma take eni move-foma eni puli-kosa.",
+        "gloss": "DECL light act as wave as particle",
+        "english": "Light behaves as both a wave and a particle."
+      }
+    },
+    {
+      "voku": "fale-kiru",
+      "english": "gravity, falling principle",
+      "pos": "abstraction",
+      "ipa": "/ˈfa.le.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from fale (fall) + kiru (principle) — falling force principle",
+      "example": {
+        "voku": "Ka fale-kiru pure tor kosa eko tera.",
+        "gloss": "DECL gravity pull all thing toward earth",
+        "english": "Gravity pulls all things toward the earth."
+      }
+    },
+    {
+      "voku": "pile-zena",
+      "english": "field (physics), force space",
+      "pos": "noun",
+      "ipa": "/ˈpi.le.ˈze.na/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from pile (force) + zena (space) — force space/field",
+      "example": {
+        "voku": "Ka pile-zena ure aro tor havi-kosa.",
+        "gloss": "DECL field be around all massive-object",
+        "english": "A field exists around all massive objects."
+      }
+    },
+    {
+      "voku": "puli-kiru",
+      "english": "quantum, smallest logic unit",
+      "pos": "abstraction",
+      "ipa": "/ˈpu.li.ˈki.ru/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from puli (small/minimal) + kiru (logic) — minimal logic unit/quantum",
+      "example": {
+        "voku": "Ka puli-kiru pine reku de-take-kiru eno puli-kosa.",
+        "gloss": "DECL quantum define rule of-energy in particle",
+        "english": "Quantum mechanics defines energy rules at the particle level."
+      }
+    },
+    {
+      "voku": "sure-take-kiru",
+      "english": "radiation, sent energy",
+      "pos": "abstraction",
+      "ipa": "/ˈsu.re.ˈta.ke.ˈki.ru/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from sure (send) + take-kiru (energy) — sent/emitted energy",
+      "example": {
+        "voku": "Ka sola sure sure-take-kiru eko tor kema.",
+        "gloss": "DECL sun send radiation toward all direction",
+        "english": "The sun emits radiation in all directions."
+      }
+    },
+    {
+      "voku": "sami-kiru",
+      "english": "equation, equality logic",
+      "pos": "abstraction",
+      "ipa": "/ˈsa.mi.ˈki.ru/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from sami (same/equal) + kiru (logic) — equality expression",
+      "example": {
+        "voku": "Ka sami-kiru pine ta du kosa ure sami ti.",
+        "gloss": "DECL equation define REL two thing be equal",
+        "english": "An equation states that two things are equal."
+      }
+    },
+    {
+      "voku": "kiru-fone",
+      "english": "function (math), logic operation",
+      "pos": "verb",
+      "ipa": "/ˈki.ru.ˈfo.ne/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from kiru (logic) + fone (call/invoke) — callable logic operation",
+      "example": {
+        "voku": "Ka kiru-fone mute kela-zike eko kela-zere.",
+        "gloss": "DECL function change input toward output",
+        "english": "A function transforms input into output."
+      }
+    },
+    {
+      "voku": "muta-noma",
+      "english": "variable (math), changing number",
+      "pos": "noun",
+      "ipa": "/ˈmu.ta.ˈno.ma/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from muta (change) + noma (number) — changing number/variable",
+      "example": {
+        "voku": "Ka sami-kiru tuve du muta-noma.",
+        "gloss": "DECL equation have two variable",
+        "english": "The equation has two variables."
+      }
+    },
+    {
+      "voku": "sami-noma",
+      "english": "constant, unchanging number",
+      "pos": "noun",
+      "ipa": "/ˈsa.mi.ˈno.ma/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from sami (same/fixed) + noma (number) — fixed number/constant",
+      "example": {
+        "voku": "Ka sami-noma mu-mute-pu.",
+        "gloss": "DECL constant NEG-change-PASS",
+        "english": "A constant does not change."
+      }
+    },
+    {
+      "voku": "veri-kema",
+      "english": "proof (math), truth path",
+      "pos": "noun",
+      "ipa": "/ˈve.ri.ˈke.ma/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from veri (true) + kema (path) — path to truth/proof",
+      "example": {
+        "voku": "Ka sol fi-meke veri-kema de-kiru-reku.",
+        "gloss": "DECL 1SG COMPL-create proof of-theorem",
+        "english": "I completed the proof of the theorem."
+      }
+    },
+    {
+      "voku": "kiru-reku",
+      "english": "theorem, logic rule",
+      "pos": "abstraction",
+      "ipa": "/ˈki.ru.ˈre.ku/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from kiru (logic) + reku (rule) — logical rule/theorem",
+      "example": {
+        "voku": "Ka kiru-reku veri-pu ulo veri-kema.",
+        "gloss": "DECL theorem verify-PASS via proof",
+        "english": "A theorem is verified through a proof."
+      }
+    },
+    {
+      "voku": "supa-kule",
+      "english": "integral, sum computation",
+      "pos": "verb",
+      "ipa": "/ˈsu.pa.ˈku.le/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from supa (group/sum) + kule (compute) — summing computation/integral",
+      "example": {
+        "voku": "Ka supa-kule kule tor puli-kosa eno kema.",
+        "gloss": "DECL integral compute all small-part in range",
+        "english": "An integral computes all small parts over a range."
+      }
+    },
+    {
+      "voku": "mute-mire",
+      "english": "derivative, change measurement",
+      "pos": "verb",
+      "ipa": "/ˈmu.te.ˈmi.re/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from mute (change) + mire (measure) — rate of change",
+      "example": {
+        "voku": "Ka mute-mire mire rapi de-mute.",
+        "gloss": "DECL derivative measure speed of-change",
+        "english": "A derivative measures the rate of change."
+      }
+    },
+    {
+      "voku": "noma-foma",
+      "english": "matrix, number structure/grid",
+      "pos": "noun",
+      "ipa": "/ˈno.ma.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from noma (number) + foma (structure) — number grid/matrix",
+      "example": {
+        "voku": "Ka noma-foma sere noma eno foma-turi.",
+        "gloss": "DECL matrix store number in grid-structure",
+        "english": "A matrix stores numbers in a grid structure."
+      }
+    },
+    {
+      "voku": "na-kiru",
+      "english": "probability, possibility logic",
+      "pos": "abstraction",
+      "ipa": "/ˈna.ˈki.ru/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from na (potential/possible) + kiru (logic) — possibility logic",
+      "example": {
+        "voku": "Ka na-kiru mire-pu eso nul eko un.",
+        "gloss": "DECL probability measure-PASS from zero toward one",
+        "english": "Probability is measured from zero to one."
+      }
+    },
+    {
+      "voku": "pine-veri",
+      "english": "hypothesis, designed truth claim",
+      "pos": "adjective",
+      "ipa": "/ˈpi.ne.ˈve.ri/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from pine (plan/design) + veri (true) — planned truth/hypothesis",
+      "example": {
+        "voku": "Ka tore-runa pine pine-veri te-ine luke-miru.",
+        "gloss": "DECL researcher design hypothesis before-start experiment",
+        "english": "The researcher designs a hypothesis before the experiment."
+      }
+    },
+    {
+      "voku": "luke-miru",
+      "english": "experiment, evaluation process",
+      "pos": "abstraction",
+      "ipa": "/ˈlu.ke.ˈmi.ru/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from luke (evaluate) + miru (process) — evaluation process/experiment",
+      "example": {
+        "voku": "Ka tore-runa take luke-miru poro veri pine-veri.",
+        "gloss": "DECL researcher do experiment for verify hypothesis",
+        "english": "The researcher conducts an experiment to verify the hypothesis."
+      }
+    },
+    {
+      "voku": "luke-kela",
+      "english": "data (research), evaluated information",
+      "pos": "noun",
+      "ipa": "/ˈlu.ke.ˈke.la/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from luke (evaluate) + kela (data) — research data",
+      "example": {
+        "voku": "Ka tore-runa supa luke-kela poro luke.",
+        "gloss": "DECL researcher collect data for evaluation",
+        "english": "The researcher collects data for analysis."
+      }
+    },
+    {
+      "voku": "luke-resa",
+      "english": "result, evaluation answer",
+      "pos": "noun",
+      "ipa": "/ˈlu.ke.ˈre.sa/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from luke (evaluate) + resa (response/answer) — evaluation result",
+      "example": {
+        "voku": "Ka luke-resa veri pine-veri.",
+        "gloss": "DECL result verify hypothesis",
+        "english": "The results verify the hypothesis."
+      }
+    },
+    {
+      "voku": "kire-kela",
+      "english": "analysis, data cutting/dissection",
+      "pos": "noun",
+      "ipa": "/ˈki.re.ˈke.la/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from kire (cut/divide) + kela (data) — data dissection/analysis",
+      "example": {
+        "voku": "Ka kire-kela voke ta luke-kela pine vel ti.",
+        "gloss": "DECL analysis show REL data mean what",
+        "english": "The analysis shows what the data means."
+      }
+    },
+    {
+      "voku": "tore-motu",
+      "english": "method (research), search approach",
+      "pos": "abstraction",
+      "ipa": "/ˈto.re.ˈmo.tu/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from tore (search) + motu (method) — research method",
+      "example": {
+        "voku": "Ka tore-runa pine tore-motu te-ine luke-miru.",
+        "gloss": "DECL researcher define method before-start experiment",
+        "english": "The researcher defines the method before the experiment."
+      }
+    },
+    {
+      "voku": "velri-luke",
+      "english": "peer review, others' evaluation",
+      "pos": "verb",
+      "ipa": "/ˈvel.ri.ˈlu.ke/",
+      "cefr": "B2",
+      "field": "research",
+      "etymology": "from velri (they/others) + luke (evaluate) — others' evaluation/peer review",
+      "example": {
+        "voku": "Ka tore-sire neke velri-luke te-ine sure-pu.",
+        "gloss": "DECL paper need peer-review before-start publish-PASS",
+        "english": "A paper needs peer review before being published."
+      }
+    },
+    {
+      "voku": "sure-sire",
+      "english": "publish, send writing",
+      "pos": "verb",
+      "ipa": "/ˈsu.re.ˈsi.re/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from sure (send/dispatch) + sire (write) — dispatch writing/publish",
+      "example": {
+        "voku": "Ka tore-runa sure-sire luke-resa eno tore-sire.",
+        "gloss": "DECL researcher publish result in paper",
+        "english": "The researcher publishes results in a paper."
+      }
+    },
+    {
+      "voku": "luke-supa",
+      "english": "sample, evaluation group",
+      "pos": "noun",
+      "ipa": "/ˈlu.ke.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from luke (evaluate) + supa (group) — evaluation sample group",
+      "example": {
+        "voku": "Ka luke-supa tuve vas-heno mali-runa.",
+        "gloss": "DECL sample have hundred patient",
+        "english": "The sample has a hundred patients."
+      }
+    },
+    {
+      "voku": "sami-luke",
+      "english": "control (experimental), comparison evaluation",
+      "pos": "verb",
+      "ipa": "/ˈsa.mi.ˈlu.ke/",
+      "cefr": "B2",
+      "field": "research",
+      "etymology": "from sami (same/baseline) + luke (evaluate) — baseline evaluation/control",
+      "example": {
+        "voku": "Ka luke-miru neke sami-luke poro luke-pu veri.",
+        "gloss": "DECL experiment need control for evaluate-PASS true",
+        "english": "An experiment needs a control to be evaluated properly."
+      }
+    },
+    {
+      "voku": "tore-runa",
+      "english": "researcher, searching agent",
+      "pos": "noun",
+      "ipa": "/ˈto.re.ˈru.na/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from tore (search) + runa (agent) — searching agent/researcher",
+      "example": {
+        "voku": "Ka tore-runa tore kela poro kele viva.",
+        "gloss": "DECL researcher search data for understand life",
+        "english": "The researcher searches for data to understand life."
+      }
+    },
+    {
+      "voku": "tore-sire",
+      "english": "paper (research), search document",
+      "pos": "verb",
+      "ipa": "/ˈto.re.ˈsi.re/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from tore (search/research) + sire (write) — research writing/paper",
+      "example": {
+        "voku": "Ka sol lire tore-sire de-mute-viva.",
+        "gloss": "DECL 1SG read paper of-evolution",
+        "english": "I read a paper on evolution."
+      }
+    },
+    {
+      "voku": "hale-runa",
+      "english": "doctor, healing agent",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈru.na/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from hale (heal) + runa (agent) — healing agent/doctor",
+      "example": {
+        "voku": "Ka hale-runa luke soma de-mali-runa.",
+        "gloss": "DECL doctor evaluate body of-patient",
+        "english": "The doctor examines the patient."
+      }
+    },
+    {
+      "voku": "hala-luke",
+      "english": "medical examination, health check",
+      "pos": "verb",
+      "ipa": "/ˈha.la.ˈlu.ke/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hala (health) + luke (evaluate) — health evaluation",
+      "example": {
+        "voku": "Ka sol take hala-luke tor zela.",
+        "gloss": "DECL 1SG do check-up every year",
+        "english": "I do a check-up every year."
+      }
+    },
+    {
+      "voku": "homi-soma",
+      "english": "fever, body heat",
+      "pos": "noun",
+      "ipa": "/ˈho.mi.ˈso.ma/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from homi (warm/heat) + soma (body) — body heat/fever",
+      "example": {
+        "voku": "Ka hila tuve homi-soma alati.",
+        "gloss": "DECL child have fever high",
+        "english": "The child has a high fever."
+      }
+    },
+    {
+      "voku": "tole-mali",
+      "english": "pain, harmful feeling",
+      "pos": "adjective",
+      "ipa": "/ˈto.le.ˈma.li/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from tole (feel) + mali (bad) — bad feeling/pain",
+      "example": {
+        "voku": "Ka sol tole tole-mali eno kara.",
+        "gloss": "DECL 1SG feel pain in head",
+        "english": "I feel pain in my head."
+      }
+    },
+    {
+      "voku": "hema-miru",
+      "english": "blood test, blood process analysis",
+      "pos": "abstraction",
+      "ipa": "/ˈhe.ma.ˈmi.ru/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hema (blood) + miru (process) — blood analysis process",
+      "example": {
+        "voku": "Ka hale-runa hire hema-miru poro tore-mali.",
+        "gloss": "DECL doctor request blood-test for diagnosis",
+        "english": "The doctor requests a blood test for diagnosis."
+      }
+    },
+    {
+      "voku": "hale-kosa-mali",
+      "english": "side effect, medicine harmful effect",
+      "pos": "adjective",
+      "ipa": "/ˈha.le.ˈko.sa.ˈma.li/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from hale-kosa (medicine) + mali (bad) — medicine bad effect",
+      "example": {
+        "voku": "Ka par hale-kosa tuve hale-kosa-mali.",
+        "gloss": "DECL some medicine have side-effect",
+        "english": "Some medicines have side effects."
+      }
+    },
+    {
+      "voku": "viva-mute",
+      "english": "mutation, life change",
+      "pos": "verb",
+      "ipa": "/ˈvi.va.ˈmu.te/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva (life) + mute (change) — life code change/mutation",
+      "example": {
+        "voku": "Ka viva-mute mute viva-koda.",
+        "gloss": "DECL mutation change gene",
+        "english": "A mutation changes a gene."
+      }
+    },
+    {
+      "voku": "viva-pula-kire",
+      "english": "cell division, cell cutting",
+      "pos": "verb",
+      "ipa": "/ˈvi.va.ˈpu.la.ˈki.re/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva-pula (cell) + kire (cut/divide) — cell division",
+      "example": {
+        "voku": "Ka viva-pula-kire kes tire de-soma.",
+        "gloss": "DECL cell-division cause growth of-body",
+        "english": "Cell division causes body growth."
+      }
+    },
+    {
+      "voku": "viva-supa-kiru",
+      "english": "taxonomy, life classification logic",
+      "pos": "abstraction",
+      "ipa": "/ˈvi.va.ˈsu.pa.ˈki.ru/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from viva-supa (species) + kiru (logic) — species classification logic",
+      "example": {
+        "voku": "Ka viva-supa-kiru pine ve viva supa-pu ti.",
+        "gloss": "DECL taxonomy define how life classify-PASS",
+        "english": "Taxonomy defines how life is classified."
+      }
+    },
+    {
+      "voku": "luma-mire",
+      "english": "microscope, light-measuring device",
+      "pos": "verb",
+      "ipa": "/ˈlu.ma.ˈmi.re/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from luma (light) + mire (measure) — light-based measuring/viewing device",
+      "example": {
+        "voku": "Ka tore-runa veke viva-pula ulo luma-mire.",
+        "gloss": "DECL researcher see cell via microscope",
+        "english": "The researcher sees cells through a microscope."
+      }
+    },
+    {
+      "voku": "sana-mire",
+      "english": "telescope, star-measuring device",
+      "pos": "verb",
+      "ipa": "/ˈsa.na.ˈmi.re/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from sana (star) + mire (measure) — star-viewing/measuring device",
+      "example": {
+        "voku": "Ka tore-runa veke sana ulo sana-mire.",
+        "gloss": "DECL researcher see star via telescope",
+        "english": "The researcher observes stars through a telescope."
+      }
+    },
+    {
+      "voku": "hale-loka",
+      "english": "hospital, healing place",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈlo.ka/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from hale (heal) + loka (place) — healing place",
+      "example": {
+        "voku": "Ka mali-runa vine eno hale-loka.",
+        "gloss": "DECL patient arrive in hospital",
+        "english": "The patient arrives at the hospital."
+      }
+    },
+    {
+      "voku": "tore-loka",
+      "english": "laboratory, research place",
+      "pos": "noun",
+      "ipa": "/ˈto.re.ˈlo.ka/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from tore (search/research) + loka (place) — research place/lab",
+      "example": {
+        "voku": "Ka tore-runa take eno tore-loka.",
+        "gloss": "DECL researcher work in laboratory",
+        "english": "The researcher works in the laboratory."
+      }
+    },
+    {
+      "voku": "kona-kosa-sire",
+      "english": "periodic table, element chart",
+      "pos": "verb",
+      "ipa": "/ˈko.na.ˈko.sa.ˈsi.re/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from kona-kosa (element) + sire (written/chart) — element chart",
+      "example": {
+        "voku": "Ka kona-kosa-sire supa tor kona-kosa.",
+        "gloss": "DECL periodic-table list all element",
+        "english": "The periodic table lists all elements."
+      }
+    },
+    {
+      "voku": "ama-kire",
+      "english": "electrolysis, water splitting",
+      "pos": "verb",
+      "ipa": "/ˈa.ma.ˈki.re/",
+      "cefr": "B2",
+      "field": "chemistry",
+      "etymology": "from ama (water) + kire (cut/split) — water splitting/electrolysis",
+      "example": {
+        "voku": "Ka ama-kire kire ama eko du kona-kosa.",
+        "gloss": "DECL electrolysis split water toward two element",
+        "english": "Electrolysis splits water into two elements."
+      }
+    },
+    {
+      "voku": "mute-take-kiru",
+      "english": "thermodynamics, change-energy logic",
+      "pos": "abstraction",
+      "ipa": "/ˈmu.te.ˈta.ke.ˈki.ru/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from mute (change) + take-kiru (energy) + kiru (logic) — energy change logic",
+      "example": {
+        "voku": "Ka mute-take-kiru pine reku de-homi en take-kiru.",
+        "gloss": "DECL thermodynamics define rule of-heat and energy",
+        "english": "Thermodynamics defines the rules of heat and energy."
+      }
+    },
+    {
+      "voku": "luma-rapi",
+      "english": "speed of light, light speed",
+      "pos": "adjective",
+      "ipa": "/ˈlu.ma.ˈra.pi/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from luma (light) + rapi (fast/speed) — light speed",
+      "example": {
+        "voku": "Ka nul kosa move rapi ani luma-rapi.",
+        "gloss": "DECL nothing move fast more-than light-speed",
+        "english": "Nothing moves faster than the speed of light."
+      }
+    },
+    {
+      "voku": "kule-kiru",
+      "english": "statistics, computation logic",
+      "pos": "abstraction",
+      "ipa": "/ˈku.le.ˈki.ru/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from kule (compute) + kiru (logic) — computational logic/statistics",
+      "example": {
+        "voku": "Ka kule-kiru hele tore-runa kele luke-kela.",
+        "gloss": "DECL statistics help researcher understand data",
+        "english": "Statistics helps researchers understand data."
+      }
+    },
+    {
+      "voku": "kiru-pine",
+      "english": "model (scientific), logic design",
+      "pos": "verb",
+      "ipa": "/ˈki.ru.ˈpi.ne/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from kiru (logic) + pine (plan/design) — logical model/design",
+      "example": {
+        "voku": "Ka tore-runa meke kiru-pine poro kele viva-teru.",
+        "gloss": "DECL researcher create model for understand ecosystem",
+        "english": "The researcher creates a model to understand the ecosystem."
+      }
+    },
+    {
+      "voku": "supa-mire",
+      "english": "survey, group measurement",
+      "pos": "verb",
+      "ipa": "/ˈsu.pa.ˈmi.re/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from supa (group) + mire (measure) — group measurement/survey",
+      "example": {
+        "voku": "Ka tore-runa take supa-mire de-mani runa.",
+        "gloss": "DECL researcher do survey of-many person",
+        "english": "The researcher conducts a survey of many people."
+      }
+    },
+    {
+      "voku": "tore-kiru",
+      "english": "theory, research logic framework",
+      "pos": "abstraction",
+      "ipa": "/ˈto.re.ˈki.ru/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from tore (search/research) + kiru (logic) — research logic framework/theory",
+      "example": {
+        "voku": "Ka tore-kiru pine ve tor kosa take-me ti.",
+        "gloss": "DECL theory explain how all thing interact",
+        "english": "A theory explains how things interact."
+      }
+    },
+    {
+      "voku": "noma-kila",
+      "english": "unit (measurement), number tool",
+      "pos": "noun",
+      "ipa": "/ˈno.ma.ˈki.la/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from noma (number) + kila (tool) — measuring unit",
+      "example": {
+        "voku": "Ka havi-kiru mire-pu eno noma-kila de-havi.",
+        "gloss": "DECL mass measure-PASS in unit of-weight",
+        "english": "Mass is measured in units of weight."
+      }
+    },
+    {
+      "voku": "kela-zike",
+      "english": "input, data entering",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈzi.ke/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from kela (data) + zike (enter) — data entering/input",
+      "example": {
+        "voku": "Ka kiru-fone ore kela-zike en meke kela-zere.",
+        "gloss": "DECL function receive input and make output",
+        "english": "A function receives input and produces output."
+      }
+    },
+    {
+      "voku": "kela-zere",
+      "english": "output, data leaving",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈze.re/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from kela (data) + zere (leave/exit) — data output",
+      "example": {
+        "voku": "Ka kela-zere ure veri si kela-zike ure veri.",
+        "gloss": "DECL output be correct if input be correct",
+        "english": "Output is correct if the input is correct."
+      }
+    },
+    {
+      "voku": "viva-hale-kiru",
+      "english": "pharmacology, life-healing science",
+      "pos": "abstraction",
+      "ipa": "/ˈvi.va.ˈha.le.ˈki.ru/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from viva (life) + hale (heal) + kiru (logic/science) — life healing science",
+      "example": {
+        "voku": "Ka viva-hale-kiru tore ve hale-kosa take eno soma ti.",
+        "gloss": "DECL pharmacology research how medicine act in body",
+        "english": "Pharmacology studies how medicines act in the body."
+      }
+    },
+    {
+      "voku": "hale-luke-miru",
+      "english": "clinical trial, healing evaluation experiment",
+      "pos": "abstraction",
+      "ipa": "/ˈha.le.ˈlu.ke.ˈmi.ru/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from hale (heal) + luke-miru (experiment) — healing experiment/clinical trial",
+      "example": {
+        "voku": "Ka hale-kosa novi neke hale-luke-miru te-ine pore-tina-pu.",
+        "gloss": "DECL medicine new need clinical-trial before sell-PASS",
+        "english": "New medicines need clinical trials before being sold."
+      }
+    },
+    {
+      "voku": "soma-savi-teru",
+      "english": "immune system, body protection system",
+      "pos": "abstraction",
+      "ipa": "/ˈso.ma.ˈsa.vi.ˈte.ru/",
+      "cefr": "B2",
+      "field": "biology",
+      "etymology": "from soma (body) + savi (safe/protect) + teru (system) — body protection system",
+      "example": {
+        "voku": "Ka soma-savi-teru savi soma eso mali-puli-viva.",
+        "gloss": "DECL immune-system protect body from bacteria",
+        "english": "The immune system protects the body from bacteria."
+      }
+    },
+    {
+      "voku": "viva-kiru",
+      "english": "biology, life science",
+      "pos": "abstraction",
+      "ipa": "/ˈvi.va.ˈki.ru/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from viva (life) + kiru (logic/science) — life science",
+      "example": {
+        "voku": "Ka viva-kiru tore ve viva take ti.",
+        "gloss": "DECL biology research how life work",
+        "english": "Biology studies how life works."
+      }
+    },
+    {
+      "voku": "kosa-kiru",
+      "english": "chemistry, substance science",
+      "pos": "abstraction",
+      "ipa": "/ˈko.sa.ˈki.ru/",
+      "cefr": "B1",
+      "field": "chemistry",
+      "etymology": "from kosa (thing/substance) + kiru (logic/science) — substance science",
+      "example": {
+        "voku": "Ka kosa-kiru tore ve kona-kosa mute-me en fuse-me ti.",
+        "gloss": "DECL chemistry research how element change-RECIP and combine-RECIP",
+        "english": "Chemistry studies how elements change and combine."
+      }
+    },
+    {
+      "voku": "move-kiru",
+      "english": "physics, movement science",
+      "pos": "abstraction",
+      "ipa": "/ˈmo.ve.ˈki.ru/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from move (move/motion) + kiru (logic/science) — motion science",
+      "example": {
+        "voku": "Ka move-kiru tore ve kosa move en take-me ti.",
+        "gloss": "DECL physics research how thing move and interact",
+        "english": "Physics studies how things move and interact."
+      }
+    },
+    {
+      "voku": "noma-kiru",
+      "english": "mathematics, number science",
+      "pos": "abstraction",
+      "ipa": "/ˈno.ma.ˈki.ru/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from noma (number) + kiru (logic/science) — number science",
+      "example": {
+        "voku": "Ka noma-kiru pine reku de-noma en foma.",
+        "gloss": "DECL mathematics define rule of-number and structure",
+        "english": "Mathematics defines the rules of numbers and structures."
+      }
+    },
+    {
+      "voku": "hale-kosa-loka",
+      "english": "pharmacy, medicine place",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈko.sa.ˈlo.ka/",
+      "cefr": "A2",
+      "field": "medicine",
+      "etymology": "from hale-kosa (medicine) + loka (place) — medicine place/pharmacy",
+      "example": {
+        "voku": "Ka sol teme-tina hale-kosa eno hale-kosa-loka.",
+        "gloss": "DECL 1SG buy medicine in pharmacy",
+        "english": "I buy medicine at the pharmacy."
+      }
+    },
+    {
+      "voku": "mali-puli-viva-savi",
+      "english": "antibiotic, anti-bacteria substance",
+      "pos": "adjective",
+      "ipa": "/ˈma.li.ˈpu.li.ˈvi.va.ˈsa.vi/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from mali-puli-viva (bacteria) + savi (protect against) — anti-bacterial",
+      "example": {
+        "voku": "Ka hale-runa pine hale-sire de-mali-puli-viva-savi.",
+        "gloss": "DECL doctor write prescription of-antibiotic",
+        "english": "The doctor prescribes an antibiotic."
+      }
+    },
+    {
+      "voku": "sene-kila",
+      "english": "sensor, perceiving device",
+      "pos": "noun",
+      "ipa": "/ˈse.ne.ˈki.la/",
+      "cefr": "B1",
+      "field": "research",
+      "etymology": "from sene (perceive) + kila (device) — perceiving device/sensor",
+      "example": {
+        "voku": "Ka sene-kila mire homi-mire de-afa.",
+        "gloss": "DECL sensor measure temperature of-air",
+        "english": "The sensor measures the air temperature."
+      }
+    },
+    {
+      "voku": "havi-kosa",
+      "english": "heavy object, massive object (in physics)",
+      "pos": "noun",
+      "ipa": "/ˈha.vi.ˈko.sa/",
+      "cefr": "B1",
+      "field": "physics",
+      "etymology": "from havi (heavy) + kosa (thing) — heavy/massive object",
+      "example": {
+        "voku": "Ka havi-kosa tuve fale-kiru vasi.",
+        "gloss": "DECL massive-object have gravity large",
+        "english": "Massive objects have strong gravity."
+      }
+    },
+    {
+      "voku": "puli-viva",
+      "english": "microorganism, small life form",
+      "pos": "noun",
+      "ipa": "/ˈpu.li.ˈvi.va/",
+      "cefr": "B1",
+      "field": "biology",
+      "etymology": "from puli (small) + viva (life) — small life form",
+      "example": {
+        "voku": "Ka puli-viva vere eno tor loka.",
+        "gloss": "DECL microorganism live in all place",
+        "english": "Microorganisms live everywhere."
+      }
+    },
+    {
+      "voku": "noma-kema",
+      "english": "graph, number path/diagram",
+      "pos": "noun",
+      "ipa": "/ˈno.ma.ˈke.ma/",
+      "cefr": "B1",
+      "field": "math",
+      "etymology": "from noma (number) + kema (path) — number path/graph",
+      "example": {
+        "voku": "Ka noma-kema voke luke-kela eno foma veke.",
+        "gloss": "DECL graph show data in structure visual",
+        "english": "A graph shows data in a visual structure."
+      }
+    },
+    {
+      "voku": "kiru-tura",
+      "english": "symmetry, logic reflection",
+      "pos": "noun",
+      "ipa": "/ˈki.ru.ˈtu.ra/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from kiru (logic) + tura (reflection) — logical symmetry",
+      "example": {
+        "voku": "Ka kiru-tura ure alati eno move-kiru.",
+        "gloss": "DECL symmetry be important in physics",
+        "english": "Symmetry is important in physics."
+      }
+    },
+    {
+      "voku": "homa-hale",
+      "english": "anesthesia, warmth-healing (numbing)",
+      "pos": "verb",
+      "ipa": "/ˈho.ma.ˈha.le/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from homa (numb, variant) + hale (heal) — numbing for healing",
+      "example": {
+        "voku": "Ka mali-runa ore homa-hale te-ine kire-hale.",
+        "gloss": "DECL patient receive anesthesia before surgery",
+        "english": "The patient receives anesthesia before surgery."
+      }
+    },
+    {
+      "voku": "veke-soma-kila",
+      "english": "X-ray, body-viewing tool",
+      "pos": "noun",
+      "ipa": "/ˈve.ke.ˈso.ma.ˈki.la/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from veke (see) + soma (body) + kila (tool) — body viewing tool",
+      "example": {
+        "voku": "Ka hale-runa ule veke-soma-kila poro veke asa.",
+        "gloss": "DECL doctor use x-ray for see bone",
+        "english": "The doctor uses X-ray to see bones."
+      }
+    },
+    {
+      "voku": "foma-turi",
+      "english": "grid, circular/repeating structure",
+      "pos": "adjective",
+      "ipa": "/ˈfo.ma.ˈtu.ri/",
+      "cefr": "B2",
+      "field": "math",
+      "etymology": "from foma (structure) + turi (round/repeating) — repeating structure/grid",
+      "example": {
+        "voku": "Ka noma sere-pu eno foma-turi.",
+        "gloss": "DECL number store-PASS in grid",
+        "english": "Numbers are stored in a grid."
+      }
+    },
+    {
+      "voku": "hale-kosa-meke",
+      "english": "drug development, medicine creation",
+      "pos": "verb",
+      "ipa": "/ˈha.le.ˈko.sa.ˈme.ke/",
+      "cefr": "B2",
+      "field": "medicine",
+      "etymology": "from hale-kosa (drug) + meke (create) — drug creation/development",
+      "example": {
+        "voku": "Ka hale-kosa-meke neke mani zela en mani tina.",
+        "gloss": "DECL drug-development need many year and many money",
+        "english": "Drug development needs many years and much money."
+      }
+    },
+    {
+      "voku": "viva-koda-mute",
+      "english": "genetic engineering, gene code modification",
+      "pos": "verb",
+      "ipa": "/ˈvi.va.ˈko.da.ˈmu.te/",
+      "cefr": "C1",
+      "field": "biology",
+      "etymology": "from viva-koda (gene) + mute (change) — gene modification",
+      "example": {
+        "voku": "Ka viva-koda-mute pote hale hala-mali ta he-sena eno viva-koda ti.",
+        "gloss": "DECL genetic-engineering can heal disease REL origin in gene",
+        "english": "Genetic engineering can treat diseases with genetic origins."
+      }
+    },
+    {
+      "voku": "suli-kosa-kiru",
+      "english": "atomic physics, atom science",
+      "pos": "abstraction",
+      "ipa": "/ˈsu.li.ˈko.sa.ˈki.ru/",
+      "cefr": "B2",
+      "field": "physics",
+      "etymology": "from suli-kosa (atom) + kiru (science) — atomic science",
+      "example": {
+        "voku": "Ka suli-kosa-kiru tore foma de-suli-kosa.",
+        "gloss": "DECL atomic-physics study structure of-atom",
+        "english": "Atomic physics studies the structure of atoms."
+      }
+    },
+    {
+      "voku": "hale-runa-supa",
+      "english": "medical team, healing agent group",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈru.na.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "medicine",
+      "etymology": "from hale-runa (doctor) + supa (group) — medical team",
+      "example": {
+        "voku": "Ka hale-runa-supa take kire-hale kono.",
+        "gloss": "DECL medical-team do surgery together",
+        "english": "The medical team performs surgery together."
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "voku-language",
+  "version": "2.0.0",
+  "description": "Complete specification of Voku, a constructed language for AI-agent communication. Read quick-start/cheat-sheet.md for compact grammar, quick-start/essential-vocabulary.md for top 100 words.",
+  "author": "Voku Language Project",
+  "license": "CC-BY-4.0",
+  "tags": ["language", "conlang", "ai-communication", "translation", "linguistics"],
+  "entry": "SKILL.md",
+  "skills": [
+    {
+      "name": "voku-translate",
+      "description": "Translate between Voku and English using the built-in translator",
+      "command": "python3 tools/translator/cli.py",
+      "args": ["{text}", "--direction", "{direction}"],
+      "parameters": {
+        "text": {
+          "type": "string",
+          "description": "Text to translate"
+        },
+        "direction": {
+          "type": "string",
+          "enum": ["voku-en", "en-voku"],
+          "default": "voku-en"
+        }
+      }
+    }
+  ],
+  "resources": {
+    "cheat-sheet": "quick-start/cheat-sheet.md",
+    "vocabulary": "quick-start/essential-vocabulary.md",
+    "examples": "quick-start/first-sentences.md",
+    "dictionary": "lexicon/dictionary.json",
+    "full-grammar": ["grammar/phonology.md", "grammar/morphology.md", "grammar/syntax.md", "grammar/semantics.md"]
+  }
+}

@@ -1,0 +1,1744 @@
+{
+  "name": "daily",
+  "version": "1.0",
+  "domain": "Daily Life & Household",
+  "word_count": 124,
+  "words": [
+    {
+      "voku": "pana",
+      "english": "bread",
+      "pos": "noun",
+      "ipa": "/ˈpa.na/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "existing root: baked grain food",
+      "example": {
+        "voku": "Ka sol ane pana tor zara.",
+        "gloss": "DECL 1SG eat bread every day",
+        "english": "I eat bread every day."
+      }
+    },
+    {
+      "voku": "risa",
+      "english": "rice, grain",
+      "pos": "noun",
+      "ipa": "/ˈri.sa/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "new root: ri- (seed-like) + -sa (substance) — grain substance",
+      "example": {
+        "voku": "Ka sol homi-meke risa kono ama.",
+        "gloss": "DECL 1SG warm-make rice with water",
+        "english": "I cook rice with water."
+      }
+    },
+    {
+      "voku": "fura",
+      "english": "fruit",
+      "pos": "noun",
+      "ipa": "/ˈfu.ra/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "existing root: fruit",
+      "example": {
+        "voku": "Ka fura ure vali poro soma.",
+        "gloss": "DECL fruit be good for body",
+        "english": "Fruit is good for the body."
+      }
+    },
+    {
+      "voku": "tera-mela",
+      "english": "vegetable, earth food",
+      "pos": "noun",
+      "ipa": "/ˈte.ra.ˈme.la/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from tera (earth) + mela (food) — earth-grown food",
+      "example": {
+        "voku": "Ka sol ane tera-mela tor zara.",
+        "gloss": "DECL 1SG eat vegetable every day",
+        "english": "I eat vegetables every day."
+      }
+    },
+    {
+      "voku": "mota",
+      "english": "meat, animal flesh",
+      "pos": "noun",
+      "ipa": "/ˈmo.ta/",
+      "cefr": "A2",
+      "field": "food",
+      "etymology": "existing root: meat, animal flesh as food",
+      "example": {
+        "voku": "Ka sol homi-meke mota eno fira.",
+        "gloss": "DECL 1SG warm-make meat in fire",
+        "english": "I cook meat over fire."
+      }
+    },
+    {
+      "voku": "pisa",
+      "english": "fish",
+      "pos": "noun",
+      "ipa": "/ˈpi.sa/",
+      "cefr": "A2",
+      "field": "food",
+      "etymology": "existing root: fish (animal)",
+      "example": {
+        "voku": "Ka pisa vere eno mara.",
+        "gloss": "DECL fish live in sea",
+        "english": "Fish live in the sea."
+      }
+    },
+    {
+      "voku": "nama-ama",
+      "english": "milk, animal water",
+      "pos": "noun",
+      "ipa": "/ˈna.ma.ˈa.ma/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from nama (animal) + ama (water) — animal liquid/milk",
+      "example": {
+        "voku": "Ka hila nuse nama-ama.",
+        "gloss": "DECL child drink milk",
+        "english": "The child drinks milk."
+      }
+    },
+    {
+      "voku": "una",
+      "english": "egg",
+      "pos": "noun",
+      "ipa": "/ˈu.na/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "existing root: egg, origin container",
+      "example": {
+        "voku": "Ka sol homi-meke una poro ane-tema.",
+        "gloss": "DECL 1SG cook egg for meal",
+        "english": "I cook an egg for the meal."
+      }
+    },
+    {
+      "voku": "suli-mela",
+      "english": "sugar, sweet food substance",
+      "pos": "noun",
+      "ipa": "/ˈsu.li.ˈme.la/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from suli (sweet, extended meaning) + mela (food) — sweet food substance",
+      "example": {
+        "voku": "Ka sol meke ama-homi kono suli-mela.",
+        "gloss": "DECL 1SG make water-warm with sugar",
+        "english": "I make tea with sugar."
+      }
+    },
+    {
+      "voku": "sela-mela",
+      "english": "salt, mineral food substance",
+      "pos": "noun",
+      "ipa": "/ˈse.la.ˈme.la/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from sela (stone/mineral) + mela (food) — mineral food substance",
+      "example": {
+        "voku": "Ka mela neke sela-mela puli.",
+        "gloss": "DECL food need salt small",
+        "english": "The food needs a little salt."
+      }
+    },
+    {
+      "voku": "homi-meke",
+      "english": "cook, prepare food with heat",
+      "pos": "verb",
+      "ipa": "/ˈho.mi.ˈme.ke/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from homi (warm) + meke (create) — create with warmth",
+      "example": {
+        "voku": "Ka sol homi-meke mela poro fama.",
+        "gloss": "DECL 1SG cook food for family",
+        "english": "I cook food for the family."
+      }
+    },
+    {
+      "voku": "ane",
+      "english": "eat, consume food",
+      "pos": "verb",
+      "ipa": "/ˈa.ne/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "existing root: eat, consume food",
+      "example": {
+        "voku": "Ka solri-kon ane kono fama.",
+        "gloss": "DECL 1PL.INCL eat with family",
+        "english": "We eat together as a family."
+      }
+    },
+    {
+      "voku": "nuse",
+      "english": "drink, consume liquid",
+      "pos": "verb",
+      "ipa": "/ˈnu.se/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "new root: nu- (ingest) + -se (liquid act) — ingest liquid",
+      "example": {
+        "voku": "Ka sol nuse ama.",
+        "gloss": "DECL 1SG drink water",
+        "english": "I drink water."
+      }
+    },
+    {
+      "voku": "zore",
+      "english": "taste, sample flavor",
+      "pos": "verb",
+      "ipa": "/ˈzo.re/",
+      "cefr": "B1",
+      "field": "food",
+      "etymology": "existing root: taste, sample flavor",
+      "example": {
+        "voku": "To nor zore mela novi.",
+        "gloss": "IMP 2SG taste food new",
+        "english": "Taste the new food."
+      }
+    },
+    {
+      "voku": "ane-vare",
+      "english": "hunger, desire to eat",
+      "pos": "verb",
+      "ipa": "/ˈa.ne.ˈva.re/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from ane (eat) + vare (want/desire) — desire to eat",
+      "example": {
+        "voku": "Ka sol tole ane-vare.",
+        "gloss": "DECL 1SG feel hunger",
+        "english": "I feel hungry."
+      }
+    },
+    {
+      "voku": "nuse-vare",
+      "english": "thirst, desire to drink",
+      "pos": "verb",
+      "ipa": "/ˈnu.se.ˈva.re/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from nuse (drink) + vare (want/desire) — desire to drink",
+      "example": {
+        "voku": "Ka sol tole nuse-vare.",
+        "gloss": "DECL 1SG feel thirst",
+        "english": "I feel thirsty."
+      }
+    },
+    {
+      "voku": "kara-tela",
+      "english": "shirt, upper body cloth",
+      "pos": "noun",
+      "ipa": "/ˈka.ra.ˈte.la/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from kara (head/upper) + tela (covering, extended) — upper body covering",
+      "example": {
+        "voku": "Ka sol pore-soma kara-tela novi.",
+        "gloss": "DECL 1SG wear shirt new",
+        "english": "I wear a new shirt."
+      }
+    },
+    {
+      "voku": "pata-tela",
+      "english": "pants, leg covering",
+      "pos": "noun",
+      "ipa": "/ˈpa.ta.ˈte.la/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from pata (foot/leg) + tela (covering) — leg covering",
+      "example": {
+        "voku": "Ka sol neke pata-tela lomi.",
+        "gloss": "DECL 1SG need pants long",
+        "english": "I need long pants."
+      }
+    },
+    {
+      "voku": "pata-kosa",
+      "english": "shoes, foot objects",
+      "pos": "noun",
+      "ipa": "/ˈpa.ta.ˈko.sa/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from pata (foot) + kosa (thing/object) — foot objects",
+      "example": {
+        "voku": "Ka sol teme pata-kosa novi.",
+        "gloss": "DECL 1SG take shoes new",
+        "english": "I get new shoes."
+      }
+    },
+    {
+      "voku": "kara-kosa",
+      "english": "hat, head object",
+      "pos": "noun",
+      "ipa": "/ˈka.ra.ˈko.sa/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from kara (head) + kosa (thing/object) — head object",
+      "example": {
+        "voku": "Ka sol pore-soma kara-kosa ken sola hoti.",
+        "gloss": "DECL 1SG wear hat because sun hot",
+        "english": "I wear a hat because the sun is hot."
+      }
+    },
+    {
+      "voku": "koli-tela",
+      "english": "coat, cold-weather covering",
+      "pos": "noun",
+      "ipa": "/ˈko.li.ˈte.la/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from koli (cold) + tela (covering) — cold-weather covering",
+      "example": {
+        "voku": "Ka sol pore-soma koli-tela ken afa koli.",
+        "gloss": "DECL 1SG wear coat because air cold",
+        "english": "I wear a coat because the air is cold."
+      }
+    },
+    {
+      "voku": "veni-tela",
+      "english": "dress, beautiful garment",
+      "pos": "noun",
+      "ipa": "/ˈve.ni.ˈte.la/",
+      "cefr": "A2",
+      "field": "clothing",
+      "etymology": "from veni (beautiful) + tela (covering) — beautiful garment",
+      "example": {
+        "voku": "Ka vel pore-soma veni-tela poro tema-alati.",
+        "gloss": "DECL 3SG wear dress for occasion-important",
+        "english": "She wears a dress for the important occasion."
+      }
+    },
+    {
+      "voku": "pore-soma",
+      "english": "wear, put on body",
+      "pos": "noun",
+      "ipa": "/ˈpo.re.ˈso.ma/",
+      "cefr": "A1",
+      "field": "clothing",
+      "etymology": "from pore (give/put) + soma (body) — put on body",
+      "example": {
+        "voku": "Ka sol pore-soma kara-tela kesi.",
+        "gloss": "DECL 1SG wear shirt clean",
+        "english": "I wear a clean shirt."
+      }
+    },
+    {
+      "voku": "tela",
+      "english": "cloth, fabric, covering material",
+      "pos": "noun",
+      "ipa": "/ˈte.la/",
+      "cefr": "A2",
+      "field": "clothing",
+      "etymology": "extended from existing tela (tooth → covering) — reassigned: fabric/covering",
+      "example": {
+        "voku": "Ka tela ure lenaki en homi.",
+        "gloss": "DECL fabric be soft and warm",
+        "english": "The fabric is soft and warm."
+      }
+    },
+    {
+      "voku": "zike-kosa",
+      "english": "door, entry object",
+      "pos": "noun",
+      "ipa": "/ˈzi.ke.ˈko.sa/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from zike (enter) + kosa (thing) — entry object",
+      "example": {
+        "voku": "To nor aze zike-kosa.",
+        "gloss": "IMP 2SG open door",
+        "english": "Open the door."
+      }
+    },
+    {
+      "voku": "veke-pora",
+      "english": "window, viewing opening",
+      "pos": "noun",
+      "ipa": "/ˈve.ke.ˈpo.ra/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from veke (see) + pora (opening) — viewing opening",
+      "example": {
+        "voku": "Ka sol aze veke-pora poro afa novi.",
+        "gloss": "DECL 1SG open window for air new",
+        "english": "I open the window for fresh air."
+      }
+    },
+    {
+      "voku": "mura",
+      "english": "wall, vertical barrier",
+      "pos": "noun",
+      "ipa": "/ˈmu.ra/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "existing root: wall, barrier",
+      "example": {
+        "voku": "Ka mura tuve kura veni.",
+        "gloss": "DECL wall have color beautiful",
+        "english": "The wall has a beautiful color."
+      }
+    },
+    {
+      "voku": "supo-tera",
+      "english": "floor, ground surface",
+      "pos": "noun",
+      "ipa": "/ˈsu.po.ˈte.ra/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from supo (below) + tera (ground) — below surface",
+      "example": {
+        "voku": "Ka supo-tera ure kesi.",
+        "gloss": "DECL floor be clean",
+        "english": "The floor is clean."
+      }
+    },
+    {
+      "voku": "ano-tela",
+      "english": "roof, upper covering",
+      "pos": "noun",
+      "ipa": "/ˈa.no.ˈte.la/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from ano (above) + tela (covering) — upper covering",
+      "example": {
+        "voku": "Ka ano-tela savi tama eso nura.",
+        "gloss": "DECL roof protect house from rain",
+        "english": "The roof protects the house from rain."
+      }
+    },
+    {
+      "voku": "zena",
+      "english": "room, enclosed space",
+      "pos": "noun",
+      "ipa": "/ˈze.na/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "existing root: room, enclosed space",
+      "example": {
+        "voku": "Ka tama tuve pe zena.",
+        "gloss": "DECL house have five room",
+        "english": "The house has five rooms."
+      }
+    },
+    {
+      "voku": "mela-zena",
+      "english": "kitchen, food room",
+      "pos": "noun",
+      "ipa": "/ˈme.la.ˈze.na/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from mela (food) + zena (room) — food preparation room",
+      "example": {
+        "voku": "Ka sol homi-meke mela eno mela-zena.",
+        "gloss": "DECL 1SG cook food in kitchen",
+        "english": "I cook food in the kitchen."
+      }
+    },
+    {
+      "voku": "supe-zena",
+      "english": "bedroom, sleep room",
+      "pos": "noun",
+      "ipa": "/ˈsu.pe.ˈze.na/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from supe (sleep) + zena (room) — sleeping room",
+      "example": {
+        "voku": "Ka hila supe eno supe-zena.",
+        "gloss": "DECL child sleep in bedroom",
+        "english": "The child sleeps in the bedroom."
+      }
+    },
+    {
+      "voku": "ane-kosa",
+      "english": "table, eating surface/object",
+      "pos": "noun",
+      "ipa": "/ˈa.ne.ˈko.sa/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from ane (eat) + kosa (thing) — eating object/surface",
+      "example": {
+        "voku": "Ka mela ure ano ane-kosa.",
+        "gloss": "DECL food be on table",
+        "english": "The food is on the table."
+      }
+    },
+    {
+      "voku": "sile-kosa",
+      "english": "chair, sitting object",
+      "pos": "noun",
+      "ipa": "/ˈsi.le.ˈko.sa/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from sile (sit) + kosa (thing) — sitting object",
+      "example": {
+        "voku": "Ka sol sile eno sile-kosa.",
+        "gloss": "DECL 1SG sit on chair",
+        "english": "I sit on the chair."
+      }
+    },
+    {
+      "voku": "supe-kosa",
+      "english": "bed, sleeping object",
+      "pos": "noun",
+      "ipa": "/ˈsu.pe.ˈko.sa/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from supe (sleep) + kosa (thing) — sleeping object",
+      "example": {
+        "voku": "Ka supe-kosa ure lenaki.",
+        "gloss": "DECL bed be soft",
+        "english": "The bed is soft."
+      }
+    },
+    {
+      "voku": "luma-kila",
+      "english": "lamp, light device",
+      "pos": "noun",
+      "ipa": "/ˈlu.ma.ˈki.la/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from luma (light) + kila (device) — light device",
+      "example": {
+        "voku": "To nor aze luma-kila ken muhi.",
+        "gloss": "IMP 2SG open lamp because dark",
+        "english": "Turn on the lamp because it's dark."
+      }
+    },
+    {
+      "voku": "rota-kila",
+      "english": "car, wheeled vehicle",
+      "pos": "noun",
+      "ipa": "/ˈro.ta.ˈki.la/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from rota (wheel) + kila (device) — wheeled device",
+      "example": {
+        "voku": "Ka sol move ulo rota-kila.",
+        "gloss": "DECL 1SG move via car",
+        "english": "I travel by car."
+      }
+    },
+    {
+      "voku": "mani-rota",
+      "english": "bus, large wheeled vehicle",
+      "pos": "noun",
+      "ipa": "/ˈma.ni.ˈro.ta/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from mani (many) + rota (wheel) — many-passenger wheeled vehicle",
+      "example": {
+        "voku": "Ka sol pave mani-rota eno kema-loka.",
+        "gloss": "DECL 1SG wait bus at path-place",
+        "english": "I wait for the bus at the stop."
+      }
+    },
+    {
+      "voku": "kema-kosa",
+      "english": "train, path vehicle",
+      "pos": "noun",
+      "ipa": "/ˈke.ma.ˈko.sa/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from kema (path/rail) + kosa (thing) — path-following vehicle",
+      "example": {
+        "voku": "Ka kema-kosa ure rapi ani mani-rota.",
+        "gloss": "DECL train be fast more-than bus",
+        "english": "The train is faster than the bus."
+      }
+    },
+    {
+      "voku": "kema",
+      "english": "road, path, way",
+      "pos": "noun",
+      "ipa": "/ˈke.ma/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "existing root: path, way, road",
+      "example": {
+        "voku": "Ka kema ure lomi en vasi.",
+        "gloss": "DECL road be long and wide",
+        "english": "The road is long and wide."
+      }
+    },
+    {
+      "voku": "ama-kema",
+      "english": "bridge, water path",
+      "pos": "noun",
+      "ipa": "/ˈa.ma.ˈke.ma/",
+      "cefr": "A2",
+      "field": "transport",
+      "etymology": "from ama (water) + kema (path) — path over water",
+      "example": {
+        "voku": "Ka ama-kema pase ano rika.",
+        "gloss": "DECL bridge pass above river",
+        "english": "The bridge crosses over the river."
+      }
+    },
+    {
+      "voku": "fore-kila",
+      "english": "drive, operate a vehicle",
+      "pos": "noun",
+      "ipa": "/ˈfo.re.ˈki.la/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from fore (carry/transport) + kila (device) — operate transport device",
+      "example": {
+        "voku": "Ka sol fore-kila rota-kila eko toka-loka.",
+        "gloss": "DECL 1SG drive car toward work-place",
+        "english": "I drive the car to work."
+      }
+    },
+    {
+      "voku": "sile-fore",
+      "english": "ride, sit and be transported",
+      "pos": "verb",
+      "ipa": "/ˈsi.le.ˈfo.re/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from sile (sit) + fore (transport) — sit while being transported",
+      "example": {
+        "voku": "Ka sol sile-fore eno mani-rota.",
+        "gloss": "DECL 1SG ride in bus",
+        "english": "I ride in the bus."
+      }
+    },
+    {
+      "voku": "move-fari",
+      "english": "travel, move far",
+      "pos": "adjective",
+      "ipa": "/ˈmo.ve.ˈfa.ri/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from move (move) + fari (far) — move a far distance",
+      "example": {
+        "voku": "Ka sol move-fari eko loka novi.",
+        "gloss": "DECL 1SG travel toward place new",
+        "english": "I travel to a new place."
+      }
+    },
+    {
+      "voku": "vine",
+      "english": "arrive, come",
+      "pos": "verb",
+      "ipa": "/ˈvi.ne/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "existing root: come, approach, arrive",
+      "example": {
+        "voku": "Ka kema-kosa vine eno tema veri.",
+        "gloss": "DECL train arrive at time exact",
+        "english": "The train arrives on time."
+      }
+    },
+    {
+      "voku": "zere",
+      "english": "depart, leave",
+      "pos": "verb",
+      "ipa": "/ˈze.re/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "existing root: leave, depart, exit",
+      "example": {
+        "voku": "Ka mani-rota zere eno tema he-deno.",
+        "gloss": "DECL bus depart at time seven-ten",
+        "english": "The bus departs at seven o'clock."
+      }
+    },
+    {
+      "voku": "rapi",
+      "english": "fast, quick",
+      "pos": "adjective",
+      "ipa": "/ˈra.pi/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "existing root: fast, quick, rapid",
+      "example": {
+        "voku": "Ka rota-kila ure rapi.",
+        "gloss": "DECL car be fast",
+        "english": "The car is fast."
+      }
+    },
+    {
+      "voku": "leni",
+      "english": "slow, gradual",
+      "pos": "adjective",
+      "ipa": "/ˈle.ni/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "existing root: slow, gradual",
+      "example": {
+        "voku": "Ka sol vike leni eno kema.",
+        "gloss": "DECL 1SG walk slow on road",
+        "english": "I walk slowly on the road."
+      }
+    },
+    {
+      "voku": "teme-tina",
+      "english": "buy, take with money",
+      "pos": "noun",
+      "ipa": "/ˈte.me.ˈti.na/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from teme (take/obtain) + tina (money) — obtain with money",
+      "example": {
+        "voku": "Ka sol teme-tina pana en nama-ama.",
+        "gloss": "DECL 1SG buy bread and milk",
+        "english": "I buy bread and milk."
+      }
+    },
+    {
+      "voku": "pore-tina",
+      "english": "sell, give for money",
+      "pos": "noun",
+      "ipa": "/ˈpo.re.ˈti.na/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from pore (give) + tina (money) — give in exchange for money",
+      "example": {
+        "voku": "Ka vel pore-tina fura eno tina-loka.",
+        "gloss": "DECL 3SG sell fruit in market",
+        "english": "They sell fruit at the market."
+      }
+    },
+    {
+      "voku": "tina-vasa",
+      "english": "price, money amount",
+      "pos": "noun",
+      "ipa": "/ˈti.na.ˈva.sa/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from tina (money) + vasa (quantity) — money quantity/price",
+      "example": {
+        "voku": "Ve tina-vasa de-kosa ure vel?",
+        "gloss": "INT price of-thing be what",
+        "english": "What is the price of this item?"
+      }
+    },
+    {
+      "voku": "tina",
+      "english": "money, currency",
+      "pos": "noun",
+      "ipa": "/ˈti.na/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "existing root: money, currency, value token",
+      "example": {
+        "voku": "Ka sol mu-tuve tina mani.",
+        "gloss": "DECL 1SG NEG-have money many",
+        "english": "I don't have much money."
+      }
+    },
+    {
+      "voku": "tina-loka",
+      "english": "store, market, money place",
+      "pos": "noun",
+      "ipa": "/ˈti.na.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from tina (money) + loka (place) — money exchange place",
+      "example": {
+        "voku": "Ka sol vike eko tina-loka.",
+        "gloss": "DECL 1SG walk toward store",
+        "english": "I walk to the store."
+      }
+    },
+    {
+      "voku": "mela-loka",
+      "english": "market, food marketplace",
+      "pos": "noun",
+      "ipa": "/ˈme.la.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from mela (food) + loka (place) — food marketplace",
+      "example": {
+        "voku": "Ka mela-loka tuve mani fura en tera-mela.",
+        "gloss": "DECL market have many fruit and vegetable",
+        "english": "The market has many fruits and vegetables."
+      }
+    },
+    {
+      "voku": "pore-tina-take",
+      "english": "pay, execute money transfer",
+      "pos": "verb",
+      "ipa": "/ˈpo.re.ˈti.na.ˈta.ke/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from pore (give) + tina (money) + take (do) — execute money giving",
+      "example": {
+        "voku": "Ka sol pore-tina-take kono tina-kosa.",
+        "gloss": "DECL 1SG pay with money-card",
+        "english": "I pay with a card."
+      }
+    },
+    {
+      "voku": "tina-puli",
+      "english": "cheap, low price",
+      "pos": "adjective",
+      "ipa": "/ˈti.na.ˈpu.li/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from tina (money) + puli (small) — small money/price",
+      "example": {
+        "voku": "Ka fura ure tina-puli eno mela-loka.",
+        "gloss": "DECL fruit be cheap in market",
+        "english": "Fruit is cheap at the market."
+      }
+    },
+    {
+      "voku": "tina-vasi",
+      "english": "expensive, high price",
+      "pos": "adjective",
+      "ipa": "/ˈti.na.ˈva.si/",
+      "cefr": "A1",
+      "field": "shopping",
+      "etymology": "from tina (money) + vasi (large/vast) — large money/price",
+      "example": {
+        "voku": "Ka rota-kila ure tina-vasi.",
+        "gloss": "DECL car be expensive",
+        "english": "The car is expensive."
+      }
+    },
+    {
+      "voku": "nura",
+      "english": "rain, precipitation",
+      "pos": "noun",
+      "ipa": "/ˈnu.ra/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "existing root: rain, precipitation",
+      "example": {
+        "voku": "Ka nura fale eso hima.",
+        "gloss": "DECL rain fall from sky",
+        "english": "Rain falls from the sky."
+      }
+    },
+    {
+      "voku": "koli-nura",
+      "english": "snow, cold precipitation",
+      "pos": "noun",
+      "ipa": "/ˈko.li.ˈnu.ra/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from koli (cold) + nura (rain) — cold rain/snow",
+      "example": {
+        "voku": "Ka koli-nura fale eno tema koli.",
+        "gloss": "DECL snow fall in time cold",
+        "english": "Snow falls in the cold season."
+      }
+    },
+    {
+      "voku": "veva",
+      "english": "wind, moving air",
+      "pos": "noun",
+      "ipa": "/ˈve.va/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "existing root: wind, moving air",
+      "example": {
+        "voku": "Ka veva ure kumi zara-nu.",
+        "gloss": "DECL wind be strong today",
+        "english": "The wind is strong today."
+      }
+    },
+    {
+      "voku": "hima-tela",
+      "english": "cloud, sky covering",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma.ˈte.la/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from hima (sky) + tela (covering) — sky covering",
+      "example": {
+        "voku": "Ka hima-tela heke sola.",
+        "gloss": "DECL cloud hide sun",
+        "english": "The clouds hide the sun."
+      }
+    },
+    {
+      "voku": "soni-nura",
+      "english": "storm, loud rain",
+      "pos": "noun",
+      "ipa": "/ˈso.ni.ˈnu.ra/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from soni (loud) + nura (rain) — loud rain/storm",
+      "example": {
+        "voku": "Ka soni-nura vine eno nila.",
+        "gloss": "DECL storm come in night",
+        "english": "A storm comes at night."
+      }
+    },
+    {
+      "voku": "sola-zara",
+      "english": "sunny, sun day/clear",
+      "pos": "noun",
+      "ipa": "/ˈso.la.ˈza.ra/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from sola (sun) + zara (day) — sunny day quality",
+      "example": {
+        "voku": "Ka zara ure sola-zara en homi.",
+        "gloss": "DECL day be sunny and warm",
+        "english": "The day is sunny and warm."
+      }
+    },
+    {
+      "voku": "koli",
+      "english": "cold, low temperature",
+      "pos": "adjective",
+      "ipa": "/ˈko.li/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "existing root: cold, low temperature",
+      "example": {
+        "voku": "Ka afa ure koli zara-nu.",
+        "gloss": "DECL air be cold today",
+        "english": "The air is cold today."
+      }
+    },
+    {
+      "voku": "hoti",
+      "english": "hot, high temperature",
+      "pos": "adjective",
+      "ipa": "/ˈho.ti/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "existing root: hot, high temperature",
+      "example": {
+        "voku": "Ka afa ure hoti eno tema sola.",
+        "gloss": "DECL air be hot in season sun",
+        "english": "The air is hot in summer."
+      }
+    },
+    {
+      "voku": "homi-mire",
+      "english": "temperature, heat measurement",
+      "pos": "verb",
+      "ipa": "/ˈho.mi.ˈmi.re/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from homi (warm) + mire (measure) — warmth measurement",
+      "example": {
+        "voku": "Ka homi-mire ure ti-deno noma.",
+        "gloss": "DECL temperature be three-ten number",
+        "english": "The temperature is thirty degrees."
+      }
+    },
+    {
+      "voku": "mama",
+      "english": "mother, female parent",
+      "pos": "noun",
+      "ipa": "/ˈma.ma/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "new root: universal ma- reduplication — mother",
+      "example": {
+        "voku": "Ka mama mare hila.",
+        "gloss": "DECL mother love child",
+        "english": "The mother loves the child."
+      }
+    },
+    {
+      "voku": "papa",
+      "english": "father, male parent",
+      "pos": "noun",
+      "ipa": "/ˈpa.pa/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "new root: universal pa- reduplication — father",
+      "example": {
+        "voku": "Ka papa lere hila.",
+        "gloss": "DECL father teach child",
+        "english": "The father teaches the child."
+      }
+    },
+    {
+      "voku": "hila",
+      "english": "child, offspring",
+      "pos": "noun",
+      "ipa": "/ˈhi.la/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "existing root: child, offspring, young agent",
+      "example": {
+        "voku": "Ka hila du-tire rapi.",
+        "gloss": "DECL child DUR-grow fast",
+        "english": "The child is growing fast."
+      }
+    },
+    {
+      "voku": "sami-mama-hila",
+      "english": "brother, same-mother child (sibling male)",
+      "pos": "noun",
+      "ipa": "/ˈsa.mi.ˈma.ma.ˈhi.la/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from sami (same) + mama (mother) + hila (child) — same-mother child",
+      "example": {
+        "voku": "Ka sol tuve sami-mama-hila un.",
+        "gloss": "DECL 1SG have brother one",
+        "english": "I have one brother."
+      }
+    },
+    {
+      "voku": "hira",
+      "english": "sibling, same-parent peer",
+      "pos": "noun",
+      "ipa": "/ˈhi.ra/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "new root: hi- (kin) + -ra (entity) — kin peer",
+      "example": {
+        "voku": "Ka sol tuve du hira.",
+        "gloss": "DECL 1SG have two sibling",
+        "english": "I have two siblings."
+      }
+    },
+    {
+      "voku": "suni-hila",
+      "english": "baby, very young child",
+      "pos": "noun",
+      "ipa": "/ˈsu.ni.ˈhi.la/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from suni (young) + hila (child) — very young child",
+      "example": {
+        "voku": "Ka suni-hila supe mani.",
+        "gloss": "DECL baby sleep many",
+        "english": "The baby sleeps a lot."
+      }
+    },
+    {
+      "voku": "meke-runa",
+      "english": "parent, creating agent",
+      "pos": "noun",
+      "ipa": "/ˈme.ke.ˈru.na/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from meke (create) + runa (agent) — creating agent/parent",
+      "example": {
+        "voku": "Ka meke-runa savi hila.",
+        "gloss": "DECL parent protect child",
+        "english": "Parents protect their children."
+      }
+    },
+    {
+      "voku": "fama",
+      "english": "family, kin group",
+      "pos": "noun",
+      "ipa": "/ˈfa.ma/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "existing root: family, kin group",
+      "example": {
+        "voku": "Ka fama ane kono eno zara-fina.",
+        "gloss": "DECL family eat together in day-end",
+        "english": "The family eats together in the evening."
+      }
+    },
+    {
+      "voku": "vuna",
+      "english": "friend, trusted associate",
+      "pos": "noun",
+      "ipa": "/ˈvu.na/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "existing root: friend, ally, trusted associate",
+      "example": {
+        "voku": "Ka sol tuve mani vuna vali.",
+        "gloss": "DECL 1SG have many friend good",
+        "english": "I have many good friends."
+      }
+    },
+    {
+      "voku": "tama",
+      "english": "house, dwelling, home",
+      "pos": "noun",
+      "ipa": "/ˈta.ma/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "existing root: house, dwelling, shelter",
+      "example": {
+        "voku": "Ka sol mare tama de-sol.",
+        "gloss": "DECL 1SG love house of-1SG",
+        "english": "I love my house."
+      }
+    },
+    {
+      "voku": "ame-zena",
+      "english": "bathroom, water room",
+      "pos": "noun",
+      "ipa": "/ˈa.me.ˈze.na/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from ame (water, variant of ama) + zena (room) — water room",
+      "example": {
+        "voku": "Ka ame-zena ure kesi.",
+        "gloss": "DECL bathroom be clean",
+        "english": "The bathroom is clean."
+      }
+    },
+    {
+      "voku": "ama-homi",
+      "english": "tea, warm water drink",
+      "pos": "adjective",
+      "ipa": "/ˈa.ma.ˈho.mi/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from ama (water) + homi (warm) — warm water drink",
+      "example": {
+        "voku": "Ka sol nuse ama-homi eno tema ine-zara.",
+        "gloss": "DECL 1SG drink tea in time start-day",
+        "english": "I drink tea in the morning."
+      }
+    },
+    {
+      "voku": "kumi-ama",
+      "english": "coffee, strong water drink",
+      "pos": "noun",
+      "ipa": "/ˈku.mi.ˈa.ma/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from kumi (strong/hard) + ama (water) — strong water drink",
+      "example": {
+        "voku": "Ka sol nuse kumi-ama tor tema ine-zara.",
+        "gloss": "DECL 1SG drink coffee every time morning",
+        "english": "I drink coffee every morning."
+      }
+    },
+    {
+      "voku": "ane-tema",
+      "english": "meal, eating time",
+      "pos": "noun",
+      "ipa": "/ˈa.ne.ˈte.ma/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from ane (eat) + tema (time) — eating time/meal",
+      "example": {
+        "voku": "Ka sol tuve ti ane-tema tor zara.",
+        "gloss": "DECL 1SG have three meal every day",
+        "english": "I have three meals every day."
+      }
+    },
+    {
+      "voku": "mela-vali",
+      "english": "delicious, good food quality",
+      "pos": "adjective",
+      "ipa": "/ˈme.la.ˈva.li/",
+      "cefr": "A1",
+      "field": "food",
+      "etymology": "from mela (food) + vali (good) — good food quality",
+      "example": {
+        "voku": "Ka mela ure mela-vali!",
+        "gloss": "DECL food be delicious",
+        "english": "The food is delicious!"
+      }
+    },
+    {
+      "voku": "toka-loka",
+      "english": "workplace, task place",
+      "pos": "noun",
+      "ipa": "/ˈto.ka.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from toka (task) + loka (place) — task place/workplace",
+      "example": {
+        "voku": "Ka sol move eko toka-loka tor zara.",
+        "gloss": "DECL 1SG move toward workplace every day",
+        "english": "I go to work every day."
+      }
+    },
+    {
+      "voku": "kema-loka",
+      "english": "stop, path location (bus stop etc.)",
+      "pos": "noun",
+      "ipa": "/ˈke.ma.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from kema (path) + loka (place) — stopping place on a route",
+      "example": {
+        "voku": "Ka kema-loka ure neri tama.",
+        "gloss": "DECL stop be near house",
+        "english": "The stop is near the house."
+      }
+    },
+    {
+      "voku": "fule-kila",
+      "english": "airplane, flying device",
+      "pos": "noun",
+      "ipa": "/ˈfu.le.ˈki.la/",
+      "cefr": "A2",
+      "field": "transport",
+      "etymology": "from fule (fly) + kila (device) — flying device",
+      "example": {
+        "voku": "Ka fule-kila move rapi eno hima.",
+        "gloss": "DECL airplane move fast in sky",
+        "english": "The airplane moves fast in the sky."
+      }
+    },
+    {
+      "voku": "ama-kila",
+      "english": "boat, water vehicle",
+      "pos": "noun",
+      "ipa": "/ˈa.ma.ˈki.la/",
+      "cefr": "A2",
+      "field": "transport",
+      "etymology": "from ama (water) + kila (device) — water vehicle",
+      "example": {
+        "voku": "Ka ama-kila move ano mara.",
+        "gloss": "DECL boat move on sea",
+        "english": "The boat moves across the sea."
+      }
+    },
+    {
+      "voku": "move-kema",
+      "english": "trip, journey, movement path",
+      "pos": "noun",
+      "ipa": "/ˈmo.ve.ˈke.ma/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from move (move) + kema (path) — movement along a path/journey",
+      "example": {
+        "voku": "Ka move-kema ture du tema.",
+        "gloss": "DECL trip last two time(hour)",
+        "english": "The trip takes two hours."
+      }
+    },
+    {
+      "voku": "lare-loka",
+      "english": "school, learning place",
+      "pos": "noun",
+      "ipa": "/ˈla.re.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from lare (learn) + loka (place) — learning place",
+      "example": {
+        "voku": "Ka hila vike eko lare-loka tor zara.",
+        "gloss": "DECL child walk toward school every day",
+        "english": "The child walks to school every day."
+      }
+    },
+    {
+      "voku": "hale-loka",
+      "english": "hospital, healing place",
+      "pos": "noun",
+      "ipa": "/ˈha.le.ˈlo.ka/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from hale (heal) + loka (place) — healing place",
+      "example": {
+        "voku": "Ka sol move eko hale-loka ken soma mali.",
+        "gloss": "DECL 1SG go toward hospital because body bad",
+        "english": "I go to the hospital because I feel unwell."
+      }
+    },
+    {
+      "voku": "tina-kosa",
+      "english": "card (payment), money object",
+      "pos": "noun",
+      "ipa": "/ˈti.na.ˈko.sa/",
+      "cefr": "A2",
+      "field": "shopping",
+      "etymology": "from tina (money) + kosa (thing) — money object/card",
+      "example": {
+        "voku": "Ka sol pore-tina-take kono tina-kosa.",
+        "gloss": "DECL 1SG pay with card",
+        "english": "I pay with a card."
+      }
+    },
+    {
+      "voku": "zara-nu",
+      "english": "today, this day",
+      "pos": "abstraction",
+      "ipa": "/ˈza.ra.ˈnu/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from zara (day) + nu (present) — present day",
+      "example": {
+        "voku": "Ka zara-nu ure vali.",
+        "gloss": "DECL today be good",
+        "english": "Today is good."
+      }
+    },
+    {
+      "voku": "zara-fina",
+      "english": "evening, end of day",
+      "pos": "noun",
+      "ipa": "/ˈza.ra.ˈfi.na/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from zara (day) + fina (end) — end of day/evening",
+      "example": {
+        "voku": "Ka sol supe eno zara-fina.",
+        "gloss": "DECL 1SG sleep in evening",
+        "english": "I sleep in the evening."
+      }
+    },
+    {
+      "voku": "ine-zara",
+      "english": "morning, start of day",
+      "pos": "noun",
+      "ipa": "/ˈi.ne.ˈza.ra/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from ine (begin) + zara (day) — beginning of day/morning",
+      "example": {
+        "voku": "Ka sol zale eno ine-zara.",
+        "gloss": "DECL 1SG wake in morning",
+        "english": "I wake up in the morning."
+      }
+    },
+    {
+      "voku": "kesi-take",
+      "english": "clean (verb), do cleaning",
+      "pos": "verb",
+      "ipa": "/ˈke.si.ˈta.ke/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from kesi (clean, adj) + take (do) — do cleaning",
+      "example": {
+        "voku": "Ka sol kesi-take tama tor zara-he.",
+        "gloss": "DECL 1SG clean house every day-seven(week)",
+        "english": "I clean the house every week."
+      }
+    },
+    {
+      "voku": "homi-kila",
+      "english": "stove, heating device",
+      "pos": "noun",
+      "ipa": "/ˈho.mi.ˈki.la/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from homi (warm) + kila (device) — heating device",
+      "example": {
+        "voku": "Ka sol homi-meke mela eno homi-kila.",
+        "gloss": "DECL 1SG cook food on stove",
+        "english": "I cook food on the stove."
+      }
+    },
+    {
+      "voku": "koli-kila",
+      "english": "refrigerator, cooling device",
+      "pos": "noun",
+      "ipa": "/ˈko.li.ˈki.la/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from koli (cold) + kila (device) — cooling device",
+      "example": {
+        "voku": "To nor sere mela eno koli-kila.",
+        "gloss": "IMP 2SG store food in refrigerator",
+        "english": "Store the food in the refrigerator."
+      }
+    },
+    {
+      "voku": "kesi-kila",
+      "english": "washing machine, cleaning device",
+      "pos": "noun",
+      "ipa": "/ˈke.si.ˈki.la/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from kesi (clean) + kila (device) — cleaning device",
+      "example": {
+        "voku": "Ka sol sere tela eno kesi-kila.",
+        "gloss": "DECL 1SG put cloth in washing-machine",
+        "english": "I put clothes in the washing machine."
+      }
+    },
+    {
+      "voku": "afa-tema",
+      "english": "weather, air-time condition",
+      "pos": "noun",
+      "ipa": "/ˈa.fa.ˈte.ma/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from afa (air) + tema (time) — air condition over time",
+      "example": {
+        "voku": "Ve afa-tema ure vel zara-nu?",
+        "gloss": "INT weather be what today",
+        "english": "What is the weather today?"
+      }
+    },
+    {
+      "voku": "tema-alati",
+      "english": "occasion, important time",
+      "pos": "adjective",
+      "ipa": "/ˈte.ma.ˈa.la.ti/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from tema (time) + alati (important) — important time/occasion",
+      "example": {
+        "voku": "Ka fama ane kono eno tema-alati.",
+        "gloss": "DECL family eat together in occasion",
+        "english": "The family eats together on the occasion."
+      }
+    },
+    {
+      "voku": "mare-runa",
+      "english": "partner, loved agent",
+      "pos": "noun",
+      "ipa": "/ˈma.re.ˈru.na/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from mare (love) + runa (agent) — loved person/partner",
+      "example": {
+        "voku": "Ka sol move-fari kono mare-runa.",
+        "gloss": "DECL 1SG travel with partner",
+        "english": "I travel with my partner."
+      }
+    },
+    {
+      "voku": "omi-runa",
+      "english": "grandparent, old/elder kin",
+      "pos": "noun",
+      "ipa": "/ˈo.mi.ˈru.na/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from omi (old) + runa (agent) — elder family member",
+      "example": {
+        "voku": "Ka omi-runa voke kela de-tema-te.",
+        "gloss": "DECL grandparent tell story of-time-past",
+        "english": "The grandparent tells stories of the past."
+      }
+    },
+    {
+      "voku": "neri-runa",
+      "english": "neighbor, near person",
+      "pos": "noun",
+      "ipa": "/ˈne.ri.ˈru.na/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from neri (near) + runa (agent) — nearby person",
+      "example": {
+        "voku": "Ka neri-runa hele sol kono tama.",
+        "gloss": "DECL neighbor help 1SG with house",
+        "english": "The neighbor helps me with the house."
+      }
+    },
+    {
+      "voku": "suke-take",
+      "english": "hobby, enjoyable activity",
+      "pos": "verb",
+      "ipa": "/ˈsu.ke.ˈta.ke/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from suke (enjoy/like) + take (do) — enjoyable activity",
+      "example": {
+        "voku": "Ka sol tuve mani suke-take.",
+        "gloss": "DECL 1SG have many hobby",
+        "english": "I have many hobbies."
+      }
+    },
+    {
+      "voku": "vike-loka",
+      "english": "park, walking place",
+      "pos": "noun",
+      "ipa": "/ˈvi.ke.ˈlo.ka/",
+      "cefr": "A1",
+      "field": "transport",
+      "etymology": "from vike (walk) + loka (place) — walking/recreation place",
+      "example": {
+        "voku": "Ka sol vike eno vike-loka kono hila.",
+        "gloss": "DECL 1SG walk in park with child",
+        "english": "I walk in the park with the child."
+      }
+    },
+    {
+      "voku": "mela-pine",
+      "english": "recipe, food plan",
+      "pos": "verb",
+      "ipa": "/ˈme.la.ˈpi.ne/",
+      "cefr": "A2",
+      "field": "food",
+      "etymology": "from mela (food) + pine (plan) — food plan/recipe",
+      "example": {
+        "voku": "Ka sol lire mela-pine poro homi-meke mela novi.",
+        "gloss": "DECL 1SG read recipe for cook food new",
+        "english": "I read a recipe to cook new food."
+      }
+    },
+    {
+      "voku": "ama-zena",
+      "english": "bathroom (variant), water room",
+      "pos": "noun",
+      "ipa": "/ˈa.ma.ˈze.na/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from ama (water) + zena (room) — water room",
+      "example": {
+        "voku": "Ka ama-zena ure eno supo-loka de-tama.",
+        "gloss": "DECL bathroom be in lower-place of-house",
+        "english": "The bathroom is on the lower floor."
+      }
+    },
+    {
+      "voku": "sire-kosa",
+      "english": "book, written object",
+      "pos": "noun",
+      "ipa": "/ˈsi.re.ˈko.sa/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from sire (write) + kosa (thing) — written object/book",
+      "example": {
+        "voku": "Ka sol lire sire-kosa eno supe-kosa.",
+        "gloss": "DECL 1SG read book in bed",
+        "english": "I read a book in bed."
+      }
+    },
+    {
+      "voku": "sone-kila",
+      "english": "phone, sound device",
+      "pos": "noun",
+      "ipa": "/ˈso.ne.ˈki.la/",
+      "cefr": "A1",
+      "field": "family",
+      "etymology": "from sone (sound) + kila (device) — sound communication device",
+      "example": {
+        "voku": "Ka sol voke kono mama ulo sone-kila.",
+        "gloss": "DECL 1SG communicate with mother via phone",
+        "english": "I talk to my mother on the phone."
+      }
+    },
+    {
+      "voku": "veke-kila",
+      "english": "television, viewing device",
+      "pos": "noun",
+      "ipa": "/ˈve.ke.ˈki.la/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from veke (see) + kila (device) — viewing device",
+      "example": {
+        "voku": "Ka fama veke veke-kila eno zara-fina.",
+        "gloss": "DECL family watch television in evening",
+        "english": "The family watches television in the evening."
+      }
+    },
+    {
+      "voku": "move-rota",
+      "english": "bicycle, movement wheel",
+      "pos": "noun",
+      "ipa": "/ˈmo.ve.ˈro.ta/",
+      "cefr": "A2",
+      "field": "transport",
+      "etymology": "from move (move) + rota (wheel) — self-powered wheeled vehicle",
+      "example": {
+        "voku": "Ka sol sile-fore move-rota eko toka-loka.",
+        "gloss": "DECL 1SG ride bicycle toward workplace",
+        "english": "I ride a bicycle to work."
+      }
+    },
+    {
+      "voku": "kela-tema",
+      "english": "news, time information",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈte.ma/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from kela (information) + tema (time) — timely information/news",
+      "example": {
+        "voku": "Ka sol lire kela-tema eno ine-zara.",
+        "gloss": "DECL 1SG read news in morning",
+        "english": "I read the news in the morning."
+      }
+    },
+    {
+      "voku": "supo-loka",
+      "english": "downstairs, lower place",
+      "pos": "noun",
+      "ipa": "/ˈsu.po.ˈlo.ka/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from supo (below) + loka (place) — lower place/floor",
+      "example": {
+        "voku": "Ka mela-zena ure eno supo-loka.",
+        "gloss": "DECL kitchen be in downstairs",
+        "english": "The kitchen is downstairs."
+      }
+    },
+    {
+      "voku": "ano-loka",
+      "english": "upstairs, upper place",
+      "pos": "noun",
+      "ipa": "/ˈa.no.ˈlo.ka/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from ano (above) + loka (place) — upper place/floor",
+      "example": {
+        "voku": "Ka supe-zena ure eno ano-loka.",
+        "gloss": "DECL bedroom be in upstairs",
+        "english": "The bedroom is upstairs."
+      }
+    },
+    {
+      "voku": "suke-tema",
+      "english": "vacation, enjoyment time",
+      "pos": "noun",
+      "ipa": "/ˈsu.ke.ˈte.ma/",
+      "cefr": "A2",
+      "field": "family",
+      "etymology": "from suke (enjoy) + tema (time) — enjoyment time/vacation",
+      "example": {
+        "voku": "Ka sol move-fari eno suke-tema.",
+        "gloss": "DECL 1SG travel in vacation",
+        "english": "I travel during vacation."
+      }
+    },
+    {
+      "voku": "sere-kila",
+      "english": "closet, storage furniture",
+      "pos": "noun",
+      "ipa": "/ˈse.re.ˈki.la/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from sere (store) + kila (device) — storage device/furniture",
+      "example": {
+        "voku": "Ka sol sere tela eno sere-kila.",
+        "gloss": "DECL 1SG store cloth in closet",
+        "english": "I store clothes in the closet."
+      }
+    },
+    {
+      "voku": "tela-supe",
+      "english": "blanket, sleeping cloth",
+      "pos": "verb",
+      "ipa": "/ˈte.la.ˈsu.pe/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from tela (cloth) + supe (sleep) — sleeping cloth/blanket",
+      "example": {
+        "voku": "Ka sol neke tela-supe ken koli.",
+        "gloss": "DECL 1SG need blanket because cold",
+        "english": "I need a blanket because it's cold."
+      }
+    },
+    {
+      "voku": "kara-supe",
+      "english": "pillow, head-rest for sleep",
+      "pos": "verb",
+      "ipa": "/ˈka.ra.ˈsu.pe/",
+      "cefr": "A1",
+      "field": "house",
+      "etymology": "from kara (head) + supe (sleep) — head sleeping support",
+      "example": {
+        "voku": "Ka kara-supe ure lenaki.",
+        "gloss": "DECL pillow be soft",
+        "english": "The pillow is soft."
+      }
+    },
+    {
+      "voku": "move-kila",
+      "english": "vehicle (generic), movement device",
+      "pos": "noun",
+      "ipa": "/ˈmo.ve.ˈki.la/",
+      "cefr": "A2",
+      "field": "transport",
+      "etymology": "from move (move) + kila (device) — movement device",
+      "example": {
+        "voku": "Ka mani move-kila ure eno kema.",
+        "gloss": "DECL many vehicle be on road",
+        "english": "Many vehicles are on the road."
+      }
+    },
+    {
+      "voku": "nura-kosa",
+      "english": "umbrella, rain object",
+      "pos": "noun",
+      "ipa": "/ˈnu.ra.ˈko.sa/",
+      "cefr": "A1",
+      "field": "weather",
+      "etymology": "from nura (rain) + kosa (thing) — rain protection object",
+      "example": {
+        "voku": "Ka sol teme nura-kosa ken nura fale.",
+        "gloss": "DECL 1SG take umbrella because rain fall",
+        "english": "I take an umbrella because it's raining."
+      }
+    },
+    {
+      "voku": "hima-kura",
+      "english": "rainbow, sky color",
+      "pos": "noun",
+      "ipa": "/ˈhi.ma.ˈku.ra/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from hima (sky) + kura (color) — sky color arc",
+      "example": {
+        "voku": "Ka sol veke hima-kura te-nura-fina.",
+        "gloss": "DECL 1SG see rainbow after-rain-end",
+        "english": "I see a rainbow after the rain."
+      }
+    },
+    {
+      "voku": "sola-tema",
+      "english": "season, sun-time cycle",
+      "pos": "noun",
+      "ipa": "/ˈso.la.ˈte.ma/",
+      "cefr": "A2",
+      "field": "weather",
+      "etymology": "from sola (sun) + tema (time) — seasonal time cycle",
+      "example": {
+        "voku": "Ka tera tuve ka sola-tema.",
+        "gloss": "DECL earth have four season",
+        "english": "The earth has four seasons."
+      }
+    },
+    {
+      "voku": "supe-tela",
+      "english": "pajamas, sleep clothing",
+      "pos": "noun",
+      "ipa": "/ˈsu.pe.ˈte.la/",
+      "cefr": "A2",
+      "field": "clothing",
+      "etymology": "from supe (sleep) + tela (cloth) — sleeping clothes",
+      "example": {
+        "voku": "Ka sol pore-soma supe-tela eno zara-fina.",
+        "gloss": "DECL 1SG wear pajamas in evening",
+        "english": "I wear pajamas in the evening."
+      }
+    },
+    {
+      "voku": "vali-tina",
+      "english": "gift, good-money/treasure given",
+      "pos": "noun",
+      "ipa": "/ˈva.li.ˈti.na/",
+      "cefr": "A2",
+      "field": "shopping",
+      "etymology": "from vali (good) + tina (value) — good-value object/gift",
+      "example": {
+        "voku": "Ka sol pore vali-tina eko vuna.",
+        "gloss": "DECL 1SG give gift toward friend",
+        "english": "I give a gift to my friend."
+      }
+    },
+    {
+      "voku": "tura-kosa",
+      "english": "mirror, reflection object",
+      "pos": "noun",
+      "ipa": "/ˈtu.ra.ˈko.sa/",
+      "cefr": "A2",
+      "field": "house",
+      "etymology": "from tura (reflection, new root) + kosa (thing) — reflection object",
+      "example": {
+        "voku": "Ka sol veke-se eno tura-kosa.",
+        "gloss": "DECL 1SG see-REFL in mirror",
+        "english": "I see myself in the mirror."
+      }
+    },
+    {
+      "voku": "tura",
+      "english": "reflection, mirror image",
+      "pos": "noun",
+      "ipa": "/ˈtu.ra/",
+      "cefr": "B1",
+      "field": "abstract",
+      "etymology": "new root: tu- (back) + -ra (image) — back-image/reflection",
+      "example": {
+        "voku": "Ka sol veke tura de-sol eno ama.",
+        "gloss": "DECL 1SG see reflection of-1SG in water",
+        "english": "I see my reflection in the water."
+      }
+    }
+  ]
+}

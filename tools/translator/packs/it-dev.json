@@ -1,0 +1,1898 @@
+{
+  "name": "it-dev",
+  "version": "1.0",
+  "domain": "IT & Software Development",
+  "word_count": 135,
+  "words": [
+    {
+      "voku": "kota",
+      "english": "code, source code",
+      "pos": "noun",
+      "ipa": "/ˈko.ta/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "new root: ko- (structured) + -da (data element)",
+      "example": {
+        "voku": "Ka sol meke kota.",
+        "gloss": "DECL 1SG create code",
+        "english": "I write code."
+      }
+    },
+    {
+      "voku": "fone-kufa",
+      "english": "function (programming)",
+      "pos": "noun",
+      "ipa": "/ˈfo.ne.ˈku.fa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from fone (call/invoke) + kufa (code) — callable code",
+      "example": {
+        "voku": "Ka sol meke fone-kufa novi.",
+        "gloss": "DECL 1SG create function new",
+        "english": "I create a new function."
+      }
+    },
+    {
+      "voku": "muta-kosa",
+      "english": "variable (programming)",
+      "pos": "noun",
+      "ipa": "/ˈmu.ta.ˈko.sa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from muta (change, noun form of mute) + kosa (thing) — changeable thing",
+      "example": {
+        "voku": "Ka muta-kosa sere noma.",
+        "gloss": "DECL variable store number",
+        "english": "The variable stores a number."
+      }
+    },
+    {
+      "voku": "hire-toka",
+      "english": "loop, iteration cycle",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈto.ka/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from hire (request/repeat) + toka (task) — repeating task",
+      "example": {
+        "voku": "Ka hire-toka re-take pe-deno tema.",
+        "gloss": "DECL loop ITER-execute ten time",
+        "english": "The loop executes ten times."
+      }
+    },
+    {
+      "voku": "supa-kela",
+      "english": "array, ordered collection",
+      "pos": "noun",
+      "ipa": "/ˈsu.pa.ˈke.la/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from supa (group/set) + kela (information) — ordered data group",
+      "example": {
+        "voku": "Ka supa-kela tuve vas-nu-pe kosa.",
+        "gloss": "DECL array have exactly-NUM.five item",
+        "english": "The array has five items."
+      }
+    },
+    {
+      "voku": "rima-kela",
+      "english": "string (text data)",
+      "pos": "noun",
+      "ipa": "/ˈri.ma.ˈke.la/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from rima (word) + kela (data) — textual data",
+      "example": {
+        "voku": "Ka muta-kosa sere rima-kela.",
+        "gloss": "DECL variable store string",
+        "english": "The variable stores a string."
+      }
+    },
+    {
+      "voku": "puri-noma",
+      "english": "integer, whole number",
+      "pos": "noun",
+      "ipa": "/ˈpu.ri.ˈno.ma/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from puri (complete/whole) + noma (number) — whole number",
+      "example": {
+        "voku": "Ka puri-noma mu-tuve pati-kosa.",
+        "gloss": "DECL integer NEG-have fractional-part",
+        "english": "An integer has no fractional part."
+      }
+    },
+    {
+      "voku": "veri-fasi-kosa",
+      "english": "boolean, true/false value",
+      "pos": "noun",
+      "ipa": "/ˈve.ri.ˈfa.si.ˈko.sa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from veri (true) + fasi (false) + kosa (thing) — true-or-false thing",
+      "example": {
+        "voku": "Ka veri-fasi-kosa ure veri o fasi.",
+        "gloss": "DECL boolean be true or false",
+        "english": "A boolean is true or false."
+      }
+    },
+    {
+      "voku": "foru",
+      "english": "class (programming), template",
+      "pos": "abstraction",
+      "ipa": "/ˈfo.ru/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "new root: from foma (structure) abstracted — structural template",
+      "example": {
+        "voku": "Ka foru pine foma de-kosa.",
+        "gloss": "DECL class define structure of-object",
+        "english": "A class defines the structure of an object."
+      }
+    },
+    {
+      "voku": "foru-kosa",
+      "english": "object (programming instance)",
+      "pos": "noun",
+      "ipa": "/ˈfo.ru.ˈko.sa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from foru (class) + kosa (thing) — instance of a class",
+      "example": {
+        "voku": "Ka sol meke foru-kosa eso foru.",
+        "gloss": "DECL 1SG create object from class",
+        "english": "I create an object from a class."
+      }
+    },
+    {
+      "voku": "foru-motu",
+      "english": "method (class method)",
+      "pos": "abstraction",
+      "ipa": "/ˈfo.ru.ˈmo.tu/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from foru (class) + motu (method) — method belonging to a class",
+      "example": {
+        "voku": "Ka foru-motu take kono foru-kosa.",
+        "gloss": "DECL method execute with object",
+        "english": "The method runs on the object."
+      }
+    },
+    {
+      "voku": "pile-kufa",
+      "english": "compile, transform code to executable",
+      "pos": "noun",
+      "ipa": "/ˈpi.le.ˈku.fa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from pile (push/force) + kufa (code) — push code to machine form",
+      "example": {
+        "voku": "Ka sol pile-kufa kota sino pera.",
+        "gloss": "DECL 1SG compile code without error",
+        "english": "I compile the code without errors."
+      }
+    },
+    {
+      "voku": "ru-take",
+      "english": "execute, run (a program)",
+      "pos": "verb",
+      "ipa": "/ˈru.ˈta.ke/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from ru- (running state) + take (do) — actively perform",
+      "example": {
+        "voku": "Ka teru ru-take kota.",
+        "gloss": "DECL system RUN-execute code",
+        "english": "The system executes the code."
+      }
+    },
+    {
+      "voku": "pera-tore",
+      "english": "debug, search for errors",
+      "pos": "verb",
+      "ipa": "/ˈpe.ra.ˈto.re/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from pera (error) + tore (search) — search for errors",
+      "example": {
+        "voku": "Ka sol pera-tore kota poro fike da-pre.",
+        "gloss": "DECL 1SG debug code for fix it",
+        "english": "I debug the code to fix it."
+      }
+    },
+    {
+      "voku": "luke-kufa",
+      "english": "test (software testing)",
+      "pos": "noun",
+      "ipa": "/ˈlu.ke.ˈku.fa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from luke (evaluate) + kufa (code) — evaluate code",
+      "example": {
+        "voku": "Ka sol luke-kufa fone-kufa novi.",
+        "gloss": "DECL 1SG test function new",
+        "english": "I test the new function."
+      }
+    },
+    {
+      "voku": "sure-kufa",
+      "english": "deploy, release to production",
+      "pos": "noun",
+      "ipa": "/ˈsu.re.ˈku.fa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from sure (send/dispatch) + kufa (code) — dispatch code to live system",
+      "example": {
+        "voku": "Ka sol sure-kufa kota eko teru-veri.",
+        "gloss": "DECL 1SG deploy code toward system-production",
+        "english": "I deploy the code to production."
+      }
+    },
+    {
+      "voku": "hefa",
+      "english": "server, serving machine",
+      "pos": "noun",
+      "ipa": "/ˈhe.fa/",
+      "cefr": "B1",
+      "field": "networking",
+      "etymology": "new root: he- (provide) + -fa (functional agent) — provider machine",
+      "example": {
+        "voku": "Ka hefa sure resa eko hire-runa.",
+        "gloss": "DECL server send response toward client",
+        "english": "The server sends a response to the client."
+      }
+    },
+    {
+      "voku": "hire-runa",
+      "english": "client, requesting agent",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈru.na/",
+      "cefr": "B1",
+      "field": "networking",
+      "etymology": "from hire (request) + runa (agent) — requesting agent",
+      "example": {
+        "voku": "Ka hire-runa sure hire eko hefa.",
+        "gloss": "DECL client send request toward server",
+        "english": "The client sends a request to the server."
+      }
+    },
+    {
+      "voku": "liku-teru",
+      "english": "network, connected system",
+      "pos": "abstraction",
+      "ipa": "/ˈli.ku.ˈte.ru/",
+      "cefr": "B1",
+      "field": "networking",
+      "etymology": "from liku (link/connection) + teru (system) — linked system",
+      "example": {
+        "voku": "Ka liku-teru kono mani hefa.",
+        "gloss": "DECL network with many server",
+        "english": "The network has many servers."
+      }
+    },
+    {
+      "voku": "mesa-reku",
+      "english": "protocol, communication rules",
+      "pos": "abstraction",
+      "ipa": "/ˈme.sa.ˈre.ku/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from mesa (message) + reku (rule) — message rules",
+      "example": {
+        "voku": "Ka hefa en hire-runa ule mesa-reku sami.",
+        "gloss": "DECL server and client use protocol same",
+        "english": "The server and client use the same protocol."
+      }
+    },
+    {
+      "voku": "zike-noma",
+      "english": "port (network port)",
+      "pos": "noun",
+      "ipa": "/ˈzi.ke.ˈno.ma/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from zike (enter) + noma (number) — numbered entry point",
+      "example": {
+        "voku": "Ka hefa hure eno zike-noma ok-deno.",
+        "gloss": "DECL server listen at port eighty",
+        "english": "The server listens on port 80."
+      }
+    },
+    {
+      "voku": "mesa-pula",
+      "english": "packet, data packet",
+      "pos": "noun",
+      "ipa": "/ˈme.sa.ˈpu.la/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from mesa (message) + pula (small piece) — small message piece",
+      "example": {
+        "voku": "Ka liku-teru fore mesa-pula eko loka-vari.",
+        "gloss": "DECL network carry packet toward location-various",
+        "english": "The network carries packets to various locations."
+      }
+    },
+    {
+      "voku": "fore-vasa",
+      "english": "bandwidth, transfer capacity",
+      "pos": "noun",
+      "ipa": "/ˈfo.re.ˈva.sa/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from fore (carry/transport) + vasa (quantity) — carrying capacity",
+      "example": {
+        "voku": "Ka liku-teru tuve fore-vasa vasi.",
+        "gloss": "DECL network have bandwidth large",
+        "english": "The network has high bandwidth."
+      }
+    },
+    {
+      "voku": "pave-tema",
+      "english": "latency, waiting time",
+      "pos": "noun",
+      "ipa": "/ˈpa.ve.ˈte.ma/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from pave (wait) + tema (time) — wait time",
+      "example": {
+        "voku": "Ka pave-tema puli ure vali.",
+        "gloss": "DECL latency small be good",
+        "english": "Low latency is good."
+      }
+    },
+    {
+      "voku": "mena-teru",
+      "english": "DNS, name resolution system",
+      "pos": "abstraction",
+      "ipa": "/ˈme.na.ˈte.ru/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from mena (name) + teru (system) — naming system",
+      "example": {
+        "voku": "Ka mena-teru mute mena eko noma-loka.",
+        "gloss": "DECL DNS change name toward number-address",
+        "english": "DNS resolves names to addresses."
+      }
+    },
+    {
+      "voku": "noma-loka",
+      "english": "IP address, numerical location",
+      "pos": "noun",
+      "ipa": "/ˈno.ma.ˈlo.ka/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from noma (number) + loka (place) — numerical address",
+      "example": {
+        "voku": "Ka tor hefa tuve noma-loka un.",
+        "gloss": "DECL every server have IP-address one",
+        "english": "Every server has a unique IP address."
+      }
+    },
+    {
+      "voku": "savi-mura",
+      "english": "firewall, security barrier",
+      "pos": "noun",
+      "ipa": "/ˈsa.vi.ˈmu.ra/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from savi (safe) + mura (wall) — safety wall",
+      "example": {
+        "voku": "Ka savi-mura blo mali-hire zike liku-teru.",
+        "gloss": "DECL firewall prevent bad-request enter network",
+        "english": "The firewall blocks malicious requests."
+      }
+    },
+    {
+      "voku": "kema-kila",
+      "english": "router, path-directing device",
+      "pos": "noun",
+      "ipa": "/ˈke.ma.ˈki.la/",
+      "cefr": "B2",
+      "field": "networking",
+      "etymology": "from kema (path) + kila (tool) — path-directing tool",
+      "example": {
+        "voku": "Ka kema-kila kase kema poro mesa-pula.",
+        "gloss": "DECL router choose path for packet",
+        "english": "The router chooses a path for the packet."
+      }
+    },
+    {
+      "voku": "kela-teru",
+      "english": "database, information system",
+      "pos": "abstraction",
+      "ipa": "/ˈke.la.ˈte.ru/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from kela (information) + teru (system) — information system",
+      "example": {
+        "voku": "Ka kela-teru sere mani kela.",
+        "gloss": "DECL database store many data",
+        "english": "The database stores a lot of data."
+      }
+    },
+    {
+      "voku": "hire-kela",
+      "english": "query, data request",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈke.la/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from hire (request) + kela (information) — request for information",
+      "example": {
+        "voku": "Ka sol sure hire-kela eko kela-teru.",
+        "gloss": "DECL 1SG send query toward database",
+        "english": "I send a query to the database."
+      }
+    },
+    {
+      "voku": "kela-foma",
+      "english": "table (database), structured data form",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈfo.ma/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from kela (information) + foma (structure) — structured data form",
+      "example": {
+        "voku": "Ka kela-teru tuve mani kela-foma.",
+        "gloss": "DECL database have many table",
+        "english": "The database has many tables."
+      }
+    },
+    {
+      "voku": "kela-rima",
+      "english": "record, data entry row",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈri.ma/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from kela (data) + rima (word/unit) — data unit entry",
+      "example": {
+        "voku": "Ka kela-foma tuve vas-heno kela-rima.",
+        "gloss": "DECL table have hundred record",
+        "english": "The table has a hundred records."
+      }
+    },
+    {
+      "voku": "kela-zena",
+      "english": "field (database column)",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈze.na/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from kela (data) + zena (space/room) — data space within a record",
+      "example": {
+        "voku": "Ka kela-rima tuve ka-deno kela-zena.",
+        "gloss": "DECL record have four-ten field",
+        "english": "The record has fourteen fields."
+      }
+    },
+    {
+      "voku": "tore-kila",
+      "english": "index (database), search accelerator",
+      "pos": "noun",
+      "ipa": "/ˈto.re.ˈki.la/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from tore (search) + kila (tool) — search tool",
+      "example": {
+        "voku": "Ka tore-kila meke tore rapi ani.",
+        "gloss": "DECL index make search fast more-than",
+        "english": "The index makes searches faster."
+      }
+    },
+    {
+      "voku": "rapi-sere",
+      "english": "cache, fast storage",
+      "pos": "verb",
+      "ipa": "/ˈra.pi.ˈse.re/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from rapi (fast) + sere (store) — fast storage",
+      "example": {
+        "voku": "Ka rapi-sere sake kela ta ha-hire-pu ti.",
+        "gloss": "DECL cache hold data REL HAB-request-PASS",
+        "english": "The cache holds frequently requested data."
+      }
+    },
+    {
+      "voku": "savi-sere",
+      "english": "backup, safety copy",
+      "pos": "verb",
+      "ipa": "/ˈsa.vi.ˈse.re/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from savi (safe) + sere (store) — safety storage copy",
+      "example": {
+        "voku": "To nor meke savi-sere de-kela-teru.",
+        "gloss": "IMP 2SG create backup of-database",
+        "english": "Create a backup of the database."
+      }
+    },
+    {
+      "voku": "heke-kela",
+      "english": "encrypt, conceal data",
+      "pos": "noun",
+      "ipa": "/ˈhe.ke.ˈke.la/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from heke (hide/conceal) + kela (data) — conceal data",
+      "example": {
+        "voku": "Ka sol heke-kela mesa poro savi.",
+        "gloss": "DECL 1SG encrypt message for safety",
+        "english": "I encrypt the message for safety."
+      }
+    },
+    {
+      "voku": "aze-kela",
+      "english": "decrypt, reveal concealed data",
+      "pos": "noun",
+      "ipa": "/ˈa.ze.ˈke.la/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from aze (open) + kela (data) — open/reveal data",
+      "example": {
+        "voku": "Ka hefa aze-kela mesa ta heke-kela-pu ti.",
+        "gloss": "DECL server decrypt message REL encrypt-PASS",
+        "english": "The server decrypts the encrypted message."
+      }
+    },
+    {
+      "voku": "reta-loka",
+      "english": "website, web location",
+      "pos": "noun",
+      "ipa": "/ˈre.ta.ˈlo.ka/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from reta (web/net, new root) + loka (place) — web place",
+      "example": {
+        "voku": "Ka sol veke reta-loka novi.",
+        "gloss": "DECL 1SG see website new",
+        "english": "I view the new website."
+      }
+    },
+    {
+      "voku": "reta-pela",
+      "english": "web page",
+      "pos": "noun",
+      "ipa": "/ˈre.ta.ˈpe.la/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from reta (web) + pela (leaf/page) — web leaf/page",
+      "example": {
+        "voku": "Ka reta-loka tuve mani reta-pela.",
+        "gloss": "DECL website have many page",
+        "english": "The website has many pages."
+      }
+    },
+    {
+      "voku": "reta-veke",
+      "english": "browser, web viewer",
+      "pos": "verb",
+      "ipa": "/ˈre.ta.ˈve.ke/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from reta (web) + veke (see/view) — web viewer",
+      "example": {
+        "voku": "Ka sol aze reta-veke poro veke reta-pela.",
+        "gloss": "DECL 1SG open browser for see page",
+        "english": "I open a browser to view the page."
+      }
+    },
+    {
+      "voku": "loka-mena",
+      "english": "URL, location name/address",
+      "pos": "noun",
+      "ipa": "/ˈlo.ka.ˈme.na/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from loka (place) + mena (name/identifier) — place name/address",
+      "example": {
+        "voku": "To nor sire loka-mena eno reta-veke.",
+        "gloss": "IMP 2SG write URL in browser",
+        "english": "Type the URL in the browser."
+      }
+    },
+    {
+      "voku": "hire-liku",
+      "english": "API, request interface",
+      "pos": "abstraction",
+      "ipa": "/ˈhi.re.ˈli.ku/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from hire (request) + liku (link/connection) — request interface",
+      "example": {
+        "voku": "Ka hire-runa voke kono hefa ulo hire-liku.",
+        "gloss": "DECL client communicate with server via API",
+        "english": "The client communicates with the server via the API."
+      }
+    },
+    {
+      "voku": "hire-mesa",
+      "english": "request (HTTP request)",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈme.sa/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from hire (request) + mesa (message) — request message",
+      "example": {
+        "voku": "Ka hire-runa sure hire-mesa eko hefa.",
+        "gloss": "DECL client send request toward server",
+        "english": "The client sends a request to the server."
+      }
+    },
+    {
+      "voku": "resa-mesa",
+      "english": "response (HTTP response)",
+      "pos": "noun",
+      "ipa": "/ˈre.sa.ˈme.sa/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from resa (response) + mesa (message) — response message",
+      "example": {
+        "voku": "Ka hefa sure resa-mesa kono kela.",
+        "gloss": "DECL server send response with data",
+        "english": "The server sends a response with data."
+      }
+    },
+    {
+      "voku": "kara-mesa",
+      "english": "header (HTTP), message head",
+      "pos": "noun",
+      "ipa": "/ˈka.ra.ˈme.sa/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from kara (head/top) + mesa (message) — message head part",
+      "example": {
+        "voku": "Ka kara-mesa sere kela de-mesa-reku.",
+        "gloss": "DECL header store data of-protocol",
+        "english": "The header stores protocol data."
+      }
+    },
+    {
+      "voku": "sere-seta",
+      "english": "cookie (web), stored token",
+      "pos": "noun",
+      "ipa": "/ˈse.re.ˈse.ta/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from sere (store) + seta (sign/token) — stored sign/token",
+      "example": {
+        "voku": "Ka reta-veke sere sere-seta eno kila.",
+        "gloss": "DECL browser store cookie in device",
+        "english": "The browser stores the cookie on the device."
+      }
+    },
+    {
+      "voku": "tema-liku",
+      "english": "session, timed connection",
+      "pos": "abstraction",
+      "ipa": "/ˈte.ma.ˈli.ku/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from tema (time) + liku (link/connection) — timed connection",
+      "example": {
+        "voku": "Ka tema-liku fine te-tema du-deno.",
+        "gloss": "DECL session end PAST-time two-ten",
+        "english": "The session expired after twenty minutes."
+      }
+    },
+    {
+      "voku": "zena-kufa",
+      "english": "container (DevOps), code enclosure",
+      "pos": "noun",
+      "ipa": "/ˈze.na.ˈku.fa/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from zena (room/enclosure) + kufa (code) — code enclosure",
+      "example": {
+        "voku": "Ka zena-kufa sake kufa en tor neke-kosa.",
+        "gloss": "DECL container hold code and all dependency",
+        "english": "The container holds the code and all dependencies."
+      }
+    },
+    {
+      "voku": "foma-sena",
+      "english": "image (container image), source template",
+      "pos": "noun",
+      "ipa": "/ˈfo.ma.ˈse.na/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from foma (structure) + sena (source) — source structure template",
+      "example": {
+        "voku": "Ka zena-kufa meke-pu eso foma-sena.",
+        "gloss": "DECL container create-PASS from image",
+        "english": "The container is created from an image."
+      }
+    },
+    {
+      "voku": "kema-toka",
+      "english": "pipeline, task path sequence",
+      "pos": "noun",
+      "ipa": "/ˈke.ma.ˈto.ka/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kema (path) + toka (task) — task path/sequence",
+      "example": {
+        "voku": "Ka kema-toka sek-take tor toka.",
+        "gloss": "DECL pipeline SEQ-execute all task",
+        "english": "The pipeline executes all tasks in sequence."
+      }
+    },
+    {
+      "voku": "make-kufa",
+      "english": "build (software build)",
+      "pos": "noun",
+      "ipa": "/ˈma.ke.ˈku.fa/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from make (build/construct) + kufa (code) — build code",
+      "example": {
+        "voku": "Ka kema-toka ine make-kufa.",
+        "gloss": "DECL pipeline begin build",
+        "english": "The pipeline starts the build."
+      }
+    },
+    {
+      "voku": "sure-nova",
+      "english": "release, new dispatch",
+      "pos": "noun",
+      "ipa": "/ˈsu.re.ˈno.va/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from sure (send/dispatch) + nova (new, variant of novi) — new release",
+      "example": {
+        "voku": "Ka sol pine sure-nova poro zara-fu.",
+        "gloss": "DECL 1SG plan release for day-future",
+        "english": "I plan a release for tomorrow."
+      }
+    },
+    {
+      "voku": "sene-teru",
+      "english": "monitor, observe system",
+      "pos": "abstraction",
+      "ipa": "/ˈse.ne.ˈte.ru/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from sene (perceive/observe) + teru (system) — observe system",
+      "example": {
+        "voku": "Ka sol du-sene-teru hefa tor tema.",
+        "gloss": "DECL 1SG DUR-monitor server all time",
+        "english": "I continuously monitor the server."
+      }
+    },
+    {
+      "voku": "sire-miru",
+      "english": "log, written process record",
+      "pos": "abstraction",
+      "ipa": "/ˈsi.re.ˈmi.ru/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from sire (write) + miru (process) — written process record",
+      "example": {
+        "voku": "Ka sol lire sire-miru poro tore pera.",
+        "gloss": "DECL 1SG read log for search error",
+        "english": "I read the logs to find the error."
+      }
+    },
+    {
+      "voku": "pera-seta",
+      "english": "alert, error signal",
+      "pos": "noun",
+      "ipa": "/ˈpe.ra.ˈse.ta/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from pera (error) + seta (signal) — error signal",
+      "example": {
+        "voku": "Ka teru sure pera-seta eko runa-alati.",
+        "gloss": "DECL system send alert toward supervisor",
+        "english": "The system sends an alert to the supervisor."
+      }
+    },
+    {
+      "voku": "tire-teru",
+      "english": "scale, grow system capacity",
+      "pos": "abstraction",
+      "ipa": "/ˈti.re.ˈte.ru/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from tire (grow) + teru (system) — grow system",
+      "example": {
+        "voku": "Ka sol tire-teru hefa poro mani hire-mesa.",
+        "gloss": "DECL 1SG scale server for many request",
+        "english": "I scale the server for many requests."
+      }
+    },
+    {
+      "voku": "heke-rima",
+      "english": "password, hidden word",
+      "pos": "noun",
+      "ipa": "/ˈhe.ke.ˈri.ma/",
+      "cefr": "A2",
+      "field": "security",
+      "etymology": "from heke (hide/conceal) + rima (word) — hidden word",
+      "example": {
+        "voku": "To nor meke heke-rima kumi.",
+        "gloss": "IMP 2SG create password strong",
+        "english": "Create a strong password."
+      }
+    },
+    {
+      "voku": "oku-seta",
+      "english": "token, access sign",
+      "pos": "noun",
+      "ipa": "/ˈo.ku.ˈse.ta/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from oku (permission) + seta (sign) — access sign",
+      "example": {
+        "voku": "Ka hire-liku neke oku-seta veri.",
+        "gloss": "DECL API need token valid",
+        "english": "The API requires a valid token."
+      }
+    },
+    {
+      "voku": "veri-sire",
+      "english": "certificate, verified document",
+      "pos": "verb",
+      "ipa": "/ˈve.ri.ˈsi.re/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from veri (true/valid) + sire (write/document) — verified document",
+      "example": {
+        "voku": "Ka reta-loka neke veri-sire poro savi-liku.",
+        "gloss": "DECL website need certificate for safe-connection",
+        "english": "The website needs a certificate for a secure connection."
+      }
+    },
+    {
+      "voku": "mali-pora",
+      "english": "vulnerability, harmful opening",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈpo.ra/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from mali (bad/harmful) + pora (opening, new root) — harmful opening",
+      "example": {
+        "voku": "Ka sol tore mali-pora eno kota.",
+        "gloss": "DECL 1SG search vulnerability in code",
+        "english": "I search for vulnerabilities in the code."
+      }
+    },
+    {
+      "voku": "fike-kufa",
+      "english": "patch, code fix",
+      "pos": "noun",
+      "ipa": "/ˈfi.ke.ˈku.fa/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from fike (fix/repair) + kufa (code) — code fix",
+      "example": {
+        "voku": "Ka sol sure-kufa fike-kufa poro mali-pora.",
+        "gloss": "DECL 1SG deploy patch for vulnerability",
+        "english": "I deploy a patch for the vulnerability."
+      }
+    },
+    {
+      "voku": "luke-savi",
+      "english": "audit (security), safety evaluation",
+      "pos": "adjective",
+      "ipa": "/ˈlu.ke.ˈsa.vi/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from luke (evaluate) + savi (safe) — safety evaluation",
+      "example": {
+        "voku": "Ka sol take luke-savi de-teru.",
+        "gloss": "DECL 1SG do audit of-system",
+        "english": "I perform a security audit of the system."
+      }
+    },
+    {
+      "voku": "veri-runa",
+      "english": "authenticate, verify agent identity",
+      "pos": "noun",
+      "ipa": "/ˈve.ri.ˈru.na/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from veri (true/valid) + runa (agent) — verify agent",
+      "example": {
+        "voku": "Ka teru veri-runa hire-runa te-ine liku.",
+        "gloss": "DECL system authenticate client before-start connection",
+        "english": "The system authenticates the client before connecting."
+      }
+    },
+    {
+      "voku": "fone-kosa",
+      "english": "callback, return invocation",
+      "pos": "noun",
+      "ipa": "/ˈfo.ne.ˈko.sa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from fone (call/invoke) + kosa (thing) — callable thing passed as argument",
+      "example": {
+        "voku": "Ka fone-kufa ore fone-kosa en take da-pre.",
+        "gloss": "DECL function receive callback and execute it",
+        "english": "The function receives a callback and executes it."
+      }
+    },
+    {
+      "voku": "hila-foru",
+      "english": "subclass, child class",
+      "pos": "abstraction",
+      "ipa": "/ˈhi.la.ˈfo.ru/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from hila (child) + foru (class) — child class",
+      "example": {
+        "voku": "Ka hila-foru ore foma eso foru.",
+        "gloss": "DECL subclass receive structure from class",
+        "english": "The subclass inherits from the class."
+      }
+    },
+    {
+      "voku": "pera-mesa",
+      "english": "error message, fault notification",
+      "pos": "noun",
+      "ipa": "/ˈpe.ra.ˈme.sa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from pera (error) + mesa (message) — error message",
+      "example": {
+        "voku": "Ka teru voke pera-mesa eko runa.",
+        "gloss": "DECL system say error-message toward agent",
+        "english": "The system shows an error message to the user."
+      }
+    },
+    {
+      "voku": "neke-kosa",
+      "english": "dependency, required thing",
+      "pos": "noun",
+      "ipa": "/ˈne.ke.ˈko.sa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from neke (need) + kosa (thing) — needed thing",
+      "example": {
+        "voku": "Ka kufa tuve mani neke-kosa.",
+        "gloss": "DECL code have many dependency",
+        "english": "The code has many dependencies."
+      }
+    },
+    {
+      "voku": "miru-kela",
+      "english": "runtime, execution data/state",
+      "pos": "noun",
+      "ipa": "/ˈmi.ru.ˈke.la/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from miru (process) + kela (data) — process state data",
+      "example": {
+        "voku": "Ka pera ure eno miru-kela.",
+        "gloss": "DECL error exist in runtime",
+        "english": "The error exists at runtime."
+      }
+    },
+    {
+      "voku": "kota-sere",
+      "english": "repository, code storage",
+      "pos": "verb",
+      "ipa": "/ˈko.ta.ˈse.re/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from kota (code) + sere (store) — code storage",
+      "example": {
+        "voku": "Ka sol sure kota eko kota-sere.",
+        "gloss": "DECL 1SG send code toward repository",
+        "english": "I push code to the repository."
+      }
+    },
+    {
+      "voku": "kota-vire",
+      "english": "branch (version control), code direction",
+      "pos": "verb",
+      "ipa": "/ˈko.ta.ˈvi.re/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kota (code) + vire (turn/direction) — code branch",
+      "example": {
+        "voku": "Ka sol meke kota-vire novi poro toka.",
+        "gloss": "DECL 1SG create branch new for task",
+        "english": "I create a new branch for the task."
+      }
+    },
+    {
+      "voku": "kota-fuse",
+      "english": "merge, combine code",
+      "pos": "verb",
+      "ipa": "/ˈko.ta.ˈfu.se/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kota (code) + fuse (join/combine, new root) — combine code",
+      "example": {
+        "voku": "Ka sol kota-fuse kota-vire eko kota-kona.",
+        "gloss": "DECL 1SG merge branch toward code-main",
+        "english": "I merge the branch into main."
+      }
+    },
+    {
+      "voku": "kufa-lire",
+      "english": "code review, read and evaluate code",
+      "pos": "verb",
+      "ipa": "/ˈku.fa.ˈli.re/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kufa (code) + lire (read) — code reading/review",
+      "example": {
+        "voku": "To nor take kufa-lire de-sol kota.",
+        "gloss": "IMP 2SG do review of-my code",
+        "english": "Review my code."
+      }
+    },
+    {
+      "voku": "sere-loka",
+      "english": "storage, persistent place",
+      "pos": "noun",
+      "ipa": "/ˈse.re.ˈlo.ka/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from sere (store) + loka (place) — storage place",
+      "example": {
+        "voku": "Ka kela sere-pu eno sere-loka.",
+        "gloss": "DECL data store-PASS in storage",
+        "english": "The data is stored in storage."
+      }
+    },
+    {
+      "voku": "kela-mute",
+      "english": "data migration, data transformation",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈmu.te/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from kela (data) + mute (change) — data change/migration",
+      "example": {
+        "voku": "Ka sol take kela-mute eko kela-teru novi.",
+        "gloss": "DECL 1SG do migration toward database new",
+        "english": "I run the migration to the new database."
+      }
+    },
+    {
+      "voku": "savi-liku",
+      "english": "secure connection, safe link",
+      "pos": "abstraction",
+      "ipa": "/ˈsa.vi.ˈli.ku/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from savi (safe) + liku (link/connection) — safe link",
+      "example": {
+        "voku": "Ka reta-veke ule savi-liku eko hefa.",
+        "gloss": "DECL browser use secure-connection toward server",
+        "english": "The browser uses a secure connection to the server."
+      }
+    },
+    {
+      "voku": "oku-reku",
+      "english": "access control, permission rules",
+      "pos": "abstraction",
+      "ipa": "/ˈo.ku.ˈre.ku/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from oku (permission) + reku (rule) — permission rules",
+      "example": {
+        "voku": "Ka oku-reku pine vel ta pote zike kela ti.",
+        "gloss": "DECL access-control define who REL can access data",
+        "english": "Access control defines who can access the data."
+      }
+    },
+    {
+      "voku": "mali-kufa",
+      "english": "malware, harmful code",
+      "pos": "noun",
+      "ipa": "/ˈma.li.ˈku.fa/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from mali (bad/harmful) + kufa (code) — harmful code",
+      "example": {
+        "voku": "Ka savi-mura blo mali-kufa zike teru.",
+        "gloss": "DECL firewall prevent malware enter system",
+        "english": "The firewall blocks malware from entering the system."
+      }
+    },
+    {
+      "voku": "reta",
+      "english": "web, interconnected net",
+      "pos": "noun",
+      "ipa": "/ˈre.ta/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "new root: re- (connected) + -ta (fabric/mesh) — interconnected mesh",
+      "example": {
+        "voku": "Ka reta liku mani hefa aro tera.",
+        "gloss": "DECL web link many server around world",
+        "english": "The web links many servers around the world."
+      }
+    },
+    {
+      "voku": "pora",
+      "english": "opening, entry point, port",
+      "pos": "noun",
+      "ipa": "/ˈpo.ra/",
+      "cefr": "B1",
+      "field": "networking",
+      "etymology": "new root: po- (toward) + -ra (space) — opening point",
+      "example": {
+        "voku": "Ka savi-mura oze tor pora ta mu-neke-pu ti.",
+        "gloss": "DECL firewall close all port REL NEG-need-PASS",
+        "english": "The firewall closes all unnecessary ports."
+      }
+    },
+    {
+      "voku": "fuse",
+      "english": "join, combine, merge",
+      "pos": "verb",
+      "ipa": "/ˈfu.se/",
+      "cefr": "B1",
+      "field": "action",
+      "etymology": "new root: fu- (together) + -se (act) — act of combining",
+      "example": {
+        "voku": "Ka sol fuse du kela-supa eko un.",
+        "gloss": "DECL 1SG join two data-set toward one",
+        "english": "I merge two datasets into one."
+      }
+    },
+    {
+      "voku": "pula",
+      "english": "piece, fragment, small part",
+      "pos": "noun",
+      "ipa": "/ˈpu.la/",
+      "cefr": "A2",
+      "field": "abstract",
+      "etymology": "new root: related to puli (small) — small piece",
+      "example": {
+        "voku": "Ka kela kire-pu eko mani pula.",
+        "gloss": "DECL data divide-PASS toward many piece",
+        "english": "The data is divided into many pieces."
+      }
+    },
+    {
+      "voku": "kota-kona",
+      "english": "main branch, code core",
+      "pos": "noun",
+      "ipa": "/ˈko.ta.ˈko.na/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kota (code) + kona (core/center) — main code branch",
+      "example": {
+        "voku": "Ka kota-kona sere kota ta veri-pu en luke-pu ti.",
+        "gloss": "DECL main-branch store code REL verify-PASS and test-PASS",
+        "english": "The main branch stores verified and tested code."
+      }
+    },
+    {
+      "voku": "hire-foma",
+      "english": "interface, request structure",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from hire (request) + foma (structure) — interface structure",
+      "example": {
+        "voku": "Ka foru take-pu ulo hire-foma.",
+        "gloss": "DECL class execute-PASS via interface",
+        "english": "The class implements the interface."
+      }
+    },
+    {
+      "voku": "kufa-pera",
+      "english": "bug, code defect",
+      "pos": "noun",
+      "ipa": "/ˈku.fa.ˈpe.ra/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from kufa (code) + pera (error) — code error",
+      "example": {
+        "voku": "Ka sol tore kufa-pera eno fone-kufa.",
+        "gloss": "DECL 1SG search bug in function",
+        "english": "I search for a bug in the function."
+      }
+    },
+    {
+      "voku": "ulo",
+      "english": "via, through, by means of",
+      "pos": "preposition",
+      "ipa": "/ˈu.lo/",
+      "cefr": "B1",
+      "field": "relational",
+      "etymology": "new root: u- (abstract path) + -lo (route) — through a route",
+      "example": {
+        "voku": "Ka sol voke ulo hire-liku.",
+        "gloss": "DECL 1SG communicate via API",
+        "english": "I communicate via the API."
+      }
+    },
+    {
+      "voku": "noma-veri",
+      "english": "type (data type), number classification",
+      "pos": "adjective",
+      "ipa": "/ˈno.ma.ˈve.ri/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from noma (classification) + veri (valid) — valid classification",
+      "example": {
+        "voku": "Ka muta-kosa tuve noma-veri puri-noma.",
+        "gloss": "DECL variable have type integer",
+        "english": "The variable has type integer."
+      }
+    },
+    {
+      "voku": "kota-sena",
+      "english": "source code, original code",
+      "pos": "noun",
+      "ipa": "/ˈko.ta.ˈse.na/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from kota (code) + sena (source) — source code",
+      "example": {
+        "voku": "Ka sol lire kota-sena poro kele da-pre.",
+        "gloss": "DECL 1SG read source-code for understand it",
+        "english": "I read the source code to understand it."
+      }
+    },
+    {
+      "voku": "kufa-kila",
+      "english": "IDE, code tool/editor",
+      "pos": "noun",
+      "ipa": "/ˈku.fa.ˈki.la/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from kufa (code) + kila (tool) — code tool",
+      "example": {
+        "voku": "Ka sol ule kufa-kila poro sire kota.",
+        "gloss": "DECL 1SG use IDE for write code",
+        "english": "I use an IDE to write code."
+      }
+    },
+    {
+      "voku": "kile-kufa",
+      "english": "script, lightweight code",
+      "pos": "noun",
+      "ipa": "/ˈki.le.ˈku.fa/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from kile (light, variant) + kufa (code) — lightweight code",
+      "example": {
+        "voku": "Ka sol sire kile-kufa poro take toka rapi.",
+        "gloss": "DECL 1SG write script for do task quick",
+        "english": "I write a script to do the task quickly."
+      }
+    },
+    {
+      "voku": "vari",
+      "english": "various, diverse, different kinds",
+      "pos": "adjective",
+      "ipa": "/ˈva.ri/",
+      "cefr": "B1",
+      "field": "quality",
+      "etymology": "new root: from var- (varying) — of various kinds",
+      "example": {
+        "voku": "Ka teru tuve vari noma-veri.",
+        "gloss": "DECL system have various type",
+        "english": "The system has various types."
+      }
+    },
+    {
+      "voku": "kiru-foma",
+      "english": "algorithm, logic structure",
+      "pos": "noun",
+      "ipa": "/ˈki.ru.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from kiru (logic) + foma (structure) — logical structure",
+      "example": {
+        "voku": "Ka kiru-foma pine kema poro luke kela.",
+        "gloss": "DECL algorithm define path for evaluate data",
+        "english": "The algorithm defines steps to evaluate data."
+      }
+    },
+    {
+      "voku": "supa-kosa",
+      "english": "library (software), collection of tools",
+      "pos": "noun",
+      "ipa": "/ˈsu.pa.ˈko.sa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from supa (group/collection) + kosa (thing) — collection of tools",
+      "example": {
+        "voku": "Ka sol ule supa-kosa poro mu-meke tor kosa eso nul.",
+        "gloss": "DECL 1SG use library for NEG-create all thing from nothing",
+        "english": "I use a library to avoid building everything from scratch."
+      }
+    },
+    {
+      "voku": "foma-kufa",
+      "english": "framework, structural code foundation",
+      "pos": "noun",
+      "ipa": "/ˈfo.ma.ˈku.fa/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from foma (structure) + kufa (code) — structural code foundation",
+      "example": {
+        "voku": "Ka sol make reta-loka ulo foma-kufa.",
+        "gloss": "DECL 1SG build website via framework",
+        "english": "I build the website using a framework."
+      }
+    },
+    {
+      "voku": "kela-supa",
+      "english": "dataset, data collection",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈsu.pa/",
+      "cefr": "B1",
+      "field": "data",
+      "etymology": "from kela (data) + supa (group/set) — data group",
+      "example": {
+        "voku": "Ka kela-supa tuve mani kela-rima.",
+        "gloss": "DECL dataset have many record",
+        "english": "The dataset has many records."
+      }
+    },
+    {
+      "voku": "hire-kila",
+      "english": "search engine, query tool",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈki.la/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from hire (request) + kila (tool) — request tool",
+      "example": {
+        "voku": "Ka sol tore kela ulo hire-kila.",
+        "gloss": "DECL 1SG search data via search-engine",
+        "english": "I search for data using a search engine."
+      }
+    },
+    {
+      "voku": "reta-kufa",
+      "english": "web application, web code",
+      "pos": "noun",
+      "ipa": "/ˈre.ta.ˈku.fa/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from reta (web) + kufa (code) — web application",
+      "example": {
+        "voku": "Ka sol make reta-kufa kono foma-kufa.",
+        "gloss": "DECL 1SG build web-app with framework",
+        "english": "I build a web app with a framework."
+      }
+    },
+    {
+      "voku": "veke-foma",
+      "english": "UI, visual interface",
+      "pos": "noun",
+      "ipa": "/ˈve.ke.ˈfo.ma/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from veke (see/view) + foma (structure) — visual structure",
+      "example": {
+        "voku": "Ka veke-foma pine ve runa veke en ule reta-kufa.",
+        "gloss": "DECL UI define how agent see and use web-app",
+        "english": "The UI defines how users see and use the web app."
+      }
+    },
+    {
+      "voku": "kiru-kufa",
+      "english": "backend, logic code layer",
+      "pos": "noun",
+      "ipa": "/ˈki.ru.ˈku.fa/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from kiru (logic) + kufa (code) — logic code layer",
+      "example": {
+        "voku": "Ka kiru-kufa take hire-mesa en sure resa-mesa.",
+        "gloss": "DECL backend process request and send response",
+        "english": "The backend processes requests and sends responses."
+      }
+    },
+    {
+      "voku": "veke-kufa",
+      "english": "frontend, visual code layer",
+      "pos": "noun",
+      "ipa": "/ˈve.ke.ˈku.fa/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from veke (see) + kufa (code) — visual code layer",
+      "example": {
+        "voku": "Ka veke-kufa meke veke-foma poro runa.",
+        "gloss": "DECL frontend create UI for user",
+        "english": "The frontend creates the UI for the user."
+      }
+    },
+    {
+      "voku": "kela-mena",
+      "english": "JSON/XML, named data fomat",
+      "pos": "noun",
+      "ipa": "/ˈke.la.ˈme.na/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from kela (data) + mena (name/label) — labeled data fomat",
+      "example": {
+        "voku": "Ka hire-liku resa kono kela-mena.",
+        "gloss": "DECL API respond with JSON",
+        "english": "The API responds with JSON."
+      }
+    },
+    {
+      "voku": "sere-miru",
+      "english": "daemon, background stored process",
+      "pos": "abstraction",
+      "ipa": "/ˈse.re.ˈmi.ru/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from sere (store/persist) + miru (process) — persistent process",
+      "example": {
+        "voku": "Ka sere-miru du-take eno hefa tor tema.",
+        "gloss": "DECL daemon DUR-execute in server all time",
+        "english": "The daemon runs continuously on the server."
+      }
+    },
+    {
+      "voku": "kela-move",
+      "english": "stream, data flow",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈmo.ve/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from kela (data) + move (move/flow) — data flow",
+      "example": {
+        "voku": "Ka kela-move fore kela eso sena eko hire-runa.",
+        "gloss": "DECL stream carry data from source toward client",
+        "english": "The stream carries data from the source to the client."
+      }
+    },
+    {
+      "voku": "teru-veri",
+      "english": "production (environment), verified system",
+      "pos": "adjective",
+      "ipa": "/ˈte.ru.ˈve.ri/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from teru (system) + veri (true/valid) — production system",
+      "example": {
+        "voku": "Ka kufa-pera eno teru-veri ure mali.",
+        "gloss": "DECL bug in production be bad",
+        "english": "A bug in production is bad."
+      }
+    },
+    {
+      "voku": "luke-miru",
+      "english": "test (automated), process evaluation",
+      "pos": "abstraction",
+      "ipa": "/ˈlu.ke.ˈmi.ru/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from luke (evaluate) + miru (process) — process evaluation",
+      "example": {
+        "voku": "Ka kema-toka ru-take tor luke-miru.",
+        "gloss": "DECL pipeline RUN-execute all test",
+        "english": "The pipeline runs all tests."
+      }
+    },
+    {
+      "voku": "kela-pine",
+      "english": "schema, data design/plan",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈpi.ne/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from kela (data) + pine (plan/design) — data design",
+      "example": {
+        "voku": "Ka kela-pine pine foma de-kela-foma.",
+        "gloss": "DECL schema define structure of-table",
+        "english": "The schema defines the table structure."
+      }
+    },
+    {
+      "voku": "sere-kela-teru",
+      "english": "ORM, storage-database layer",
+      "pos": "abstraction",
+      "ipa": "/ˈse.re.ˈke.la.ˈte.ru/",
+      "cefr": "C1",
+      "field": "data",
+      "etymology": "from sere (store) + kela-teru (database) — database storage layer",
+      "example": {
+        "voku": "Ka sere-kela-teru hele kota voke kono kela-teru.",
+        "gloss": "DECL ORM help code communicate with database",
+        "english": "The ORM helps the code communicate with the database."
+      }
+    },
+    {
+      "voku": "mesa-supa",
+      "english": "message queue, message collection",
+      "pos": "noun",
+      "ipa": "/ˈme.sa.ˈsu.pa/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from mesa (message) + supa (group/collection) — message collection/queue",
+      "example": {
+        "voku": "Ka mesa-supa sere mesa ta va-take-pu ti.",
+        "gloss": "DECL queue store message REL QUEUE-process-PASS",
+        "english": "The queue stores messages to be processed."
+      }
+    },
+    {
+      "voku": "heke-mena",
+      "english": "encryption key, hidden name/key",
+      "pos": "noun",
+      "ipa": "/ˈhe.ke.ˈme.na/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from heke (hide) + mena (name/identifier) — hidden key/identifier",
+      "example": {
+        "voku": "Ka heke-kela neke heke-mena poro aze-kela.",
+        "gloss": "DECL encryption need key for decryption",
+        "english": "Encryption needs a key for decryption."
+      }
+    },
+    {
+      "voku": "savi-luke",
+      "english": "penetration test, security evaluation",
+      "pos": "verb",
+      "ipa": "/ˈsa.vi.ˈlu.ke/",
+      "cefr": "C1",
+      "field": "security",
+      "etymology": "from savi (safe) + luke (evaluate) — security evaluation test",
+      "example": {
+        "voku": "Ka sol take savi-luke poro tore mali-pora.",
+        "gloss": "DECL 1SG do pentest for find vulnerability",
+        "english": "I run a pentest to find vulnerabilities."
+      }
+    },
+    {
+      "voku": "veri-noma",
+      "english": "version, verified number/iteration",
+      "pos": "noun",
+      "ipa": "/ˈve.ri.ˈno.ma/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from veri (valid) + noma (number) — version number",
+      "example": {
+        "voku": "Ka kufa tuve veri-noma du-pun-no-un.",
+        "gloss": "DECL code have version two-point-zero-one",
+        "english": "The code is at version 2.0.1."
+      }
+    },
+    {
+      "voku": "voke-teru",
+      "english": "chat system, communication system",
+      "pos": "abstraction",
+      "ipa": "/ˈvo.ke.ˈte.ru/",
+      "cefr": "B1",
+      "field": "web",
+      "etymology": "from voke (communicate) + teru (system) — communication system",
+      "example": {
+        "voku": "Ka solri voke ulo voke-teru.",
+        "gloss": "DECL 1PL communicate via chat-system",
+        "english": "We communicate via the chat system."
+      }
+    },
+    {
+      "voku": "kela-heke",
+      "english": "data privacy, hidden data principle",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈhe.ke/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from kela (data) + heke (hide) — data hiding/privacy",
+      "example": {
+        "voku": "Ka kela-heke ure alati poro tor runa.",
+        "gloss": "DECL data-privacy be important for all agent",
+        "english": "Data privacy is important for everyone."
+      }
+    },
+    {
+      "voku": "nova",
+      "english": "release, new version entity",
+      "pos": "noun",
+      "ipa": "/ˈno.va/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "new root: from novi (new) nominalized — a new release",
+      "example": {
+        "voku": "Ka nova tuve mani fike-kufa.",
+        "gloss": "DECL release have many patch",
+        "english": "The release contains many patches."
+      }
+    },
+    {
+      "voku": "kile",
+      "english": "lightweight, minimal",
+      "pos": "verb",
+      "ipa": "/ˈki.le/",
+      "cefr": "B1",
+      "field": "quality",
+      "etymology": "new root: ki- (small) + -le (manner) — in a light manner",
+      "example": {
+        "voku": "Ka zena-kufa ure kile ani hefa-puri.",
+        "gloss": "DECL container be lightweight more-than full-server",
+        "english": "A container is lighter than a full server."
+      }
+    },
+    {
+      "voku": "kota-tema",
+      "english": "commit, code-time snapshot",
+      "pos": "noun",
+      "ipa": "/ˈko.ta.ˈte.ma/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from kota (code) + tema (time) — code snapshot at a point in time",
+      "example": {
+        "voku": "Ka sol meke kota-tema kono mesa.",
+        "gloss": "DECL 1SG create commit with message",
+        "english": "I create a commit with a message."
+      }
+    },
+    {
+      "voku": "runa-kila",
+      "english": "bot, automated agent tool",
+      "pos": "noun",
+      "ipa": "/ˈru.na.ˈki.la/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from runa (agent) + kila (tool) — agent tool/bot",
+      "example": {
+        "voku": "Ka runa-kila ha-take luke-miru tor zara.",
+        "gloss": "DECL bot HAB-execute test every day",
+        "english": "The bot runs tests every day."
+      }
+    },
+    {
+      "voku": "liku-pora",
+      "english": "endpoint, connection entry point",
+      "pos": "noun",
+      "ipa": "/ˈli.ku.ˈpo.ra/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from liku (link) + pora (opening/port) — connection entry point",
+      "example": {
+        "voku": "Ka hire-liku tuve mani liku-pora.",
+        "gloss": "DECL API have many endpoint",
+        "english": "The API has many endpoints."
+      }
+    },
+    {
+      "voku": "hire-vasa",
+      "english": "rate limit, request quantity limit",
+      "pos": "noun",
+      "ipa": "/ˈhi.re.ˈva.sa/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from hire (request) + vasa (quantity) — request quantity limit",
+      "example": {
+        "voku": "Ka hire-liku tuve hire-vasa de-heno hire eno tema un.",
+        "gloss": "DECL API have rate-limit of-hundred request in time one",
+        "english": "The API has a rate limit of 100 requests per minute."
+      }
+    },
+    {
+      "voku": "sere-runa",
+      "english": "session user, stored agent state",
+      "pos": "noun",
+      "ipa": "/ˈse.re.ˈru.na/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from sere (store) + runa (agent) — stored agent/user state",
+      "example": {
+        "voku": "Ka hefa sere kela de-sere-runa.",
+        "gloss": "DECL server store data of-session-user",
+        "english": "The server stores the session user's data."
+      }
+    },
+    {
+      "voku": "kota-pine",
+      "english": "architecture (software), code design",
+      "pos": "verb",
+      "ipa": "/ˈko.ta.ˈpi.ne/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from kota (code) + pine (plan/design) — code design/architecture",
+      "example": {
+        "voku": "Ka kota-pine pine ve tor pula kota take-me.",
+        "gloss": "DECL architecture define how all part code work-RECIP",
+        "english": "The architecture defines how all code parts work together."
+      }
+    },
+    {
+      "voku": "kufa-noma",
+      "english": "config, code settings/numbers",
+      "pos": "noun",
+      "ipa": "/ˈku.fa.ˈno.ma/",
+      "cefr": "B1",
+      "field": "devops",
+      "etymology": "from kufa (code) + noma (number/setting) — code settings",
+      "example": {
+        "voku": "Ka kufa-noma pine ve teru take.",
+        "gloss": "DECL config define how system execute",
+        "english": "The config defines how the system runs."
+      }
+    },
+    {
+      "voku": "kela-hire-voku",
+      "english": "SQL, data query language",
+      "pos": "abstraction",
+      "ipa": "/ˈke.la.ˈhi.re.ˈvo.ku/",
+      "cefr": "B2",
+      "field": "data",
+      "etymology": "from kela (data) + hire (request) + voku (language) — data request language",
+      "example": {
+        "voku": "Ka sol sire kela-hire-voku poro hire-kela kela-teru.",
+        "gloss": "DECL 1SG write SQL for query database",
+        "english": "I write SQL to query the database."
+      }
+    },
+    {
+      "voku": "teru-luke",
+      "english": "health check, system evaluation",
+      "pos": "verb",
+      "ipa": "/ˈte.ru.ˈlu.ke/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from teru (system) + luke (evaluate) — system check",
+      "example": {
+        "voku": "Ka runa-kila ha-take teru-luke tor pe-min tema.",
+        "gloss": "DECL bot HAB-do health-check every five-minute time",
+        "english": "The bot performs a health check every five minutes."
+      }
+    },
+    {
+      "voku": "savi-kema",
+      "english": "VPN, secure path/tunnel",
+      "pos": "noun",
+      "ipa": "/ˈsa.vi.ˈke.ma/",
+      "cefr": "B2",
+      "field": "security",
+      "etymology": "from savi (safe) + kema (path) — secure path/tunnel",
+      "example": {
+        "voku": "Ka sol ule savi-kema poro savi-liku eko liku-teru.",
+        "gloss": "DECL 1SG use VPN for secure-connection toward network",
+        "english": "I use a VPN for a secure connection to the network."
+      }
+    },
+    {
+      "voku": "hefa-puri",
+      "english": "bare metal server, complete server",
+      "pos": "adjective",
+      "ipa": "/ˈhe.fa.ˈpu.ri/",
+      "cefr": "C1",
+      "field": "devops",
+      "etymology": "from hefa (server) + puri (complete/whole) — complete physical server",
+      "example": {
+        "voku": "Ka hefa-puri tuve mani neke-kosa ani zena-kufa.",
+        "gloss": "DECL bare-metal have many dependency more-than container",
+        "english": "A bare metal server has more overhead than a container."
+      }
+    },
+    {
+      "voku": "noma-mena",
+      "english": "variable name, identifier",
+      "pos": "noun",
+      "ipa": "/ˈno.ma.ˈme.na/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from noma (number/identifier) + mena (name) — named identifier",
+      "example": {
+        "voku": "To nor ule noma-mena ta kele-pu rapi ti.",
+        "gloss": "IMP 2SG use identifier REL understand-PASS fast",
+        "english": "Use variable names that are easy to understand."
+      }
+    },
+    {
+      "voku": "heke-kufa",
+      "english": "obfuscation, code concealment",
+      "pos": "noun",
+      "ipa": "/ˈhe.ke.ˈku.fa/",
+      "cefr": "C1",
+      "field": "security",
+      "etymology": "from heke (hide) + kufa (code) — hidden/obfuscated code",
+      "example": {
+        "voku": "Ka heke-kufa meke kota ta lire-pu kumi ti.",
+        "gloss": "DECL obfuscation make code REL read-PASS hard",
+        "english": "Obfuscation makes code hard to read."
+      }
+    },
+    {
+      "voku": "kela-turi",
+      "english": "circular reference, data loop",
+      "pos": "adjective",
+      "ipa": "/ˈke.la.ˈtu.ri/",
+      "cefr": "C1",
+      "field": "programming",
+      "etymology": "from kela (data) + turi (round/circular) — circular data reference",
+      "example": {
+        "voku": "Ka kela-turi kes pera eno miru-kela.",
+        "gloss": "DECL circular-ref cause error in runtime",
+        "english": "A circular reference causes a runtime error."
+      }
+    },
+    {
+      "voku": "lore-kela",
+      "english": "memory (computing), remembered data",
+      "pos": "noun",
+      "ipa": "/ˈlo.re.ˈke.la/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from lore (remember) + kela (data) — remembered data / memory",
+      "example": {
+        "voku": "Ka miru neke lore-kela poro take.",
+        "gloss": "DECL process need memory for execute",
+        "english": "The process needs memory to execute."
+      }
+    },
+    {
+      "voku": "kule-kila",
+      "english": "processor, computation device",
+      "pos": "noun",
+      "ipa": "/ˈku.le.ˈki.la/",
+      "cefr": "B1",
+      "field": "programming",
+      "etymology": "from kule (compute) + kila (device/tool) — computation device",
+      "example": {
+        "voku": "Ka kule-kila take mani kiru-foma eno tema puli.",
+        "gloss": "DECL processor execute many algorithm in time small",
+        "english": "The processor executes many algorithms in a short time."
+      }
+    },
+    {
+      "voku": "pine-foma",
+      "english": "design pattern, design structure",
+      "pos": "noun",
+      "ipa": "/ˈpi.ne.ˈfo.ma/",
+      "cefr": "B2",
+      "field": "programming",
+      "etymology": "from pine (plan/design) + foma (structure) — design pattern",
+      "example": {
+        "voku": "Ka sol ule pine-foma poro kota ta kesi en fike-pu rapi ti.",
+        "gloss": "DECL 1SG use design-pattern for code REL clean and fix-PASS fast",
+        "english": "I use a design pattern for code that's clean and easy to fix."
+      }
+    },
+    {
+      "voku": "hefa-supa",
+      "english": "cluster, server group",
+      "pos": "noun",
+      "ipa": "/ˈhe.fa.ˈsu.pa/",
+      "cefr": "B2",
+      "field": "devops",
+      "etymology": "from hefa (server) + supa (group) — server group",
+      "example": {
+        "voku": "Ka hefa-supa tuve pe-du hefa ta take-me ti.",
+        "gloss": "DECL cluster have five-two server REL work-RECIP",
+        "english": "The cluster has twelve servers working together."
+      }
+    },
+    {
+      "voku": "kela-voke",
+      "english": "webhook, data communication trigger",
+      "pos": "verb",
+      "ipa": "/ˈke.la.ˈvo.ke/",
+      "cefr": "B2",
+      "field": "web",
+      "etymology": "from kela (data) + voke (communicate) — data-triggered communication",
+      "example": {
+        "voku": "Ka kela-voke sure mesa ta-tem kela mute-pu ti.",
+        "gloss": "DECL webhook send message when data change-PASS",
+        "english": "The webhook sends a message when data changes."
+      }
+    },
+    {
+      "voku": "liku-reku",
+      "english": "CORS, connection rules",
+      "pos": "abstraction",
+      "ipa": "/ˈli.ku.ˈre.ku/",
+      "cefr": "C1",
+      "field": "web",
+      "etymology": "from liku (link) + reku (rule) — connection rules",
+      "example": {
+        "voku": "Ka liku-reku pine vel ta reta-kufa pote hire eko vel ti.",
+        "gloss": "DECL CORS define who REL web-app can request toward who",
+        "english": "CORS defines which web apps can make cross-origin requests."
+      }
+    }
+  ]
+}
