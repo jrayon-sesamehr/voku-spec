@@ -35,6 +35,7 @@ lexicon/               ← Dictionary (363 roots, ~620 total), Swadesh 100%, by-
 expression/            ← Poetics, rhetoric, registers, anthology
 learning/              ← Curriculum, 10 A1 lessons, assessments
 tools/translator/      ← Python CLI + web translator (zero deps)
+DISCUSSION.md          ← Reflective essay: philosophy, motivation, open questions
 ```
 
 ## Reading Paths

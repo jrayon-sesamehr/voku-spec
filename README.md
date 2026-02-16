@@ -110,6 +110,10 @@ python3 tools/translator/cli.py "Ka sol kota-pine kufa." --direction voku-en --p
 | Full grammar knowledge | All grammar/ + writing-system/ | ~17,000 |
 | Complete specification | Everything | ~55,000 |
 
+## Discussion
+
+**[DISCUSSION.md](DISCUSSION.md)** — A long-form essay exploring *why* Voku exists, *how* it was built, and the philosophical questions it raises: Sapir-Whorf for AI, zero ambiguity vs expressiveness, language vs protocol, consciousness, adoption, and the politics of language design.
+
 ## Version History
 
 See [CHANGELOG.md](CHANGELOG.md) for full version history.
